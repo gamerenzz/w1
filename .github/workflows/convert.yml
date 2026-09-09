@@ -2,9 +2,9 @@ name: Generate Clash Meta Config
 
 on:
   schedule:
-    # 每天北京时间 08:00 和 20:00 各自动执行一次
-    - cron: '0 0,12 * * *'
-  workflow_dispatch: # 支持网页上手动点击运行
+    # 每 4 个小时自动执行一次（北京时间 00:00, 04:00, 08:00, 12:00, 16:00, 20:00）
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # 支持随时在网页端手动点击 Run workflow 触发
 
 jobs:
   build:
@@ -28,10 +28,10 @@ jobs:
           import base64
           import urllib.parse
           import yaml
+          import glob
 
           def safe_b64decode(s):
               s = s.strip()
-              # 补齐 base64 填充符
               missing_padding = len(s) % 4
               if missing_padding:
                   s += '=' * (4 - missing_padding)
@@ -155,8 +155,7 @@ jobs:
                   node['ws-opts'] = ws_opts
               return node
 
-          # 1. 抓取并提取所有节点
-          import glob
+          # 1. 提取所有节点链接
           all_lines = set()
           for file_path in glob.glob('raw_data/*.txt'):
               with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -176,7 +175,7 @@ jobs:
                       proxies.append(parse_trojan(line))
                   elif line.startswith('vmess://'):
                       proxies.append(parse_vmess(line))
-              except Exception as e:
+              except Exception:
                   continue
 
           if not proxies:
@@ -196,7 +195,7 @@ jobs:
               unique_names.add(new_name)
               proxy_names.append(new_name)
 
-          # 3. 读取 template.yaml 并注入
+          # 3. 读取自定义 template.yaml 并注入节点
           with open('template.yaml', 'r', encoding='utf-8') as f:
               template_data = yaml.safe_load(f)
 
@@ -206,11 +205,10 @@ jobs:
               if group['name'] in ['🚀 节点选择', '♻️ 自动选择']:
                   group['proxies'].extend(proxy_names)
 
-          # 4. 导出最终配置
+          # 4. 生成最终配置文件
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          # 统计打印
           stats = {}
           for p in proxies:
               stats[p['type']] = stats.get(p['type'], 0) + 1
