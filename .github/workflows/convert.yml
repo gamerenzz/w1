@@ -4,7 +4,7 @@ on:
   schedule:
     # 每天北京时间 08:00 和 20:00 各自动执行一次
     - cron: '0 0,12 * * *'
-  workflow_dispatch: # 支持网页上手动点击“Run workflow”
+  workflow_dispatch: # 支持手动触发
 
 jobs:
   build:
@@ -14,30 +14,44 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Run Subconverter Service
+      - name: Download & Clean Node Links
         run: |
-          # 启动 subconverter 本地容器服务（用于高效解析 Vless-reality 和 Hy2）
-          docker run -d --name subconv -p 25500:25500 tindy2013/subconverter:latest
-          sleep 3
+          mkdir -p raw_data
+          # 1. 宿主机直接下载原始文件（使用真实 '+' 规避转义错误）
+          curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt" -o raw_data/1.txt
+          curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt" -o raw_data/2.txt
+          curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt" -o raw_data/3.txt
 
-      - name: Download Nodes and Convert to Clash.Meta
+          # 2. 清洗数据：合并、去空行、去注释、提取合法的代理协议行
+          cat raw_data/*.txt | grep -E '^(vless|hysteria2|vmess|trojan|ss)://' | sort -u > all_nodes.txt
+          
+          echo "清洗后的有效节点总数："
+          wc -l all_nodes.txt
+
+          # 3. 转换为 Base64 订阅格式（Subconverter 最稳定支持的格式）
+          base64 -w 0 all_nodes.txt > nodes_b64.txt
+
+      - name: Start Local Services
         run: |
-          # 待合并抓取的 3 个源链接（Raw 格式）
-          URL1="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS%2BAll_RUS.txt"
-          URL2="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
-          URL3="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt"
+          # 启动本地 HTTP 文件服务供容器读取
+          python3 -m http.server 8080 &
+          
+          # 使用 --network host 启动 subconverter，以便直接访问宿主机的 8080 端口
+          docker run -d --name subconv --network host tindy2013/subconverter:latest
+          sleep 4
 
-          # 拼接收敛 URL（多个订阅用 '|' 拼接并经过 URL 编码）
-          SUBS_COMBINED="${URL1}|${URL2}|${URL3}"
-          ENCODED_SUBS=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$SUBS_COMBINED'''))")
+      - name: Convert to Clash.Meta
+        run: |
+          # 请求本地 subconverter 进行转换
+          curl -s "http://127.0.0.1:25500/sub?target=clash&new_name=true&url=http://127.0.0.1:8080/nodes_b64.txt" -o raw_clash.yaml
 
-          # 转换核心请求：target 必须为 clash（或 meta）
-          # 通过本地 subconverter 服务进行转换
-          curl -s "http://127.0.0.1:25500/sub?target=clash&new_name=true&url=${ENCODED_SUBS}&insert=false" -o raw_clash.yaml
+          # 输出前 20 行日志用于检查，避免静默失败
+          echo "=== Subconverter 转换结果预览 ==="
+          head -n 20 raw_clash.yaml
 
-          # 检查是否成功获取到了节点 proxies
+          # 校验是否包含 proxies
           if ! grep -q "proxies:" raw_clash.yaml; then
-            echo "错误：未成功解析出节点！"
+            echo "错误：Subconverter 未能输出有效节点，请检查上方日志！"
             exit 1
           fi
 
@@ -46,33 +60,39 @@ jobs:
           python3 - << 'EOF'
           import yaml
 
-          # 读取转换出来的节点
+          # 1. 读取转换出来的节点
           with open('raw_clash.yaml', 'r', encoding='utf-8') as f:
               raw_data = yaml.safe_load(f)
           proxies = raw_data.get('proxies', [])
+          
+          if not proxies:
+              raise ValueError("没有提取到任何有效节点！")
 
-          # 提取所有节点的名称
-          proxy_names = [p['name'] for p in proxies]
+          # 2. 处理重名节点，获取名称列表
+          proxy_names = []
+          for idx, p in enumerate(proxies):
+              # 如果有同名节点，加序号防止 Clash 报错
+              if p['name'] in proxy_names:
+                  p['name'] = f"{p['name']}_{idx+1}"
+              proxy_names.append(p['name'])
 
-          # 读取自定义规则模板
+          # 3. 读取用户自定义的规则模板
           with open('template.yaml', 'r', encoding='utf-8') as f:
               template_data = yaml.safe_load(f)
 
-          # 写入节点
+          # 4. 将节点注入模板
           template_data['proxies'] = proxies
 
-          # 将节点加入对应的策略组中
+          # 5. 注入到对应策略组
           for group in template_data.get('proxy-groups', []):
-              if group['name'] == '🚀 节点选择':
-                  group['proxies'].extend(proxy_names)
-              elif group['name'] == '♻️ 自动选择':
+              if group['name'] in ['🚀 节点选择', '♻️ 自动选择']:
                   group['proxies'].extend(proxy_names)
 
-          # 输出最终的 Clash.Meta 配置文件
+          # 6. 生成最终文件
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          print(f"成功合并完成，共载入 {len(proxies)} 个节点！")
+          print(f"合并完成！共注入 {len(proxies)} 个有效节点。")
           EOF
 
       - name: Commit and Push
