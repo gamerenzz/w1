@@ -1,0 +1,620 @@
+port: 7890
+socks-port: 7891
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+unified-delay: true
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:1053
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+  - 223.5.5.5
+  - 119.29.29.29
+  nameserver:
+  - https://doh.pub/dns-query
+  - https://dns.alidns.com/dns-query
+  fallback:
+  - https://1.1.1.1/dns-query
+  - https://8.8.8.8/dns-query
+proxy-groups:
+- name: 🚀 节点选择
+  type: select
+  proxies:
+  - ♻️ 自动选择
+  - 🎯 全球直连
+  - South Korea, Yangcheondong | [BL]
+  - Japan, Inzai (Otsuka) | [BL]
+  - Germany, Frankfurt am Main | [BL]
+  - Finland, Helsinki | [BL]
+  - The Netherlands, Eygelshoven | [BL]
+  - Sweden, Stockholm | [BL]
+  - South Korea, Chuncheon-si | [BL]
+  - South Korea, Chuncheon-si | [BL] 2
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL]
+  - Switzerland | 🌐 | [BL]
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
+  - The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - Romania, Bucharest | [BL]
+  - Malaysia, Cyberjaya | [BL]
+  - South Korea, Yangcheondong | [BL] 2
+  - South Korea, Yangcheondong | [BL] 3
+  - South Korea, Yangcheondong | [BL] 4
+  - Switzerland, Oberengstringen | 🌐 | [BL]
+  - Switzerland | 🌐 | [BL] 2
+  - Switzerland | 🌐 | [BL] 3
+  - Switzerland | 🌐 | [BL] 4
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
+  - The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - Romania, Bucharest | [BL] 2
+  - Germany, Frankfurt am Main | [BL] 2
+  - Australia, Sydney | [BL]
+  - Australia, Sydney | [BL] 2
+  - Australia, Sydney | [BL] 3
+  - Australia, Sydney | [BL] 4
+  - France, Paris | [BL]
+  - Finland, Helsinki | [BL] 2
+  - Finland, Helsinki | [BL] 3
+  - Finland, Helsinki | [BL] 4
+  - The Netherlands, Amsterdam | [BL]
+  - Brazil, São Paulo | 🌐 | [BL]
+  - Israel, Jerusalem | [BL]
+  - Singapore, Singapore (Loyang) | 🌐 | [BL]
+  - China, Guilin | [BL]
+  - China, Guilin | [BL] 2
+  - China, Guilin | [BL] 3
+  - China, Guilin | [BL] 4
+  - Hong Kong, Hong Kong | [BL]
+  - The Netherlands, Amsterdam | [BL] 2
+  - The Netherlands, Amsterdam | [BL] 3
+  - The Netherlands, Amsterdam | [BL] 4
+  - The Netherlands, Amsterdam | [BL] 5
+  - United States, St Louis (Downtown) | [BL]
+  - The Netherlands, Amsterdam | [BL] 6
+  - Thailand, Bangkok | [BL]
+  - Germany | 🌐 | [BL]
+  - The Netherlands, Amsterdam | [BL] 7
+- name: ♻️ 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+  - South Korea, Yangcheondong | [BL]
+  - Japan, Inzai (Otsuka) | [BL]
+  - Germany, Frankfurt am Main | [BL]
+  - Finland, Helsinki | [BL]
+  - The Netherlands, Eygelshoven | [BL]
+  - Sweden, Stockholm | [BL]
+  - South Korea, Chuncheon-si | [BL]
+  - South Korea, Chuncheon-si | [BL] 2
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL]
+  - Switzerland | 🌐 | [BL]
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
+  - The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - Romania, Bucharest | [BL]
+  - Malaysia, Cyberjaya | [BL]
+  - South Korea, Yangcheondong | [BL] 2
+  - South Korea, Yangcheondong | [BL] 3
+  - South Korea, Yangcheondong | [BL] 4
+  - Switzerland, Oberengstringen | 🌐 | [BL]
+  - Switzerland | 🌐 | [BL] 2
+  - Switzerland | 🌐 | [BL] 3
+  - Switzerland | 🌐 | [BL] 4
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
+  - Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
+  - The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - Romania, Bucharest | [BL] 2
+  - Germany, Frankfurt am Main | [BL] 2
+  - Australia, Sydney | [BL]
+  - Australia, Sydney | [BL] 2
+  - Australia, Sydney | [BL] 3
+  - Australia, Sydney | [BL] 4
+  - France, Paris | [BL]
+  - Finland, Helsinki | [BL] 2
+  - Finland, Helsinki | [BL] 3
+  - Finland, Helsinki | [BL] 4
+  - The Netherlands, Amsterdam | [BL]
+  - Brazil, São Paulo | 🌐 | [BL]
+  - Israel, Jerusalem | [BL]
+  - Singapore, Singapore (Loyang) | 🌐 | [BL]
+  - China, Guilin | [BL]
+  - China, Guilin | [BL] 2
+  - China, Guilin | [BL] 3
+  - China, Guilin | [BL] 4
+  - Hong Kong, Hong Kong | [BL]
+  - The Netherlands, Amsterdam | [BL] 2
+  - The Netherlands, Amsterdam | [BL] 3
+  - The Netherlands, Amsterdam | [BL] 4
+  - The Netherlands, Amsterdam | [BL] 5
+  - United States, St Louis (Downtown) | [BL]
+  - The Netherlands, Amsterdam | [BL] 6
+  - Thailand, Bangkok | [BL]
+  - Germany | 🌐 | [BL]
+  - The Netherlands, Amsterdam | [BL] 7
+- name: 🎯 全球直连
+  type: select
+  proxies:
+  - DIRECT
+- name: 🛑 广告拦截
+  type: select
+  proxies:
+  - REJECT
+  - DIRECT
+- name: 🐟 漏网之鱼
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - 🎯 全球直连
+rules:
+- GEOIP,lan,🎯 全球直连,no-resolve
+- GEOIP,private,🎯 全球直连,no-resolve
+- DST-PORT,53,🎯 全球直连
+- DST-PORT,123,🎯 全球直连
+- GEOSITE,category-ads-all,🛑 广告拦截
+- GEOSITE,cn,🎯 全球直连
+- GEOSITE,bilibili,🎯 全球直连
+- GEOSITE,tencent,🎯 全球直连
+- GEOSITE,alibaba,🎯 全球直连
+- GEOSITE,baidu,🎯 全球直连
+- GEOIP,cn,🎯 全球直连
+- GEOSITE,telegram,🚀 节点选择
+- GEOSITE,youtube,🚀 节点选择
+- GEOSITE,google,🚀 节点选择
+- GEOSITE,github,🚀 节点选择
+- GEOSITE,geolocation-!cn,🚀 节点选择
+- MATCH,🐟 漏网之鱼
+proxies:
+- name: South Korea, Yangcheondong | [BL]
+  server: 132.226.226.189
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 1671a252e2a97dc2bda4e515475931da
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: Japan, Inzai (Otsuka) | [BL]
+  server: 138.3.208.26
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 184cdec28da5a09450803c8debcd2cc9
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: Germany, Frankfurt am Main | [BL]
+  server: de-four.online-vpn.online
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
+  sni: de-four.online-vpn.online
+- name: Finland, Helsinki | [BL]
+  server: fi-two.online-vpn.online
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
+  sni: fi-two.online-vpn.online
+- name: The Netherlands, Eygelshoven | [BL]
+  server: nl-two.online-vpn.online
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
+  sni: nl-two.online-vpn.online
+- name: Sweden, Stockholm | [BL]
+  server: swe-two.online-vpn.online
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
+  sni: swe-two.online-vpn.online
+- name: South Korea, Chuncheon-si | [BL]
+  server: 152.67.200.82
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  sni: css.rbxcdn.com
+  skip-cert-verify: true
+- name: South Korea, Chuncheon-si | [BL] 2
+  server: 152.67.200.82
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  sni: speedtest.tinkoff.ru
+  skip-cert-verify: true
+- name: Germany, Frankfurt am Main (Innenstadt I) | [BL]
+  server: dg2.mangshe.xyz
+  port: 2056
+  type: hysteria2
+  ports: 2056
+  password: 41f0d6d3-4a45-4635-8225-2abd2284189b
+  skip-cert-verify: true
+- name: Switzerland | 🌐 | [BL]
+  server: che01plrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
+  sni: che01plrhy01.tcp-reset-club.net
+- name: Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
+  server: deu0003ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
+  sni: deu0003ntrhy01.tcp-reset-club.net
+  skip-cert-verify: true
+- name: The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
+  sni: nl01ntrhy01.tcp-reset-club.net
+  skip-cert-verify: true
+- name: Romania, Bucharest | [BL]
+  server: rou0001ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
+  sni: rou0001ntrhy01.tcp-reset-club.net
+- name: Malaysia, Cyberjaya | [BL]
+  server: mlxy2.mangshe.xyz
+  port: 2060
+  type: hysteria2
+  ports: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  sni: mlxy2.mangshe.xyz
+  skip-cert-verify: true
+- name: South Korea, Yangcheondong | [BL] 2
+  server: 131.186.19.174
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 7302ad33229de166d393cd56143a1e4c
+  sni: css.rbxcdn.com
+  skip-cert-verify: true
+- name: South Korea, Yangcheondong | [BL] 3
+  server: 131.186.19.174
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 7302ad33229de166d393cd56143a1e4c
+  sni: speedtest.tinkoff.ru
+  skip-cert-verify: true
+- name: South Korea, Yangcheondong | [BL] 4
+  server: 131.186.19.174
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 7302ad33229de166d393cd56143a1e4c
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: Switzerland, Oberengstringen | 🌐 | [BL]
+  server: 140.238.213.114
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: 84a506ca5aca505696a454d828420b3f
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: Switzerland | 🌐 | [BL] 2
+  server: che01plrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  skip-cert-verify: true
+- name: Switzerland | 🌐 | [BL] 3
+  server: che01plrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: Switzerland | 🌐 | [BL] 4
+  server: che01plrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  sni: che01plrhy01.tcp-reset-club.net
+  skip-cert-verify: true
+- name: Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
+  server: deu0003ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  skip-cert-verify: true
+- name: Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
+  server: deu0003ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
+  server: deu0003ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  sni: deu0003ntrhy01.tcp-reset-club.net
+- name: The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  sni: nl01ntrhy01.tcp-reset-club.net
+  skip-cert-verify: true
+- name: Romania, Bucharest | [BL] 2
+  server: rou0001ntrhy01.tcp-reset-club.net
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  sni: rou0001ntrhy01.tcp-reset-club.net
+  skip-cert-verify: true
+- name: Germany, Frankfurt am Main | [BL] 2
+  server: 162.249.126.7
+  port: 8443
+  type: hysteria2
+  ports: 8443
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  sni: hopp-germany-new.ddnsguru.com
+  skip-cert-verify: true
+- name: Australia, Sydney | [BL]
+  server: vpn-au-002.fastervpn.world
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  sni: css.rbxcdn.com
+  skip-cert-verify: true
+- name: Australia, Sydney | [BL] 2
+  server: vpn-au-002.fastervpn.world
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  sni: speedtest.tinkoff.ru
+  skip-cert-verify: true
+- name: Australia, Sydney | [BL] 3
+  server: vpn-au-002.fastervpn.world
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  sni: t.me
+  skip-cert-verify: true
+- name: Australia, Sydney | [BL] 4
+  server: vpn-au-002.fastervpn.world
+  port: 443
+  type: hysteria2
+  ports: 443
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: France, Paris | [BL]
+  server: 85.204.107.186
+  port: 8443
+  type: hysteria2
+  ports: 8443
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  sni: hopp-romania-new.roxa.org
+  skip-cert-verify: true
+- name: Finland, Helsinki | [BL] 2
+  server: fr.vpn.legendaah.xyz
+  port: 36723
+  type: hysteria2
+  ports: 36723
+  password: Krab9Hyst2_Rk7pQ2xL
+  skip-cert-verify: true
+- name: Finland, Helsinki | [BL] 3
+  server: fr.vpn.legendaah.xyz
+  port: 36723
+  type: hysteria2
+  ports: 36723
+  password: Krab9Hyst2_Rk7pQ2xL
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: Finland, Helsinki | [BL] 4
+  server: fr.vpn.legendaah.xyz
+  port: 36723
+  type: hysteria2
+  ports: 36723
+  password: Krab9Hyst2_Rk7pQ2xL
+  sni: fr.vpn.legendaah.xyz
+  skip-cert-verify: true
+- name: The Netherlands, Amsterdam | [BL]
+  server: 205.237.109.176
+  port: 8443
+  type: hysteria2
+  ports: 8443
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  sni: hopp-netherland-new.dynuddns.net
+  skip-cert-verify: true
+- name: Brazil, São Paulo | 🌐 | [BL]
+  server: brb.nnpy.org
+  port: 11100
+  type: hysteria2
+  ports: 11100
+  password: df8d55f9-fb51-442d-902a-bf8160dc051b
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: Israel, Jerusalem | [BL]
+  server: 129.159.156.109
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: f25f19f29ce3fb53a35bf1b35b452a43
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: Singapore, Singapore (Loyang) | 🌐 | [BL]
+  server: 138.2.73.238
+  port: 50160
+  type: hysteria2
+  ports: 50160
+  password: f87376e17da040ed04c9665ce8972930
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: China, Guilin | [BL]
+  server: 100.42.228.109
+  port: 443
+  type: trojan
+  password: BxceQaOe
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+- name: China, Guilin | [BL] 2
+  server: 100.42.228.109
+  port: 443
+  type: trojan
+  password: BxceQaOe
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+- name: China, Guilin | [BL] 3
+  server: 100.42.228.109
+  port: 443
+  type: trojan
+  password: BxceQaOe
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+- name: China, Guilin | [BL] 4
+  server: 100.42.228.109
+  port: 443
+  type: trojan
+  password: BxceQaOe
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+- name: Hong Kong, Hong Kong | [BL]
+  server: 93ucrn4i0pffuabk.v.3dns.vip
+  port: 443
+  type: vmess
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: 93ucrn4i0pffuabk.v.3dns.vip
+- name: The Netherlands, Amsterdam | [BL] 2
+  server: 78.17.71.236
+  port: 33736
+  type: vmess
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+- name: The Netherlands, Amsterdam | [BL] 3
+  server: 78.17.71.236
+  port: 33736
+  type: vmess
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+    headers:
+      Host: Telegram-Leviko_v2ray
+- name: The Netherlands, Amsterdam | [BL] 4
+  server: 78.17.71.236
+  port: 33736
+  type: vmess
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+- name: The Netherlands, Amsterdam | [BL] 5
+  server: 78.17.71.236
+  port: 33736
+  type: vmess
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  alterId: 0
+  cipher: auto
+  tls: false
+  servername: telegram-leviko_v2ray
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+    headers:
+      Host: telegram-leviko_v2ray
+- name: United States, St Louis (Downtown) | [BL]
+  server: 172.64.80.1
+  port: 8443
+  type: vmess
+  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: ws
+  ws-opts:
+    path: /lMnsZUN4/
+    headers:
+      Host: v2ray1.dozapp.xyz
+- name: The Netherlands, Amsterdam | [BL] 6
+  server: 78.17.71.236
+  port: 33736
+  type: vmess
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+- name: Thailand, Bangkok | [BL]
+  server: 118.193.57.167
+  port: 49667
+  type: vmess
+  uuid: d46bf492-45f4-4c33-82d1-ea2a1cb54eb6
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /d46bf492
+- name: Germany | 🌐 | [BL]
+  server: xgr.goldnshop.com
+  port: 2083
+  type: vmess
+  uuid: beadd688-6285-4f0e-bb5e-d984570567a4
+  alterId: 0
+  cipher: auto
+  tls: false
+- name: The Netherlands, Amsterdam | [BL] 7
+  server: 78.17.71.236
+  port: 33736
+  type: vmess
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+    headers:
+      Host: Telegram-Leviko_v2ray
