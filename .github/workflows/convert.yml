@@ -29,6 +29,7 @@ jobs:
           import urllib.parse
           import yaml
           import glob
+          import re
 
           def safe_b64decode(s):
               s = s.strip()
@@ -195,9 +196,13 @@ jobs:
               unique_names.add(new_name)
               proxy_names.append(new_name)
 
-          # 3. 读取 template.yaml 并注入
-          with open('template.yaml', 'r', encoding='utf-8') as f:
-              template_data = yaml.safe_load(f)
+          # 3. 读取 template.yaml 并清洗不可见特殊字符（防止 ReaderError #x008f 等错误）
+          with open('template.yaml', 'r', encoding='utf-8', errors='ignore') as f:
+              raw_template_text = f.read()
+          
+          # 正则移除所有非打印控制字符（保留换行、回车、Tab）
+          clean_template_text = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F]', '', raw_template_text)
+          template_data = yaml.safe_load(clean_template_text)
 
           template_data['proxies'] = proxies
 
@@ -211,7 +216,7 @@ jobs:
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          print(f"合并完成！共注入 {len(proxies)} 个有效节点并配置好 AI / 苹果 / 微软 分流。")
+          print(f"合并完成！共注入 {len(proxies)} 个有效节点，配置已净化并生成完毕。")
           EOF
 
       - name: Commit and Push
