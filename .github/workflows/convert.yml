@@ -4,7 +4,7 @@ on:
   schedule:
     # 每 4 个小时自动执行一次（北京时间 00:00, 04:00, 08:00, 12:00, 16:00, 20:00）
     - cron: '0 */4 * * *'
-  workflow_dispatch: # 支持随时在网页端手动点击 Run workflow 触发
+  workflow_dispatch: # 支持手动点击运行
 
 jobs:
   build:
@@ -155,7 +155,7 @@ jobs:
                   node['ws-opts'] = ws_opts
               return node
 
-          # 1. 提取所有节点链接
+          # 1. 抓取并解析节点
           all_lines = set()
           for file_path in glob.glob('raw_data/*.txt'):
               with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -195,28 +195,23 @@ jobs:
               unique_names.add(new_name)
               proxy_names.append(new_name)
 
-          # 3. 读取自定义 template.yaml 并注入节点
+          # 3. 读取 template.yaml 并注入
           with open('template.yaml', 'r', encoding='utf-8') as f:
               template_data = yaml.safe_load(f)
 
           template_data['proxies'] = proxies
 
+          # 为需要选择节点的策略组注入所有节点列表
+          target_groups = ['🚀 节点选择', '♻️ 自动选择', '🤖 人工智能', '🍎 苹果服务', '🪟 微软服务']
           for group in template_data.get('proxy-groups', []):
-              if group['name'] in ['🚀 节点选择', '♻️ 自动选择']:
+              if group['name'] in target_groups:
                   group['proxies'].extend(proxy_names)
 
           # 4. 生成最终配置文件
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          stats = {}
-          for p in proxies:
-              stats[p['type']] = stats.get(p['type'], 0) + 1
-
-          print("=== 节点提取统计结果 ===")
-          print(f"总计成功载入: {len(proxies)} 个节点")
-          for k, v in stats.items():
-              print(f"- {k.upper()}: {v} 个")
+          print(f"合并完成！共注入 {len(proxies)} 个有效节点并配置好 AI / 苹果 / 微软 分流。")
           EOF
 
       - name: Commit and Push
