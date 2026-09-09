@@ -4,7 +4,7 @@ on:
   schedule:
     # 每天北京时间 08:00 和 20:00 各自动执行一次
     - cron: '0 0,12 * * *'
-  workflow_dispatch: # 支持手动触发
+  workflow_dispatch: # 支持手动点击 Run workflow 触发
 
 jobs:
   build:
@@ -17,41 +17,45 @@ jobs:
       - name: Download & Clean Node Links
         run: |
           mkdir -p raw_data
-          # 1. 宿主机直接下载原始文件（使用真实 '+' 规避转义错误）
+          # 1. 宿主机直接下载 3 个原始文件
           curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt" -o raw_data/1.txt
           curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt" -o raw_data/2.txt
           curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt" -o raw_data/3.txt
 
-          # 2. 清洗数据：合并、去空行、去注释、提取合法的代理协议行
+          # 2. 清洗数据：提取合法的代理协议行并去重
           cat raw_data/*.txt | grep -E '^(vless|hysteria2|vmess|trojan|ss)://' | sort -u > all_nodes.txt
           
-          echo "清洗后的有效节点总数："
+          echo "=== 清洗去重后的有效链接总数 ==="
           wc -l all_nodes.txt
 
-          # 3. 转换为 Base64 订阅格式（Subconverter 最稳定支持的格式）
+          # 3. 转换为 Base64 订阅格式传递给转换器
           base64 -w 0 all_nodes.txt > nodes_b64.txt
 
       - name: Start Local Services
         run: |
-          # 启动本地 HTTP 文件服务供容器读取
+          # 启动本地 HTTP 服务供容器读取
           python3 -m http.server 8080 &
           
-          # 使用 --network host 启动 subconverter，以便直接访问宿主机的 8080 端口
+          # 启动 Subconverter 容器
           docker run -d --name subconv --network host tindy2013/subconverter:latest
           sleep 4
 
       - name: Convert to Clash.Meta
         run: |
-          # 请求本地 subconverter 进行转换
-          curl -s "http://127.0.0.1:25500/sub?target=clash&new_name=true&url=http://127.0.0.1:8080/nodes_b64.txt" -o raw_clash.yaml
+          # 关键参数：加上 clash.meta=true 和 ver=4，强制转换器保留 VLESS-Reality 节点
+          curl -s "http://127.0.0.1:25500/sub?target=clash&clash.meta=true&ver=4&new_name=true&url=http://127.0.0.1:8080/nodes_b64.txt" -o raw_clash.yaml
 
-          # 输出前 20 行日志用于检查，避免静默失败
-          echo "=== Subconverter 转换结果预览 ==="
-          head -n 20 raw_clash.yaml
+          # 输出日志，用于确认 VLESS 节点是否已成功导出
+          echo "=== 检查 VLESS 节点保留情况 ==="
+          if grep -q "type: vless" raw_clash.yaml; then
+            echo "✅ 成功提取到 VLESS-Reality 节点！"
+          else
+            echo "⚠️ 警告：未检测到 VLESS 节点，请检查节点源！"
+          fi
 
-          # 校验是否包含 proxies
           if ! grep -q "proxies:" raw_clash.yaml; then
-            echo "错误：Subconverter 未能输出有效节点，请检查上方日志！"
+            echo "错误：未能输出任何节点！"
+            cat raw_clash.yaml
             exit 1
           fi
 
@@ -68,31 +72,46 @@ jobs:
           if not proxies:
               raise ValueError("没有提取到任何有效节点！")
 
-          # 2. 处理重名节点，获取名称列表
+          # 2. 节点去重和重命名（防止同名节点导致客户端加载失败）
           proxy_names = []
           for idx, p in enumerate(proxies):
-              # 如果有同名节点，加序号防止 Clash 报错
-              if p['name'] in proxy_names:
-                  p['name'] = f"{p['name']}_{idx+1}"
-              proxy_names.append(p['name'])
+              base_name = p['name']
+              new_name = base_name
+              count = 1
+              while new_name in proxy_names:
+                  count += 1
+                  new_name = f"{base_name} {count}"
+              p['name'] = new_name
+              proxy_names.append(new_name)
 
-          # 3. 读取用户自定义的规则模板
+          # 3. 读取自定义规则模板
           with open('template.yaml', 'r', encoding='utf-8') as f:
               template_data = yaml.safe_load(f)
 
           # 4. 将节点注入模板
           template_data['proxies'] = proxies
 
-          # 5. 注入到对应策略组
+          # 5. 注入到对应策略组中
           for group in template_data.get('proxy-groups', []):
               if group['name'] in ['🚀 节点选择', '♻️ 自动选择']:
                   group['proxies'].extend(proxy_names)
 
-          # 6. 生成最终文件
+          # 6. 生成最终的 Clash.Meta 配置文件
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          print(f"合并完成！共注入 {len(proxies)} 个有效节点。")
+          # 统计各类协议数量
+          vless_count = sum(1 for p in proxies if p.get('type') == 'vless')
+          hy2_count = sum(1 for p in proxies if p.get('type') == 'hysteria2')
+          vmess_count = sum(1 for p in proxies if p.get('type') == 'vmess')
+          trojan_count = sum(1 for p in proxies if p.get('type') == 'trojan')
+
+          print(f"=== 合并统计 ===")
+          print(f"总节点数: {len(proxies)}")
+          print(f"VLESS 节点: {vless_count}")
+          print(f"Hysteria2 节点: {hy2_count}")
+          print(f"VMess 节点: {vmess_count}")
+          print(f"Trojan 节点: {trojan_count}")
           EOF
 
       - name: Commit and Push
@@ -100,4 +119,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add clash_config.yaml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update Clash Config: $(date '+%Y-%m-%d %H:%M:%S')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update Clash Meta Config: $(date '+%Y-%m-%d %H:%M:%S')" && git push)
