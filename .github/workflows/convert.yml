@@ -1,0 +1,83 @@
+name: Generate Clash Meta Config
+
+on:
+  schedule:
+    # 每天北京时间 08:00 和 20:00 各自动执行一次
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 支持网页上手动点击“Run workflow”
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Run Subconverter Service
+        run: |
+          # 启动 subconverter 本地容器服务（用于高效解析 Vless-reality 和 Hy2）
+          docker run -d --name subconv -p 25500:25500 tindy2013/subconverter:latest
+          sleep 3
+
+      - name: Download Nodes and Convert to Clash.Meta
+        run: |
+          # 待合并抓取的 3 个源链接（Raw 格式）
+          URL1="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS%2BAll_RUS.txt"
+          URL2="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
+          URL3="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt"
+
+          # 拼接收敛 URL（多个订阅用 '|' 拼接并经过 URL 编码）
+          SUBS_COMBINED="${URL1}|${URL2}|${URL3}"
+          ENCODED_SUBS=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$SUBS_COMBINED'''))")
+
+          # 转换核心请求：target 必须为 clash（或 meta）
+          # 通过本地 subconverter 服务进行转换
+          curl -s "http://127.0.0.1:25500/sub?target=clash&new_name=true&url=${ENCODED_SUBS}&insert=false" -o raw_clash.yaml
+
+          # 检查是否成功获取到了节点 proxies
+          if ! grep -q "proxies:" raw_clash.yaml; then
+            echo "错误：未成功解析出节点！"
+            exit 1
+          fi
+
+      - name: Merge with Custom Template & Rules
+        run: |
+          python3 - << 'EOF'
+          import yaml
+
+          # 读取转换出来的节点
+          with open('raw_clash.yaml', 'r', encoding='utf-8') as f:
+              raw_data = yaml.safe_load(f)
+          proxies = raw_data.get('proxies', [])
+
+          # 提取所有节点的名称
+          proxy_names = [p['name'] for p in proxies]
+
+          # 读取自定义规则模板
+          with open('template.yaml', 'r', encoding='utf-8') as f:
+              template_data = yaml.safe_load(f)
+
+          # 写入节点
+          template_data['proxies'] = proxies
+
+          # 将节点加入对应的策略组中
+          for group in template_data.get('proxy-groups', []):
+              if group['name'] == '🚀 节点选择':
+                  group['proxies'].extend(proxy_names)
+              elif group['name'] == '♻️ 自动选择':
+                  group['proxies'].extend(proxy_names)
+
+          # 输出最终的 Clash.Meta 配置文件
+          with open('clash_config.yaml', 'w', encoding='utf-8') as f:
+              yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
+
+          print(f"成功合并完成，共载入 {len(proxies)} 个节点！")
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add clash_config.yaml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update Clash Config: $(date '+%Y-%m-%d %H:%M:%S')" && git push)
