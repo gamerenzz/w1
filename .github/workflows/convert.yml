@@ -4,7 +4,7 @@ on:
   schedule:
     # 每天北京时间 08:00 和 20:00 各自动执行一次
     - cron: '0 0,12 * * *'
-  workflow_dispatch: # 支持手动点击 Run workflow 触发
+  workflow_dispatch: # 支持网页上手动点击运行
 
 jobs:
   build:
@@ -14,104 +14,211 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Download & Clean Node Links
+      - name: Download Raw Nodes
         run: |
           mkdir -p raw_data
-          # 1. 宿主机直接下载 3 个原始文件
           curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt" -o raw_data/1.txt
           curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt" -o raw_data/2.txt
           curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt" -o raw_data/3.txt
 
-          # 2. 清洗数据：提取合法的代理协议行并去重
-          cat raw_data/*.txt | grep -E '^(vless|hysteria2|vmess|trojan|ss)://' | sort -u > all_nodes.txt
-          
-          echo "=== 清洗去重后的有效链接总数 ==="
-          wc -l all_nodes.txt
-
-          # 3. 转换为 Base64 订阅格式传递给转换器
-          base64 -w 0 all_nodes.txt > nodes_b64.txt
-
-      - name: Start Local Services
-        run: |
-          # 启动本地 HTTP 服务供容器读取
-          python3 -m http.server 8080 &
-          
-          # 启动 Subconverter 容器
-          docker run -d --name subconv --network host tindy2013/subconverter:latest
-          sleep 4
-
-      - name: Convert to Clash.Meta
-        run: |
-          # 关键参数：加上 clash.meta=true 和 ver=4，强制转换器保留 VLESS-Reality 节点
-          curl -s "http://127.0.0.1:25500/sub?target=clash&clash.meta=true&ver=4&new_name=true&url=http://127.0.0.1:8080/nodes_b64.txt" -o raw_clash.yaml
-
-          # 输出日志，用于确认 VLESS 节点是否已成功导出
-          echo "=== 检查 VLESS 节点保留情况 ==="
-          if grep -q "type: vless" raw_clash.yaml; then
-            echo "✅ 成功提取到 VLESS-Reality 节点！"
-          else
-            echo "⚠️ 警告：未检测到 VLESS 节点，请检查节点源！"
-          fi
-
-          if ! grep -q "proxies:" raw_clash.yaml; then
-            echo "错误：未能输出任何节点！"
-            cat raw_clash.yaml
-            exit 1
-          fi
-
-      - name: Merge with Custom Template & Rules
+      - name: Parse Nodes and Generate Clash.Meta Config
         run: |
           python3 - << 'EOF'
+          import json
+          import base64
+          import urllib.parse
           import yaml
 
-          # 1. 读取转换出来的节点
-          with open('raw_clash.yaml', 'r', encoding='utf-8') as f:
-              raw_data = yaml.safe_load(f)
-          proxies = raw_data.get('proxies', [])
-          
-          if not proxies:
-              raise ValueError("没有提取到任何有效节点！")
+          def safe_b64decode(s):
+              s = s.strip()
+              # 补齐 base64 填充符
+              missing_padding = len(s) % 4
+              if missing_padding:
+                  s += '=' * (4 - missing_padding)
+              return base64.b64decode(s).decode('utf-8', errors='ignore')
 
-          # 2. 节点去重和重命名（防止同名节点导致客户端加载失败）
+          def parse_vless(url):
+              u = urllib.parse.urlparse(url)
+              query = dict(urllib.parse.parse_qsl(u.query))
+              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Vless_{u.hostname}_{u.port}"
+              
+              node = {
+                  'name': name.strip(),
+                  'type': 'vless',
+                  'server': u.hostname,
+                  'port': int(u.port),
+                  'uuid': u.username,
+                  'cipher': 'zero',
+                  'udp': True
+              }
+              if 'flow' in query:
+                  node['flow'] = query['flow']
+                  
+              sec = query.get('security', '')
+              if sec == 'reality':
+                  node['tls'] = True
+                  reality_opts = {}
+                  if 'pbk' in query: reality_opts['public-key'] = query['pbk']
+                  if 'sid' in query: reality_opts['short-id'] = query['sid']
+                  if 'spx' in query: reality_opts['spider-x'] = query['spx']
+                  node['reality-opts'] = reality_opts
+              elif sec == 'tls':
+                  node['tls'] = True
+
+              if 'sni' in query: node['servername'] = query['sni']
+              if 'fp' in query: node['client-fingerprint'] = query['fp']
+
+              net = query.get('type', 'tcp')
+              if net == 'ws':
+                  node['network'] = 'ws'
+                  ws_opts = {}
+                  if 'path' in query: ws_opts['path'] = query['path']
+                  if 'host' in query: ws_opts['headers'] = {'Host': query['host']}
+                  node['ws-opts'] = ws_opts
+              elif net == 'grpc':
+                  node['network'] = 'grpc'
+                  grpc_opts = {}
+                  if 'serviceName' in query: grpc_opts['grpc-service-name'] = query['serviceName']
+                  node['grpc-opts'] = grpc_opts
+              elif net in ['xhttp', 'splithttp']:
+                  node['network'] = 'xhttp'
+                  xhttp_opts = {}
+                  if 'path' in query: xhttp_opts['path'] = query['path']
+                  if 'host' in query: xhttp_opts['headers'] = {'Host': query['host']}
+                  node['xhttp-opts'] = xhttp_opts
+
+              return node
+
+          def parse_hysteria2(url):
+              u = urllib.parse.urlparse(url)
+              query = dict(urllib.parse.parse_qsl(u.query))
+              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Hy2_{u.hostname}_{u.port}"
+              
+              node = {
+                  'name': name.strip(),
+                  'type': 'hysteria2',
+                  'server': u.hostname,
+                  'port': int(u.port),
+                  'password': u.username,
+                  'udp': True
+              }
+              if 'sni' in query: node['sni'] = query['sni']
+              if query.get('insecure') == '1' or query.get('allowInsecure') == '1':
+                  node['skip-cert-verify'] = True
+              return node
+
+          def parse_trojan(url):
+              u = urllib.parse.urlparse(url)
+              query = dict(urllib.parse.parse_qsl(u.query))
+              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Trojan_{u.hostname}_{u.port}"
+              
+              node = {
+                  'name': name.strip(),
+                  'type': 'trojan',
+                  'server': u.hostname,
+                  'port': int(u.port),
+                  'password': u.username,
+                  'udp': True
+              }
+              if 'sni' in query: node['sni'] = query['sni']
+              if query.get('allowInsecure') == '1' or query.get('insecure') == '1':
+                  node['skip-cert-verify'] = True
+              if 'fp' in query: node['client-fingerprint'] = query['fp']
+              return node
+
+          def parse_vmess(url):
+              raw_json = safe_b64decode(url[8:])
+              data = json.loads(raw_json)
+              name = data.get('ps', f"Vmess_{data['add']}_{data['port']}")
+              
+              node = {
+                  'name': name.strip(),
+                  'type': 'vmess',
+                  'server': data['add'],
+                  'port': int(data['port']),
+                  'uuid': data['id'],
+                  'alterId': int(data.get('aid', 0)),
+                  'cipher': data.get('scy', 'auto'),
+                  'udp': True
+              }
+              if data.get('tls') == 'tls':
+                  node['tls'] = True
+              if data.get('sni'):
+                  node['servername'] = data['sni']
+                  
+              net = data.get('net', 'tcp')
+              if net == 'ws':
+                  node['network'] = 'ws'
+                  ws_opts = {}
+                  if data.get('path'): ws_opts['path'] = data['path']
+                  if data.get('host'): ws_opts['headers'] = {'Host': data['host']}
+                  node['ws-opts'] = ws_opts
+              return node
+
+          # 1. 抓取并提取所有节点
+          import glob
+          all_lines = set()
+          for file_path in glob.glob('raw_data/*.txt'):
+              with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                  for line in f:
+                      line = line.strip()
+                      if line and not line.startswith('#'):
+                          all_lines.add(line)
+
+          proxies = []
+          for line in all_lines:
+              try:
+                  if line.startswith('vless://'):
+                      proxies.append(parse_vless(line))
+                  elif line.startswith('hysteria2://'):
+                      proxies.append(parse_hysteria2(line))
+                  elif line.startswith('trojan://'):
+                      proxies.append(parse_trojan(line))
+                  elif line.startswith('vmess://'):
+                      proxies.append(parse_vmess(line))
+              except Exception as e:
+                  continue
+
+          if not proxies:
+              raise ValueError("未能解析出任何有效节点！")
+
+          # 2. 节点重名去重处理
+          unique_names = set()
           proxy_names = []
-          for idx, p in enumerate(proxies):
+          for p in proxies:
               base_name = p['name']
               new_name = base_name
               count = 1
-              while new_name in proxy_names:
+              while new_name in unique_names:
                   count += 1
                   new_name = f"{base_name} {count}"
               p['name'] = new_name
+              unique_names.add(new_name)
               proxy_names.append(new_name)
 
-          # 3. 读取自定义规则模板
+          # 3. 读取 template.yaml 并注入
           with open('template.yaml', 'r', encoding='utf-8') as f:
               template_data = yaml.safe_load(f)
 
-          # 4. 将节点注入模板
           template_data['proxies'] = proxies
 
-          # 5. 注入到对应策略组中
           for group in template_data.get('proxy-groups', []):
               if group['name'] in ['🚀 节点选择', '♻️ 自动选择']:
                   group['proxies'].extend(proxy_names)
 
-          # 6. 生成最终的 Clash.Meta 配置文件
+          # 4. 导出最终配置
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          # 统计各类协议数量
-          vless_count = sum(1 for p in proxies if p.get('type') == 'vless')
-          hy2_count = sum(1 for p in proxies if p.get('type') == 'hysteria2')
-          vmess_count = sum(1 for p in proxies if p.get('type') == 'vmess')
-          trojan_count = sum(1 for p in proxies if p.get('type') == 'trojan')
+          # 统计打印
+          stats = {}
+          for p in proxies:
+              stats[p['type']] = stats.get(p['type'], 0) + 1
 
-          print(f"=== 合并统计 ===")
-          print(f"总节点数: {len(proxies)}")
-          print(f"VLESS 节点: {vless_count}")
-          print(f"Hysteria2 节点: {hy2_count}")
-          print(f"VMess 节点: {vmess_count}")
-          print(f"Trojan 节点: {trojan_count}")
+          print("=== 节点提取统计结果 ===")
+          print(f"总计成功载入: {len(proxies)} 个节点")
+          for k, v in stats.items():
+              print(f"- {k.upper()}: {v} 个")
           EOF
 
       - name: Commit and Push
