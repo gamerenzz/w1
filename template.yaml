@@ -1,4 +1,3 @@
-# 基础配置
 port: 7890
 socks-port: 7891
 mixed-port: 7890
@@ -7,7 +6,6 @@ mode: rule
 log-level: info
 unified-delay: true
 
-# DNS 配置
 dns:
   enable: true
   ipv6: false
@@ -24,68 +22,109 @@ dns:
     - https://1.1.1.1/dns-query
     - https://8.8.8.8/dns-query
 
-# 策略组配置
 proxy-groups:
-  - name: 🚀 节点选择
+  - name: ðŸš€ èŠ‚ç‚¹é€‰æ‹©
     type: select
     proxies:
-      - ♻️ 自动选择
-      - 🎯 全球直连
-    # 动态导入抓取的节点
+      - â™»ï¸ è‡ªåŠ¨é€‰æ‹©
+      - ðŸŽ¯ å…¨çƒç›´è¿ž
 
-  - name: ♻️ 自动选择
+  - name: ðŸ¤– äººå·¥æ™ºèƒ½
+    type: select
+    proxies:
+      - ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+      - â™»ï¸ è‡ªåŠ¨é€‰æ‹©
+      - ðŸŽ¯ å…¨çƒç›´è¿ž
+
+  - name: ðŸŽ è‹¹æžœæœåŠ¡
+    type: select
+    proxies:
+      - ðŸŽ¯ å…¨çƒç›´è¿ž
+      - ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+
+  - name: ðŸªŸ å¾®è½¯æœåŠ¡
+    type: select
+    proxies:
+      - ðŸŽ¯ å…¨çƒç›´è¿ž
+      - ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+
+  - name: â™»ï¸ è‡ªåŠ¨é€‰æ‹©
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies: []
 
-  - name: 🎯 全球直连
+  - name: ðŸŽ¯ å…¨çƒç›´è¿ž
     type: select
     proxies:
       - DIRECT
 
-  - name: 🛑 广告拦截
+  - name: ðŸ›‘ å¹¿å‘Šæ‹¦æˆª
     type: select
     proxies:
       - REJECT
       - DIRECT
 
-  - name: 🐟 漏网之鱼
+  - name: ðŸŸ æ¼ç½‘ä¹‹é±¼
     type: select
     proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
+      - ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+      - ðŸŽ¯ å…¨çƒç›´è¿ž
 
-# 分流规则
 rules:
-  # 局域网与本机直连
-  - GEOIP,lan,🎯 全球直连,no-resolve
-  - GEOIP,private,🎯 全球直连,no-resolve
+  # 1. å±€åŸŸç½‘ä¸Žæœ¬åœ°ç½‘ç»œ
+  - GEOIP,lan,ðŸŽ¯ å…¨çƒç›´è¿ž,no-resolve
+  - GEOIP,private,ðŸŽ¯ å…¨çƒç›´è¿ž,no-resolve
+  - DST-PORT,53,ðŸŽ¯ å…¨çƒç›´è¿ž
+  - DST-PORT,123,ðŸŽ¯ å…¨çƒç›´è¿ž
 
-  # 常见国内 DNS 与 NTP 直连
-  - DST-PORT,53,🎯 全球直连
-  - DST-PORT,123,🎯 全球直连
+  # 2. å¹¿å‘Šæ‹¦æˆª
+  - GEOSITE,category-ads-all,ðŸ›‘ å¹¿å‘Šæ‹¦æˆª
 
-  # 广告拦截
-  - GEOSITE,category-ads-all,🛑 广告拦截
+  # 3. AI / ChatGPT / Gemini ä¸“å±žé«˜ä¼˜å…ˆçº§è§„åˆ™
+  - DOMAIN-SUFFIX,chatgpt.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,openai.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,oaistatic.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,oaiusercontent.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-KEYWORD,openai,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,gemini.google.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,bard.google.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,claude.ai,ðŸ¤– äººå·¥æ™ºèƒ½
+  - DOMAIN-SUFFIX,anthropic.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - GEOSITE,openai,ðŸ¤– äººå·¥æ™ºèƒ½
 
-  # 国内主流服务与域名直连
-  - GEOSITE,cn,🎯 全球直连
-  - GEOSITE,bilibili,🎯 全球直连
-  - GEOSITE,tencent,🎯 全球直连
-  - GEOSITE,alibaba,🎯 全球直连
-  - GEOSITE,baidu,🎯 全球直连
+  # 4. è‹¹æžœæœåŠ¡è§„åˆ™
+  - GEOSITE,apple,ðŸŽ è‹¹æžœæœåŠ¡
+  - DOMAIN-SUFFIX,apple.com,ðŸŽ è‹¹æžœæœåŠ¡
+  - DOMAIN-SUFFIX,icloud.com,ðŸŽ è‹¹æžœæœåŠ¡
+  - DOMAIN-SUFFIX,itunes.com,ðŸŽ è‹¹æžœæœåŠ¡
+  - DOMAIN-SUFFIX,mzstatic.com,ðŸŽ è‹¹æžœæœåŠ¡
 
-  # 国内 IP 直连
-  - GEOIP,cn,🎯 全球直连
+  # 5. å¾®è½¯æœåŠ¡è§„åˆ™
+  - DOMAIN-SUFFIX,copilot.microsoft.com,ðŸ¤– äººå·¥æ™ºèƒ½
+  - GEOSITE,microsoft,ðŸªŸ å¾®è½¯æœåŠ¡
+  - DOMAIN-SUFFIX,microsoft.com,ðŸªŸ å¾®è½¯æœåŠ¡
+  - DOMAIN-SUFFIX,live.com,ðŸªŸ å¾®è½¯æœåŠ¡
+  - DOMAIN-SUFFIX,office.com,ðŸªŸ å¾®è½¯æœåŠ¡
+  - DOMAIN-SUFFIX,bing.com,ðŸªŸ å¾®è½¯æœåŠ¡
 
-  # 国外常用网站分流至节点
-  - GEOSITE,telegram,🚀 节点选择
-  - GEOSITE,youtube,🚀 节点选择
-  - GEOSITE,google,🚀 节点选择
-  - GEOSITE,github,🚀 节点选择
-  - GEOSITE,geolocation-!cn,🚀 节点选择
+  # 6. å›½å¤–å¸¸ç”¨åª’ä½“ä¸Žç½‘ç«™
+  - GEOSITE,telegram,ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+  - GEOSITE,youtube,ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+  - GEOSITE,google,ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+  - GEOSITE,github,ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+  - GEOSITE,twitter,ðŸš€ èŠ‚ç‚¹é€‰æ‹©
+  - GEOSITE,geolocation-!cn,ðŸš€ èŠ‚ç‚¹é€‰æ‹©
 
-  # 漏网之鱼（未匹配的流量走代理）
-  - MATCH,🐟 漏网之鱼
+  # 7. å›½å†…æœåŠ¡ç›´è¿ž
+  - GEOSITE,cn,ðŸŽ¯ å…¨çƒç›´è¿ž
+  - GEOSITE,bilibili,ðŸŽ¯ å…¨çƒç›´è¿ž
+  - GEOSITE,tencent,ðŸŽ¯ å…¨çƒç›´è¿ž
+  - GEOSITE,alibaba,ðŸŽ¯ å…¨çƒç›´è¿ž
+  - GEOSITE,baidu,ðŸŽ¯ å…¨çƒç›´è¿ž
+  - GEOIP,cn,ðŸŽ¯ å…¨çƒç›´è¿ž
+
+  # 8. æ¼ç½‘ä¹‹é±¼èµ°ä»£ç†
+  - MATCH,ðŸŸ æ¼ç½‘ä¹‹é±¼
