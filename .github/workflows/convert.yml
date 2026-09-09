@@ -17,9 +17,17 @@ jobs:
       - name: Download Raw Nodes
         run: |
           mkdir -p raw_data
-          curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt" -o raw_data/1.txt
-          curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt" -o raw_data/2.txt
-          curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt" -o raw_data/3.txt
+          # 使用 -f 选项：遇到 404/500 强制报错，避免下载到空内容或错误页面
+          # 同时对带有 + 号的文件做双重兜底下载
+          curl -sSLf "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS%2BAll_RUS.txt" -o raw_data/1.txt || \
+          curl -sSLf "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt" -o raw_data/1.txt
+          
+          curl -sSLf "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt" -o raw_data/2.txt
+          curl -sSLf "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt" -o raw_data/3.txt
+
+          echo "=== 检查每个下载文件的体积与行数 ==="
+          ls -lh raw_data/
+          wc -l raw_data/*.txt
 
       - name: Parse Nodes and Generate Clash.Meta Config
         run: |
@@ -30,6 +38,7 @@ jobs:
           import yaml
           import glob
           import re
+          import sys
 
           def safe_b64decode(s):
               s = s.strip()
@@ -41,13 +50,14 @@ jobs:
           def parse_vless(url):
               u = urllib.parse.urlparse(url)
               query = dict(urllib.parse.parse_qsl(u.query))
-              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Vless_{u.hostname}_{u.port}"
+              port = int(u.port) if u.port else 443
+              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Vless_{u.hostname}_{port}"
               
               node = {
                   'name': name.strip(),
                   'type': 'vless',
                   'server': u.hostname,
-                  'port': int(u.port),
+                  'port': port,
                   'uuid': u.username,
                   'cipher': 'zero',
                   'udp': True
@@ -93,13 +103,14 @@ jobs:
           def parse_hysteria2(url):
               u = urllib.parse.urlparse(url)
               query = dict(urllib.parse.parse_qsl(u.query))
-              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Hy2_{u.hostname}_{u.port}"
+              port = int(u.port) if u.port else 443
+              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Hy2_{u.hostname}_{port}"
               
               node = {
                   'name': name.strip(),
                   'type': 'hysteria2',
                   'server': u.hostname,
-                  'port': int(u.port),
+                  'port': port,
                   'password': u.username,
                   'udp': True
               }
@@ -111,13 +122,14 @@ jobs:
           def parse_trojan(url):
               u = urllib.parse.urlparse(url)
               query = dict(urllib.parse.parse_qsl(u.query))
-              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Trojan_{u.hostname}_{u.port}"
+              port = int(u.port) if u.port else 443
+              name = urllib.parse.unquote(u.fragment) if u.fragment else f"Trojan_{u.hostname}_{port}"
               
               node = {
                   'name': name.strip(),
                   'type': 'trojan',
                   'server': u.hostname,
-                  'port': int(u.port),
+                  'port': port,
                   'password': u.username,
                   'udp': True
               }
@@ -130,13 +142,14 @@ jobs:
           def parse_vmess(url):
               raw_json = safe_b64decode(url[8:])
               data = json.loads(raw_json)
-              name = data.get('ps', f"Vmess_{data['add']}_{data['port']}")
+              port = int(data['port']) if data.get('port') else 443
+              name = data.get('ps', f"Vmess_{data.get('add')}_{port}")
               
               node = {
                   'name': name.strip(),
                   'type': 'vmess',
                   'server': data['add'],
-                  'port': int(data['port']),
+                  'port': port,
                   'uuid': data['id'],
                   'alterId': int(data.get('aid', 0)),
                   'cipher': data.get('scy', 'auto'),
@@ -156,16 +169,24 @@ jobs:
                   node['ws-opts'] = ws_opts
               return node
 
-          # 1. 抓取并解析节点
+          # 1. 提取所有节点并统计
           all_lines = set()
-          for file_path in glob.glob('raw_data/*.txt'):
+          file_count = 0
+          for file_path in sorted(glob.glob('raw_data/*.txt')):
+              file_count += 1
+              lines_in_file = 0
               with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                   for line in f:
                       line = line.strip()
                       if line and not line.startswith('#'):
                           all_lines.add(line)
+                          lines_in_file += 1
+              print(f"- 文件 {file_path} 读入有效链接行数: {lines_in_file}")
+
+          print(f"合并去重后的唯一链接总数: {len(all_lines)}")
 
           proxies = []
+          failed_lines = []
           for line in all_lines:
               try:
                   if line.startswith('vless://'):
@@ -176,8 +197,13 @@ jobs:
                       proxies.append(parse_trojan(line))
                   elif line.startswith('vmess://'):
                       proxies.append(parse_vmess(line))
-              except Exception:
-                  continue
+              except Exception as e:
+                  failed_lines.append((line[:60], str(e)))
+
+          if failed_lines:
+              print(f"⚠️ 解析失败的链接数: {len(failed_lines)}")
+              for fail in failed_lines[:5]:
+                  print(f"  失败示例: {fail[0]}... 原因: {fail[1]}")
 
           if not proxies:
               raise ValueError("未能解析出任何有效节点！")
@@ -196,17 +222,16 @@ jobs:
               unique_names.add(new_name)
               proxy_names.append(new_name)
 
-          # 3. 读取 template.yaml 并清洗不可见特殊字符（防止 ReaderError #x008f 等错误）
+          # 3. 读取 template.yaml 并清洗特殊字符
           with open('template.yaml', 'r', encoding='utf-8', errors='ignore') as f:
               raw_template_text = f.read()
           
-          # 正则移除所有非打印控制字符（保留换行、回车、Tab）
           clean_template_text = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F]', '', raw_template_text)
           template_data = yaml.safe_load(clean_template_text)
 
           template_data['proxies'] = proxies
 
-          # 为需要选择节点的策略组注入所有节点列表
+          # 为对应策略组填充节点
           target_groups = ['🚀 节点选择', '♻️ 自动选择', '🤖 人工智能', '🍎 苹果服务', '🪟 微软服务']
           for group in template_data.get('proxy-groups', []):
               if group['name'] in target_groups:
@@ -216,7 +241,14 @@ jobs:
           with open('clash_config.yaml', 'w', encoding='utf-8') as f:
               yaml.dump(template_data, f, allow_unicode=True, sort_keys=False)
 
-          print(f"合并完成！共注入 {len(proxies)} 个有效节点，配置已净化并生成完毕。")
+          stats = {}
+          for p in proxies:
+              stats[p['type']] = stats.get(p['type'], 0) + 1
+
+          print("\n=== 最终节点分类统计 ===")
+          print(f"总计注入节点数: {len(proxies)}")
+          for k, v in sorted(stats.items()):
+              print(f"- {k.upper()}: {v} 个")
           EOF
 
       - name: Commit and Push
