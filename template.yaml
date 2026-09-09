@@ -1,0 +1,91 @@
+# 基础配置
+port: 7890
+socks-port: 7891
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+unified-delay: true
+
+# DNS 配置
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:1053
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  fallback:
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query
+
+# 策略组配置
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - 🎯 全球直连
+    # 动态导入抓取的节点
+
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies: []
+
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+
+  - name: 🛑 广告拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+
+# 分流规则
+rules:
+  # 局域网与本机直连
+  - GEOIP,lan,🎯 全球直连,no-resolve
+  - GEOIP,private,🎯 全球直连,no-resolve
+
+  # 常见国内 DNS 与 NTP 直连
+  - DST-PORT,53,🎯 全球直连
+  - DST-PORT,123,🎯 全球直连
+
+  # 广告拦截
+  - GEOSITE,category-ads-all,🛑 广告拦截
+
+  # 国内主流服务与域名直连
+  - GEOSITE,cn,🎯 全球直连
+  - GEOSITE,bilibili,🎯 全球直连
+  - GEOSITE,tencent,🎯 全球直连
+  - GEOSITE,alibaba,🎯 全球直连
+  - GEOSITE,baidu,🎯 全球直连
+
+  # 国内 IP 直连
+  - GEOIP,cn,🎯 全球直连
+
+  # 国外常用网站分流至节点
+  - GEOSITE,telegram,🚀 节点选择
+  - GEOSITE,youtube,🚀 节点选择
+  - GEOSITE,google,🚀 节点选择
+  - GEOSITE,github,🚀 节点选择
+  - GEOSITE,geolocation-!cn,🚀 节点选择
+
+  # 漏网之鱼（未匹配的流量走代理）
+  - MATCH,🐟 漏网之鱼
