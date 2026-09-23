@@ -26,923 +26,678 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇬🇧 United Kingdom, Maidenhead | [BL]
-  - 🇨🇦 Canada, Montreal | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL]
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 2
-  - 🇺🇦 Ukraine, Kyiv | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL]
-  - 🇨🇦 Canada, Toronto | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇬🇧 United Kingdom, London | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL] 3
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 4
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, New York | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇧🇷 Brazil, São Paulo | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 4
-  - 🇬🇧 United Kingdom, London | [BL] 4
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 5
-  - 🇨🇦 Canada, Montreal | [BL] 4
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 7
-  - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 8
-  - 🇸🇬 Singapore, Singapore | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 9
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇧🇷 Brazil, São Paulo | [BL] 3
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
-  - 🇸🇬 Singapore, Singapore | [BL] 5
-  - 🇦🇹 Austria, Vienna | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL] 4
-  - 🇨🇦 Canada, Toronto | [BL] 7
-  - 🇨🇦 Canada, Toronto | [BL] 8
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 6
-  - 🇯🇵 Japan, Shibuya City | [BL] 3
   - 🇨🇳 China, Guilin | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 10
-  - 🇧🇷 Brazil, São Paulo | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
-  - 🇦🇹 Austria, Vienna | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 3
-  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
   - 🇨🇳 China, Guilin | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
-  - 🇧🇷 Brazil, São Paulo | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 9
-  - 🇬🇧 United Kingdom, London | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 10
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇸🇬 Singapore, Singapore | [BL] 6
-  - 🇦🇹 Austria, Vienna | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL] 7
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
-  - 🇬🇧 United Kingdom, London | [BL] 12
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 9
-  - 🇯🇵 Japan, Shibuya City | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 4
   - 🇨🇦 Canada, Montreal | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 10
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇸🇬 Singapore, Singapore | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 11
-  - 🇯🇵 Japan, Shibuya City | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
-  - 🇦🇹 Austria, Vienna | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇺🇸 United States, Santa Clara | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 12
-  - 🇦🇹 Austria, Vienna | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 12
-  - 🇨🇦 Canada, Toronto | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 7
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 13
-  - 🇧🇷 Brazil, São Paulo | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇦🇹 Austria, Vienna | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 10
-  - 🇯🇵 Japan, Shibuya City | [BL] 7
-  - 🇧🇷 Brazil, São Paulo | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇨🇦 Canada, Montreal | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
-  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇧🇷 Brazil, São Paulo | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 11
+  - 🇧🇷 Brazil, São Paulo | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 12
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 6
+  - 🇧🇷 Brazil, São Paulo | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 8
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 9
+  - 🇨🇦 Canada, Montreal | [BL] 14
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 7
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
-  - 🇨🇦 Canada, Toronto | [BL] 13
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 14
+  - 🇦🇹 Austria, Vienna | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 15
+  - 🇧🇷 Brazil, São Paulo | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 6
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 16
+  - 🇨🇦 Canada, Montreal | [BL] 17
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 9
+  - 🇸🇬 Singapore, Singapore | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 18
   - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 10
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL] 10
+  - 🇸🇬 Singapore, Singapore | [BL] 11
+  - 🇨🇦 Canada, Montreal | [BL] 19
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇦🇹 Austria, Vienna | [BL] 6
   - 🇦🇹 Austria, Vienna | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 13
+  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 13
+  - 🇨🇦 Canada, Montreal | [BL] 20
   - 🇸🇬 Singapore, Singapore | [BL] 13
+  - 🇧🇷 Brazil, São Paulo | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇬🇧 United Kingdom, London | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 14
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇨🇦 Canada, Montreal | [BL] 21
+  - 🇸🇬 Singapore, Singapore | [BL] 14
 - name: 🤖 人工智能
   type: select
   proxies:
   - 🚀 节点选择
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇬🇧 United Kingdom, Maidenhead | [BL]
-  - 🇨🇦 Canada, Montreal | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL]
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 2
-  - 🇺🇦 Ukraine, Kyiv | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL]
-  - 🇨🇦 Canada, Toronto | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇬🇧 United Kingdom, London | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL] 3
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 4
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, New York | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇧🇷 Brazil, São Paulo | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 4
-  - 🇬🇧 United Kingdom, London | [BL] 4
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 5
-  - 🇨🇦 Canada, Montreal | [BL] 4
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 7
-  - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 8
-  - 🇸🇬 Singapore, Singapore | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 9
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇧🇷 Brazil, São Paulo | [BL] 3
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
-  - 🇸🇬 Singapore, Singapore | [BL] 5
-  - 🇦🇹 Austria, Vienna | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL] 4
-  - 🇨🇦 Canada, Toronto | [BL] 7
-  - 🇨🇦 Canada, Toronto | [BL] 8
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 6
-  - 🇯🇵 Japan, Shibuya City | [BL] 3
   - 🇨🇳 China, Guilin | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 10
-  - 🇧🇷 Brazil, São Paulo | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
-  - 🇦🇹 Austria, Vienna | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 3
-  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
   - 🇨🇳 China, Guilin | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
-  - 🇧🇷 Brazil, São Paulo | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 9
-  - 🇬🇧 United Kingdom, London | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 10
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇸🇬 Singapore, Singapore | [BL] 6
-  - 🇦🇹 Austria, Vienna | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL] 7
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
-  - 🇬🇧 United Kingdom, London | [BL] 12
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 9
-  - 🇯🇵 Japan, Shibuya City | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 4
   - 🇨🇦 Canada, Montreal | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 10
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇸🇬 Singapore, Singapore | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 11
-  - 🇯🇵 Japan, Shibuya City | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
-  - 🇦🇹 Austria, Vienna | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇺🇸 United States, Santa Clara | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 12
-  - 🇦🇹 Austria, Vienna | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 12
-  - 🇨🇦 Canada, Toronto | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 7
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 13
-  - 🇧🇷 Brazil, São Paulo | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇦🇹 Austria, Vienna | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 10
-  - 🇯🇵 Japan, Shibuya City | [BL] 7
-  - 🇧🇷 Brazil, São Paulo | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇨🇦 Canada, Montreal | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
-  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇧🇷 Brazil, São Paulo | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 11
+  - 🇧🇷 Brazil, São Paulo | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 12
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 6
+  - 🇧🇷 Brazil, São Paulo | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 8
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 9
+  - 🇨🇦 Canada, Montreal | [BL] 14
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 7
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
-  - 🇨🇦 Canada, Toronto | [BL] 13
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 14
+  - 🇦🇹 Austria, Vienna | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 15
+  - 🇧🇷 Brazil, São Paulo | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 6
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 16
+  - 🇨🇦 Canada, Montreal | [BL] 17
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 9
+  - 🇸🇬 Singapore, Singapore | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 18
   - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 10
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL] 10
+  - 🇸🇬 Singapore, Singapore | [BL] 11
+  - 🇨🇦 Canada, Montreal | [BL] 19
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇦🇹 Austria, Vienna | [BL] 6
   - 🇦🇹 Austria, Vienna | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 13
+  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 13
+  - 🇨🇦 Canada, Montreal | [BL] 20
   - 🇸🇬 Singapore, Singapore | [BL] 13
+  - 🇧🇷 Brazil, São Paulo | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇬🇧 United Kingdom, London | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 14
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇨🇦 Canada, Montreal | [BL] 21
+  - 🇸🇬 Singapore, Singapore | [BL] 14
 - name: 🍎 苹果服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇬🇧 United Kingdom, Maidenhead | [BL]
-  - 🇨🇦 Canada, Montreal | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL]
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 2
-  - 🇺🇦 Ukraine, Kyiv | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL]
-  - 🇨🇦 Canada, Toronto | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇬🇧 United Kingdom, London | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL] 3
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 4
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, New York | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇧🇷 Brazil, São Paulo | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 4
-  - 🇬🇧 United Kingdom, London | [BL] 4
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 5
-  - 🇨🇦 Canada, Montreal | [BL] 4
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 7
-  - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 8
-  - 🇸🇬 Singapore, Singapore | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 9
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇧🇷 Brazil, São Paulo | [BL] 3
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
-  - 🇸🇬 Singapore, Singapore | [BL] 5
-  - 🇦🇹 Austria, Vienna | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL] 4
-  - 🇨🇦 Canada, Toronto | [BL] 7
-  - 🇨🇦 Canada, Toronto | [BL] 8
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 6
-  - 🇯🇵 Japan, Shibuya City | [BL] 3
   - 🇨🇳 China, Guilin | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 10
-  - 🇧🇷 Brazil, São Paulo | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
-  - 🇦🇹 Austria, Vienna | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 3
-  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
   - 🇨🇳 China, Guilin | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
-  - 🇧🇷 Brazil, São Paulo | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 9
-  - 🇬🇧 United Kingdom, London | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 10
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇸🇬 Singapore, Singapore | [BL] 6
-  - 🇦🇹 Austria, Vienna | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL] 7
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
-  - 🇬🇧 United Kingdom, London | [BL] 12
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 9
-  - 🇯🇵 Japan, Shibuya City | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 4
   - 🇨🇦 Canada, Montreal | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 10
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇸🇬 Singapore, Singapore | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 11
-  - 🇯🇵 Japan, Shibuya City | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
-  - 🇦🇹 Austria, Vienna | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇺🇸 United States, Santa Clara | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 12
-  - 🇦🇹 Austria, Vienna | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 12
-  - 🇨🇦 Canada, Toronto | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 7
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 13
-  - 🇧🇷 Brazil, São Paulo | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇦🇹 Austria, Vienna | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 10
-  - 🇯🇵 Japan, Shibuya City | [BL] 7
-  - 🇧🇷 Brazil, São Paulo | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇨🇦 Canada, Montreal | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
-  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇧🇷 Brazil, São Paulo | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 11
+  - 🇧🇷 Brazil, São Paulo | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 12
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 6
+  - 🇧🇷 Brazil, São Paulo | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 8
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 9
+  - 🇨🇦 Canada, Montreal | [BL] 14
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 7
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
-  - 🇨🇦 Canada, Toronto | [BL] 13
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 14
+  - 🇦🇹 Austria, Vienna | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 15
+  - 🇧🇷 Brazil, São Paulo | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 6
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 16
+  - 🇨🇦 Canada, Montreal | [BL] 17
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 9
+  - 🇸🇬 Singapore, Singapore | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 18
   - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 10
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL] 10
+  - 🇸🇬 Singapore, Singapore | [BL] 11
+  - 🇨🇦 Canada, Montreal | [BL] 19
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇦🇹 Austria, Vienna | [BL] 6
   - 🇦🇹 Austria, Vienna | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 13
+  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 13
+  - 🇨🇦 Canada, Montreal | [BL] 20
   - 🇸🇬 Singapore, Singapore | [BL] 13
+  - 🇧🇷 Brazil, São Paulo | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇬🇧 United Kingdom, London | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 14
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇨🇦 Canada, Montreal | [BL] 21
+  - 🇸🇬 Singapore, Singapore | [BL] 14
 - name: 🪟 微软服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇬🇧 United Kingdom, Maidenhead | [BL]
-  - 🇨🇦 Canada, Montreal | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL]
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 2
-  - 🇺🇦 Ukraine, Kyiv | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL]
-  - 🇨🇦 Canada, Toronto | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇬🇧 United Kingdom, London | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL] 3
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 4
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, New York | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇧🇷 Brazil, São Paulo | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 4
-  - 🇬🇧 United Kingdom, London | [BL] 4
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 5
-  - 🇨🇦 Canada, Montreal | [BL] 4
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 7
-  - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 8
-  - 🇸🇬 Singapore, Singapore | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 9
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇧🇷 Brazil, São Paulo | [BL] 3
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
-  - 🇸🇬 Singapore, Singapore | [BL] 5
-  - 🇦🇹 Austria, Vienna | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL] 4
-  - 🇨🇦 Canada, Toronto | [BL] 7
-  - 🇨🇦 Canada, Toronto | [BL] 8
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 6
-  - 🇯🇵 Japan, Shibuya City | [BL] 3
   - 🇨🇳 China, Guilin | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 10
-  - 🇧🇷 Brazil, São Paulo | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
-  - 🇦🇹 Austria, Vienna | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 3
-  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
   - 🇨🇳 China, Guilin | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
-  - 🇧🇷 Brazil, São Paulo | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 9
-  - 🇬🇧 United Kingdom, London | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 10
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇸🇬 Singapore, Singapore | [BL] 6
-  - 🇦🇹 Austria, Vienna | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL] 7
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
-  - 🇬🇧 United Kingdom, London | [BL] 12
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 9
-  - 🇯🇵 Japan, Shibuya City | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 4
   - 🇨🇦 Canada, Montreal | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 10
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇸🇬 Singapore, Singapore | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 11
-  - 🇯🇵 Japan, Shibuya City | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
-  - 🇦🇹 Austria, Vienna | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇺🇸 United States, Santa Clara | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 12
-  - 🇦🇹 Austria, Vienna | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 12
-  - 🇨🇦 Canada, Toronto | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 7
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 13
-  - 🇧🇷 Brazil, São Paulo | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇦🇹 Austria, Vienna | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 10
-  - 🇯🇵 Japan, Shibuya City | [BL] 7
-  - 🇧🇷 Brazil, São Paulo | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇨🇦 Canada, Montreal | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
-  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇧🇷 Brazil, São Paulo | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 11
+  - 🇧🇷 Brazil, São Paulo | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 12
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 6
+  - 🇧🇷 Brazil, São Paulo | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 8
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 9
+  - 🇨🇦 Canada, Montreal | [BL] 14
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 7
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
-  - 🇨🇦 Canada, Toronto | [BL] 13
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 14
+  - 🇦🇹 Austria, Vienna | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 15
+  - 🇧🇷 Brazil, São Paulo | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 6
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 16
+  - 🇨🇦 Canada, Montreal | [BL] 17
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 9
+  - 🇸🇬 Singapore, Singapore | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 18
   - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 10
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL] 10
+  - 🇸🇬 Singapore, Singapore | [BL] 11
+  - 🇨🇦 Canada, Montreal | [BL] 19
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇦🇹 Austria, Vienna | [BL] 6
   - 🇦🇹 Austria, Vienna | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 13
+  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 13
+  - 🇨🇦 Canada, Montreal | [BL] 20
   - 🇸🇬 Singapore, Singapore | [BL] 13
+  - 🇧🇷 Brazil, São Paulo | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇬🇧 United Kingdom, London | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 14
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇨🇦 Canada, Montreal | [BL] 21
+  - 🇸🇬 Singapore, Singapore | [BL] 14
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇬🇧 United Kingdom, Maidenhead | [BL]
-  - 🇨🇦 Canada, Montreal | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL]
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 2
-  - 🇺🇦 Ukraine, Kyiv | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL]
-  - 🇨🇦 Canada, Toronto | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇬🇧 United Kingdom, London | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 2
-  - 🇬🇧 United Kingdom, London | [BL] 3
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 4
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, New York | [BL]
-  - 🇨🇦 Canada, Montreal | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇧🇷 Brazil, São Paulo | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 2
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 4
-  - 🇬🇧 United Kingdom, London | [BL] 4
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 5
-  - 🇨🇦 Canada, Montreal | [BL] 4
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 7
-  - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇬🇧 United Kingdom, London | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 8
-  - 🇸🇬 Singapore, Singapore | [BL] 3
-  - 🇬🇧 United Kingdom, London | [BL] 9
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇧🇷 Brazil, São Paulo | [BL] 3
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 4
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
-  - 🇸🇬 Singapore, Singapore | [BL] 5
-  - 🇦🇹 Austria, Vienna | [BL]
-  - 🇧🇷 Brazil, São Paulo | [BL] 4
-  - 🇨🇦 Canada, Toronto | [BL] 7
-  - 🇨🇦 Canada, Toronto | [BL] 8
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇧🇷 Brazil, São Paulo | [BL] 6
-  - 🇯🇵 Japan, Shibuya City | [BL] 3
   - 🇨🇳 China, Guilin | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇬🇧 United Kingdom, London | [BL] 10
-  - 🇧🇷 Brazil, São Paulo | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
-  - 🇦🇹 Austria, Vienna | [BL] 2
-  - 🇨🇦 Canada, Toronto | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 3
-  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
   - 🇨🇳 China, Guilin | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
-  - 🇧🇷 Brazil, São Paulo | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 9
-  - 🇬🇧 United Kingdom, London | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 10
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇸🇬 Singapore, Singapore | [BL] 6
-  - 🇦🇹 Austria, Vienna | [BL] 3
-  - 🇸🇬 Singapore, Singapore | [BL] 7
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇨🇦 Canada, Toronto | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
-  - 🇬🇧 United Kingdom, London | [BL] 12
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 9
-  - 🇯🇵 Japan, Shibuya City | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇨🇦 Canada, Montreal | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 4
   - 🇨🇦 Canada, Montreal | [BL] 6
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 10
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇸🇬 Singapore, Singapore | [BL] 8
-  - 🇧🇷 Brazil, São Paulo | [BL] 11
-  - 🇯🇵 Japan, Shibuya City | [BL] 5
-  - 🇯🇵 Japan, Shibuya City | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
-  - 🇦🇹 Austria, Vienna | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇺🇸 United States, Santa Clara | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 12
-  - 🇦🇹 Austria, Vienna | [BL] 5
-  - 🇨🇦 Canada, Toronto | [BL] 11
-  - 🇧🇷 Brazil, São Paulo | [BL] 12
-  - 🇨🇦 Canada, Toronto | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
-  - 🇬🇧 United Kingdom, Maidenhead | [BL] 7
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 13
-  - 🇧🇷 Brazil, São Paulo | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇦🇹 Austria, Vienna | [BL] 6
-  - 🇸🇬 Singapore, Singapore | [BL] 10
-  - 🇯🇵 Japan, Shibuya City | [BL] 7
-  - 🇧🇷 Brazil, São Paulo | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇸🇬 Singapore, Singapore | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇨🇦 Canada, Montreal | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
-  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇧🇷 Brazil, São Paulo | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL]
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 4
+  - 🇨🇦 Canada, Montreal | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 3
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇨🇦 Canada, Montreal | [BL] 11
+  - 🇧🇷 Brazil, São Paulo | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 5
+  - 🇨🇦 Canada, Montreal | [BL] 12
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 5
+  - 🇧🇷 Brazil, São Paulo | [BL] 6
+  - 🇧🇷 Brazil, São Paulo | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 8
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 5
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 9
+  - 🇨🇦 Canada, Montreal | [BL] 14
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 7
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
-  - 🇨🇦 Canada, Toronto | [BL] 13
-  - 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 14
+  - 🇦🇹 Austria, Vienna | [BL] 2
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇸🇬 Singapore, Singapore | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇨🇦 Canada, Montreal | [BL] 15
+  - 🇧🇷 Brazil, São Paulo | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 6
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 16
+  - 🇨🇦 Canada, Montreal | [BL] 17
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 9
+  - 🇸🇬 Singapore, Singapore | [BL] 9
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇦 Canada, Montreal | [BL] 18
   - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 6
+  - 🇦🇹 Austria, Vienna | [BL] 4
+  - 🇧🇷 Brazil, São Paulo | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 10
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇦🇹 Austria, Vienna | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL] 10
+  - 🇸🇬 Singapore, Singapore | [BL] 11
+  - 🇨🇦 Canada, Montreal | [BL] 19
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇦🇹 Austria, Vienna | [BL] 6
   - 🇦🇹 Austria, Vienna | [BL] 7
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
-  - 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 12
+  - 🇧🇷 Brazil, São Paulo | [BL] 13
+  - 🇸🇬 Singapore, Singapore | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 13
+  - 🇨🇦 Canada, Montreal | [BL] 20
   - 🇸🇬 Singapore, Singapore | [BL] 13
+  - 🇧🇷 Brazil, São Paulo | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇬🇧 United Kingdom, London | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 14
+  - 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇨🇦 Canada, Montreal | [BL] 21
+  - 🇸🇬 Singapore, Singapore | [BL] 14
 - name: 🎯 全球直连
   type: select
   proxies:
@@ -999,29 +754,15 @@ rules:
 - GEOIP,cn,🎯 全球直连
 - MATCH,🐟 漏网之鱼
 proxies:
-- name: 🇺🇸 United States, Santa Clara | [BL]
+- name: 🇨🇳 China, Guilin | [BL]
   type: trojan
-  server: 43.173.90.202
+  server: 100.42.228.109
   port: 443
-  password: sg-trojan-2026
+  password: BxceQaOe
   udp: true
-  sni: sg-proxy.local
+  sni: t.me%2Fripaojiedian
   skip-cert-verify: true
-  client-fingerprint: android
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL]
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: edge
+  client-fingerprint: ios
 - name: 🇨🇦 Canada, Montreal | [BL]
   type: vless
   server: 34.186.193.91
@@ -1034,83 +775,395 @@ proxies:
     public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
     short-id: 341ec000a90f1ced
   servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-06.hanvpn.cc
   client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de06-grpc-8e47a
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+- name: 🇸🇬 Singapore, Singapore | [BL]
   type: vless
-  server: 34.92.145.185
+  server: 35.198.230.134
   port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
   cipher: zero
   udp: true
   tls: true
   reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
   servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
-  type: vless
-  server: 31.76.249.87
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL]
-  type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 2
-  type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
   client-fingerprint: android
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL]
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
 - name: 🇬🇧 United Kingdom, London | [BL]
   type: vless
-  server: 35.189.111.134
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
   port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: qq
+- name: 🇸🇬 Singapore, Singapore | [BL] 2
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
   cipher: zero
   udp: true
   tls: true
   reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: safari
+- name: 🇫🇮 Finland, Helsinki | [BL]
+  type: vless
+  server: fintanil228.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  type: hysteria2
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  udp: true
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 2
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 3
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇸🇬 Singapore, Singapore | [BL] 3
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: edge
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
+  type: vmess
+  server: s1.connect.labex.pro
+  port: 1007
+  uuid: 14594d5e-86bd-4727-8772-feb16dbf24ec
+  alterId: 0
+  cipher: aes-128-gcm
+  udp: true
+- name: 🇨🇳 China, Guilin | [BL] 2
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+  client-fingerprint: safari
+- name: 🇨🇦 Canada, Montreal | [BL] 2
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: edge
+- name: 🇨🇦 Canada, Montreal | [BL] 3
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+- name: 🇨🇦 Canada, Montreal | [BL] 4
+  type: vless
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
+  servername: www.cloudflare.com
+  client-fingerprint: safari
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  type: vless
+  server: 151.101.213.155
+  port: 443
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /Lunex
+    headers:
+      Host: lunex.store
+- name: 🇬🇧 United Kingdom, London | [BL] 2
+  type: vless
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: android
+- name: 🇫🇮 Finland, Helsinki | [BL] 2
+  type: vless
+  server: fintanil228.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: edge
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  type: vless
+  server: solih.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 4
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]
+  type: vless
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
+  cipher: zero
+  udp: true
+  tls: true
+  servername: cdn-sg.skyvora.app
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /78bc8
+    headers:
+      Host: cdn-sg.skyvora.app
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL]
+  type: vless
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: safari
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  type: vless
+  server: 151.101.213.155
+  port: 443
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /Lunex
+    headers:
+      Host: lunex.store
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+  type: vmess
+  server: 47.243.80.106
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: wwafj5LHl6bI8aU9.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: wwafj5LHl6bI8aU9.v.3dns.vip
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  type: vless
+  server: solih.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: edge
+- name: 🇨🇦 Canada, Montreal | [BL] 5
+  type: vless
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+- name: 🇸🇬 Singapore, Singapore | [BL] 4
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+- name: 🇨🇦 Canada, Montreal | [BL] 6
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: qq
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  type: vless
+  server: solih.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: android
+- name: 🇨🇦 Canada, Montreal | [BL] 7
+  type: vless
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
   servername: www.cloudflare.com
   client-fingerprint: ios
 - name: 🇧🇷 Brazil, São Paulo | [BL]
@@ -1124,446 +1177,11 @@ proxies:
   reality-opts:
     public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
     short-id: b62a4da6cd1c4dd6
-    spider-x: /
   servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  type: hysteria2
-  server: msk.frkn.org
-  port: 443
-  password: f317b5d6-d399-4d3d-a051-89d674ae953c
-  udp: true
-  sni: msk.frkn.org
-- name: 🇨🇦 Canada, Montreal | [BL] 2
-  type: vless
-  server: 34.186.193.91
-  port: 443
-  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
-    short-id: 341ec000a90f1ced
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇺🇦 Ukraine, Kyiv | [BL]
-  type: vless
-  server: 104.143.223.61
-  port: 2085
-  uuid: 450ac3e1-56f9-4303-8281-7051a4ed7135
-  cipher: zero
-  udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
+  client-fingerprint: ios
 - name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL]
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: edge
-- name: 🇨🇦 Canada, Toronto | [BL]
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-01.hanvpn.cc
-  client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
-    path: /s1-xhttp-8e47a/
-    headers:
-      Host: hub-se-01.hanvpn.cc
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  type: vless
-  server: 31.76.249.87
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: ios
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-06.hanvpn.cc
-  client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de06-grpc-8e47a
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇸🇬 Singapore, Singapore | [BL]
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 2
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: edge
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 3
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  type: vless
-  server: 104.24.204.221
-  port: 443
-  uuid: 307ff98e-041b-2a08-235a-4ff61316b090
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    headers:
-      Host: yellow-king-ecd7.nsyrayyly2.workers.dev
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  type: vless
-  server: 143.246.194.213
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: firefox
-- name: 🇬🇧 United Kingdom, London | [BL] 2
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇨🇦 Canada, Toronto | [BL] 2
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
-  client-fingerprint: edge
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🇬🇧 United Kingdom, London | [BL] 3
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 3
-  type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
-  client-fingerprint: edge
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 4
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: chrome
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  type: hysteria2
-  server: se1.chromevpn.cc
-  port: 443
-  password: 02bd8b5a-170b-4a79-8e68-9cec710272c7
-  udp: true
-  sni: se1.chromevpn.cc
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  type: vless
-  server: 143.246.194.213
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: ios
-- name: 🇫🇮 Finland, Helsinki | [BL]
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-fi-01.hanvpn.cc
-  client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: fi01-grpc-8e47a
-- name: 🇺🇸 United States, New York | [BL]
-  type: hysteria2
-  server: 108.59.244.158
-  port: 443
-  password: f62f231b031f54cde7015c87a754ea8f
-  udp: true
-  sni: vkvideo.ru
-  skip-cert-verify: true
-- name: 🇨🇦 Canada, Montreal | [BL] 3
-  type: vless
-  server: 34.186.193.91
-  port: 443
-  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
-    short-id: 341ec000a90f1ced
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  type: vless
-  server: 31.76.249.87
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: edge
-- name: 🇧🇷 Brazil, São Paulo | [BL] 2
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-06.hanvpn.cc
-  client-fingerprint: android
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de06-grpc-8e47a
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 5
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: ios
-- name: 🇨🇦 Canada, Toronto | [BL] 3
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
-  client-fingerprint: android
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-06.hanvpn.cc
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de06-grpc-8e47a
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: edge
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL] 2
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 6
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: ios
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-06.hanvpn.cc
-  client-fingerprint: chrome
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de06-grpc-8e47a
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   type: vmess
-  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  server: wwafj5lhl6bi8au9.v.3dns.vip
   port: 443
   uuid: f23bb427c1f94373876c2f43e9f790f3
   alterId: 0
@@ -1574,413 +1192,22 @@ proxies:
   ws-opts:
     path: /ws-vmess
     headers:
-      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+      Host: wwafj5LHl6bI8aU9.v.3dns.vip
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 2
   type: vless
-  server: 143.246.194.213
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: android
-- name: 🇨🇦 Canada, Toronto | [BL] 4
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
   cipher: zero
   udp: true
   tls: true
-  servername: hub-se-01.hanvpn.cc
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts:
-    path: /s1-xhttp-8e47a/
-    headers:
-      Host: hub-se-01.hanvpn.cc
-- name: 🇬🇧 United Kingdom, London | [BL] 4
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇺🇸 United States, Santa Clara | [BL] 2
-  type: trojan
-  server: 43.173.90.202
-  port: 443
-  password: sg-trojan-2026
-  udp: true
-  sni: sg-proxy.local
-  skip-cert-verify: true
-  client-fingerprint: safari
-- name: 🇨🇦 Canada, Toronto | [BL] 5
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
-  client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🇨🇦 Canada, Montreal | [BL] 4
-  type: vless
-  server: 34.186.193.91
-  port: 443
-  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
-    short-id: 341ec000a90f1ced
-  servername: www.cloudflare.com
-  client-fingerprint: edge
-- name: 🇯🇵 Japan, Shibuya City | [BL]
-  type: vless
-  server: 34.84.126.188
-  port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 4
-  type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
-  client-fingerprint: firefox
-- name: 🇨🇿 Czechia, Prague | [BL]
-  type: vless
-  server: 153.76.185.185
-  port: 3090
-  uuid: 6d5ed3bc-2e5e-47f4-9162-a60ec3cf41ed
-  cipher: zero
-  udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 5
-  type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  type: hysteria2
-  server: nl01ntrhy01.tcp-reset-club.net
-  port: 443
-  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
-  udp: true
-  sni: 127.0.0.1
-  skip-cert-verify: true
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 7
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: firefox
-- name: 🇺🇸 United States, Santa Clara | [BL] 3
-  type: trojan
-  server: 43.173.90.202
-  port: 443
-  password: sg-trojan-2026
-  udp: true
-  sni: sg-proxy.local
-  skip-cert-verify: true
-  client-fingerprint: edge
-- name: 🇬🇧 United Kingdom, London | [BL] 5
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇬🇧 United Kingdom, London | [BL] 6
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🇸🇬 Singapore, Singapore | [BL] 2
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇨🇦 Canada, Toronto | [BL] 6
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
+  servername: cdn-sg.skyvora.app
   client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
-  type: vless
-  server: 104.24.204.221
-  port: 443
-  uuid: 307ff98e-041b-2a08-235a-4ff61316b090
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: random
   network: ws
   ws-opts:
+    path: /78bc8
     headers:
-      Host: yellow-king-ecd7.nsyrayyly2.workers.dev
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇬🇧 United Kingdom, London | [BL] 7
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇬🇧 United Kingdom, London | [BL] 8
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇸🇬 Singapore, Singapore | [BL] 3
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇬🇧 United Kingdom, London | [BL] 9
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 8
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: android
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: chrome
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇧🇷 Brazil, São Paulo | [BL] 3
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL] 3
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: safari
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  type: vless
-  server: 143.246.194.213
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: qq
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇸🇬 Singapore, Singapore | [BL] 4
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL] 4
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: android
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 7
-  type: vmess
-  server: lcv8v9l7oyamxxfz.v.3dns.vip
-  port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: lcv8v9l7oyamxxfz.v.3dns.vip
-  network: ws
-  ws-opts:
-    path: /ws-vmess
+      Host: cdn-sg.skyvora.app
 - name: 🇸🇬 Singapore, Singapore | [BL] 5
   type: vless
   server: 35.198.230.134
@@ -1993,20 +1220,229 @@ proxies:
     public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
     short-id: b1fef7a9181ea31d
   servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇦🇹 Austria, Vienna | [BL]
+  client-fingerprint: chrome
+- name: 🇨🇦 Canada, Montreal | [BL] 8
   type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
   cipher: zero
   udp: true
   tls: true
-  servername: hub-vie-02.hanvpn.cc
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+- name: 🇨🇳 China, Guilin | [BL] 3
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: random
+- name: 🇧🇷 Brazil, São Paulo | [BL] 2
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+    spider-x: /
+  servername: www.cloudflare.com
+  client-fingerprint: qq
+- name: 🇨🇳 China, Guilin | [BL] 4
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: ios
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 3
+  type: vless
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
+  cipher: zero
+  udp: true
+  tls: true
+  servername: cdn-sg.skyvora.app
   client-fingerprint: edge
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
+  network: ws
+  ws-opts:
+    path: /78bc8
+    headers:
+      Host: cdn-sg.skyvora.app
+- name: 🇨🇦 Canada, Montreal | [BL] 9
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: qq
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  type: vless
+  server: solih.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: qq
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 2
+  type: vless
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: android
+- name: 🇦🇹 Austria, Vienna | [BL]
+  type: vless
+  server: sfert.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: edge
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 3
+  type: vless
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: qq
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 4
+  type: vless
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: edge
+- name: 🇨🇦 Canada, Montreal | [BL] 10
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: android
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  type: vless
+  server: solih.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: safari
+- name: 🇧🇷 Brazil, São Paulo | [BL] 3
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+    spider-x: /
+  servername: www.cloudflare.com
+  client-fingerprint: android
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 5
+  type: vless
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: ios
+- name: 🇬🇧 United Kingdom, London | [BL] 3
+  type: vless
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: edge
+- name: 🇨🇦 Canada, Montreal | [BL] 11
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: edge
 - name: 🇧🇷 Brazil, São Paulo | [BL] 4
   type: vless
   server: 34.39.174.220
@@ -2019,50 +1455,7 @@ proxies:
     public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
     short-id: b62a4da6cd1c4dd6
   servername: www.cloudflare.com
-  client-fingerprint: edge
-- name: 🇨🇦 Canada, Toronto | [BL] 7
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-01.hanvpn.cc
   client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
-    path: /s1-xhttp-8e47a/
-    headers:
-      Host: hub-se-01.hanvpn.cc
-- name: 🇨🇦 Canada, Toronto | [BL] 8
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-01.hanvpn.cc
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
-    path: /s1-xhttp-8e47a/
-    headers:
-      Host: hub-se-01.hanvpn.cc
-- name: 🇫🇮 Finland, Helsinki | [BL] 2
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-fi-01.hanvpn.cc
-  client-fingerprint: qq
-  network: grpc
-  grpc-opts:
-    grpc-service-name: fi01-grpc-8e47a
 - name: 🇧🇷 Brazil, São Paulo | [BL] 5
   type: vless
   server: 34.39.174.220
@@ -2076,20 +1469,50 @@ proxies:
     short-id: b62a4da6cd1c4dd6
     spider-x: /
   servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇯🇵 Japan, Shibuya City | [BL] 2
+  client-fingerprint: edge
+- name: 🇨🇦 Canada, Montreal | [BL] 12
   type: vless
-  server: 34.84.126.188
+  server: 34.186.193.91
   port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
   cipher: zero
   udp: true
   tls: true
   reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
   servername: www.cloudflare.com
+  client-fingerprint: safari
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 4
+  type: vless
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
+  cipher: zero
+  udp: true
+  tls: true
+  servername: cdn-sg.skyvora.app
   client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /78bc8
+    headers:
+      Host: cdn-sg.skyvora.app
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 5
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
 - name: 🇧🇷 Brazil, São Paulo | [BL] 6
   type: vless
   server: 34.39.174.220
@@ -2101,82 +1524,9 @@ proxies:
   reality-opts:
     public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
     short-id: b62a4da6cd1c4dd6
+    spider-x: /
   servername: www.cloudflare.com
   client-fingerprint: ios
-- name: 🇯🇵 Japan, Shibuya City | [BL] 3
-  type: vless
-  server: 34.84.126.188
-  port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
-  servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇨🇳 China, Guilin | [BL]
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: ios
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇫🇮 Finland, Helsinki | [BL] 3
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-fi-01.hanvpn.cc
-  client-fingerprint: chrome
-  network: grpc
-  grpc-opts:
-    grpc-service-name: fi01-grpc-8e47a
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: qq
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇬🇧 United Kingdom, London | [BL] 10
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: qq
 - name: 🇧🇷 Brazil, São Paulo | [BL] 7
   type: vless
   server: 34.39.174.220
@@ -2190,107 +1540,22 @@ proxies:
     short-id: b62a4da6cd1c4dd6
     spider-x: /
   servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 8
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇦🇹 Austria, Vienna | [BL] 2
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-vie-02.hanvpn.cc
-  client-fingerprint: qq
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
-- name: 🇨🇦 Canada, Toronto | [BL] 9
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
-  client-fingerprint: qq
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 3
-  type: vless
-  server: 104.24.204.221
-  port: 443
-  uuid: 307ff98e-041b-2a08-235a-4ff61316b090
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: yellow-king-ecd7.nsyrayyly2.workers.dev
-- name: 🇨🇦 Canada, Montreal | [BL] 5
-  type: vless
-  server: 34.186.193.91
-  port: 443
-  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
-    short-id: 341ec000a90f1ced
-  servername: www.cloudflare.com
   client-fingerprint: firefox
-- name: 🇨🇳 China, Guilin | [BL] 2
-  type: trojan
-  server: 100.42.228.109
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  type: vless
+  server: 151.101.213.155
   port: 443
-  password: BxceQaOe
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
+  cipher: zero
   udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
+  tls: true
+  servername: accounts.fastly.com
   client-fingerprint: edge
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: android
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 9
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /Lunex
+    headers:
+      Host: lunex.store
 - name: 🇧🇷 Brazil, São Paulo | [BL] 8
   type: vless
   server: 34.39.174.220
@@ -2303,61 +1568,31 @@ proxies:
     public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
     short-id: b62a4da6cd1c4dd6
   servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇧🇷 Brazil, São Paulo | [BL] 9
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-    spider-x: /
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇬🇧 United Kingdom, London | [BL] 11
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🇧🇷 Brazil, São Paulo | [BL] 10
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-    spider-x: /
-  servername: www.cloudflare.com
   client-fingerprint: android
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+- name: 🇫🇮 Finland, Helsinki | [BL] 3
   type: vless
-  server: 143.246.194.213
+  server: fintanil228.vvzzkontaktezzvv.garden
   port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: chrome
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: qq
+- name: 🇨🇳 China, Guilin | [BL] 5
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+  client-fingerprint: android
 - name: 🇸🇬 Singapore, Singapore | [BL] 6
   type: vless
   server: 35.198.230.134
@@ -2371,203 +1606,7 @@ proxies:
     short-id: b1fef7a9181ea31d
   servername: www.cloudflare.com
   client-fingerprint: qq
-- name: 🇦🇹 Austria, Vienna | [BL] 3
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-vie-02.hanvpn.cc
-  client-fingerprint: chrome
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
-- name: 🇸🇬 Singapore, Singapore | [BL] 7
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL] 5
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  type: hysteria2
-  server: nl01ntrhy01.tcp-reset-club.net
-  port: 443
-  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
-  udp: true
-  sni: 127.0.0.1
-  skip-cert-verify: true
-- name: 🇨🇿 Czechia, Prague | [BL] 2
-  type: vless
-  server: 153.76.185.95
-  port: 3090
-  uuid: 450ac3e1-56f9-4303-8281-7051a4ed7135
-  cipher: zero
-  udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
-- name: 🇨🇳 China, Guilin | [BL] 3
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: edge
-- name: 🇨🇦 Canada, Toronto | [BL] 10
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  type: vless
-  server: 31.76.249.87
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: firefox
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 10
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🇬🇧 United Kingdom, London | [BL] 12
-  type: vless
-  server: 35.189.111.134
-  port: 443
-  uuid: ed492b33-c6b4-463f-8359-3634b0d44251
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: matDwR2fEV41IhLs23SkP9dS6d6qiaRKS4ndb3uR1lk
-    short-id: 89ea42ae375d4933
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL] 6
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 9
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: safari
-- name: 🇯🇵 Japan, Shibuya City | [BL] 4
-  type: vless
-  server: 34.84.126.188
-  port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇨🇳 China, Guilin | [BL] 4
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 4
-  type: vless
-  server: 104.24.204.221
-  port: 443
-  uuid: 307ff98e-041b-2a08-235a-4ff61316b090
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    headers:
-      Host: yellow-king-ecd7.nsyrayyly2.workers.dev
-- name: 🇫🇮 Finland, Helsinki | [BL] 4
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-fi-01.hanvpn.cc
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: fi01-grpc-8e47a
-- name: 🇨🇦 Canada, Montreal | [BL] 6
+- name: 🇨🇦 Canada, Montreal | [BL] 13
   type: vless
   server: 34.186.193.91
   port: 443
@@ -2579,532 +1618,110 @@ proxies:
     public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
     short-id: 341ec000a90f1ced
   servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 10
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 6
-  type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
   client-fingerprint: safari
-- name: 🇸🇪 Sweden, Stockholm | [BL]
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
   type: vless
-  server: 143.246.194.213
+  server: 151.101.213.155
   port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: edge
-- name: 🇸🇬 Singapore, Singapore | [BL] 8
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
   cipher: zero
   udp: true
   tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇧🇷 Brazil, São Paulo | [BL] 11
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇯🇵 Japan, Shibuya City | [BL] 5
-  type: vless
-  server: 34.84.126.188
-  port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇯🇵 Japan, Shibuya City | [BL] 6
-  type: vless
-  server: 34.84.126.188
-  port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 11
-  type: vmess
-  server: lcv8v9l7oyamxxfz.v.3dns.vip
-  port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: lcv8v9l7OyamxxfZ.v.3dns.vip
-  network: ws
-  ws-opts:
-    path: /ws-vmess
-    headers:
-      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
-- name: 🇦🇹 Austria, Vienna | [BL] 4
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-vie-02.hanvpn.cc
-  client-fingerprint: android
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
-- name: 🇨🇳 China, Guilin | [BL] 5
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: chrome
-- name: 🇺🇸 United States, Santa Clara | [BL] 4
-  type: trojan
-  server: 43.173.90.202
-  port: 443
-  password: sg-trojan-2026
-  udp: true
-  sni: sg-proxy.local
-  skip-cert-verify: true
-  client-fingerprint: random
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 12
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 11
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: android
-- name: 🇸🇬 Singapore, Singapore | [BL] 9
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 5
-  type: vless
-  server: 104.24.204.221
-  port: 443
-  uuid: 307ff98e-041b-2a08-235a-4ff61316b090
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    headers:
-      Host: yellow-king-ecd7.nsyrayyly2.workers.dev
-- name: 🇨🇳 China, Guilin | [BL] 6
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: random
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 13
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇫🇮 Finland, Helsinki | [BL] 5
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-fi-01.hanvpn.cc
-  client-fingerprint: android
-  network: grpc
-  grpc-opts:
-    grpc-service-name: fi01-grpc-8e47a
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 12
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: chrome
-- name: 🇦🇹 Austria, Vienna | [BL] 5
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-vie-02.hanvpn.cc
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
-- name: 🇨🇦 Canada, Toronto | [BL] 11
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-02.hanvpn.cc
-  client-fingerprint: chrome
-  network: grpc
-  grpc-opts:
-    grpc-service-name: se02-grpc-8e47a
-- name: 🇧🇷 Brazil, São Paulo | [BL] 12
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-    spider-x: /
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇨🇦 Canada, Toronto | [BL] 12
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-se-01.hanvpn.cc
+  servername: accounts.fastly.com
   client-fingerprint: firefox
   network: xhttp
   xhttp-opts:
-    path: /s1-xhttp-8e47a/
+    path: /Lunex
     headers:
-      Host: hub-se-01.hanvpn.cc
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 14
-  type: vmess
-  server: lcv8v9l7oyamxxfz.v.3dns.vip
+      Host: lunex.store
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 5
+  type: vless
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
+  cipher: zero
+  udp: true
+  tls: true
+  servername: cdn-sg.skyvora.app
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /78bc8
+    headers:
+      Host: cdn-sg.skyvora.app
+- name: 🇬🇧 United Kingdom, London | [BL] 4
+  type: vless
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
   port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: ios
+- name: 🇧🇷 Brazil, São Paulo | [BL] 9
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+    spider-x: /
+  servername: www.cloudflare.com
+  client-fingerprint: safari
+- name: 🇨🇦 Canada, Montreal | [BL] 14
+  type: vless
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
+  servername: www.cloudflare.com
+  client-fingerprint: android
+- name: 🇬🇧 United Kingdom, London | [BL] 5
+  type: vless
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  type: vmess
+  server: 20.235.220.189
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
   tls: true
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
   network: ws
   ws-opts:
     path: /ws-vmess
     headers:
-      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
-- name: 🇬🇧 United Kingdom, Maidenhead | [BL] 7
-  type: vless
-  server: 78.129.208.44
-  port: 421
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  servername: chistomat.dry.care
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 13
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-    spider-x: /
-  servername: updates.cdn-apple.com
-  client-fingerprint: firefox
-- name: 🇧🇷 Brazil, São Paulo | [BL] 13
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-    spider-x: /
-  servername: www.cloudflare.com
-  client-fingerprint: edge
-- name: 🇨🇳 China, Guilin | [BL] 7
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: firefox
-- name: 🇦🇹 Austria, Vienna | [BL] 6
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-vie-02.hanvpn.cc
-  client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
-- name: 🇸🇬 Singapore, Singapore | [BL] 10
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇯🇵 Japan, Shibuya City | [BL] 7
-  type: vless
-  server: 34.84.126.188
-  port: 443
-  uuid: 51a43b75-c84b-46eb-885e-c24e7819cd0b
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI
-    short-id: 780152c21e234b5a
-  servername: www.cloudflare.com
-  client-fingerprint: edge
-- name: 🇧🇷 Brazil, São Paulo | [BL] 14
-  type: vless
-  server: 34.39.174.220
-  port: 443
-  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
-    short-id: b62a4da6cd1c4dd6
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  type: vless
-  server: 31.76.249.87
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: android
-- name: 🇸🇬 Singapore, Singapore | [BL] 11
-  type: vless
-  server: 35.198.230.134
-  port: 443
-  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
-    short-id: b1fef7a9181ea31d
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
-- name: 🇨🇳 China, Guilin | [BL] 8
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-05.hanvpn.cc
-  client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de05-grpc-8e47a
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 6
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-de-06.hanvpn.cc
-  client-fingerprint: qq
-  network: grpc
-  grpc-opts:
-    grpc-service-name: de06-grpc-8e47a
-- name: 🇨🇦 Canada, Montreal | [BL] 7
-  type: vless
-  server: 34.186.193.91
-  port: 443
-  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
-    short-id: 341ec000a90f1ced
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇨🇳 China, Guilin | [BL] 9
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: android
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 15
-  type: vless
-  server: 34.92.145.185
-  port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇸🇬 Singapore, Singapore | [BL] 12
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+- name: 🇸🇬 Singapore, Singapore | [BL] 7
   type: vless
   server: 35.198.230.134
   port: 443
@@ -3119,160 +1736,305 @@ proxies:
   client-fingerprint: safari
 - name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
   type: vless
-  server: 143.246.194.213
+  server: solih.mervi.icu
   port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c
-  servername: www.ikea.com
-  client-fingerprint: safari
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: firefox
+- name: 🇦🇹 Austria, Vienna | [BL] 2
   type: vless
-  server: 31.76.249.87
+  server: sfert.mervi.icu
   port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: safari
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: android
+- name: 🇫🇮 Finland, Helsinki | [BL] 4
   type: vless
-  server: 34.92.145.185
+  server: fintanil228.vvzzkontaktezzvv.garden
   port: 443
-  uuid: 75d38591-267e-4d89-98bc-164f25b50880
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: firefox
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 6
+  type: vless
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
+  cipher: zero
+  udp: true
+  tls: true
+  servername: cdn-sg.skyvora.app
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /78bc8
+    headers:
+      Host: cdn-sg.skyvora.app
+- name: 🇫🇮 Finland, Helsinki | [BL] 5
+  type: vless
+  server: fintanil228.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: android
+- name: 🇸🇬 Singapore, Singapore | [BL] 8
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
   cipher: zero
   udp: true
   tls: true
   reality-opts:
-    public-key: HV_4dmK3rwzqhWP1yOpC1L8BObd5lpZRYTzUflsi2x4
-    short-id: 64b3f192fc0669e1
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+- name: 🇨🇳 China, Guilin | [BL] 6
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: chrome
+- name: 🇨🇦 Canada, Montreal | [BL] 15
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: ios
+- name: 🇧🇷 Brazil, São Paulo | [BL] 10
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+    spider-x: /
   servername: www.cloudflare.com
   client-fingerprint: chrome
-- name: 🇨🇦 Canada, Toronto | [BL] 13
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
   type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
+  server: 151.101.213.155
+  port: 443
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
   cipher: zero
   udp: true
   tls: true
-  servername: hub-se-01.hanvpn.cc
+  servername: accounts.fastly.com
   client-fingerprint: android
   network: xhttp
   xhttp-opts:
-    path: /s1-xhttp-8e47a/
+    path: /Lunex
     headers:
-      Host: hub-se-01.hanvpn.cc
-- name: 🌐 Anycast-IP | 🇭🇰 🇯🇵 | [BL] 14
-  type: vless
-  server: c-1cdd34e4d01bc9577487.xn--kivt58h.lol
-  port: 443
-  uuid: b5af4a3d-f525-43aa-9cc3-de1ba437e4ed
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o
-    short-id: 94d3f4df
-  servername: updates.cdn-apple.com
-  client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | [BL] 6
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-fi-01.hanvpn.cc
-  client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: fi01-grpc-8e47a
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  type: vless
-  server: 31.76.249.87
-  port: 443
-  uuid: dc9e93bc-b53a-11f1-91d3-52540030ba36
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ
-  servername: www.akamai.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL] 6
-  type: vless
-  server: 104.24.204.221
-  port: 443
-  uuid: 307ff98e-041b-2a08-235a-4ff61316b090
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    headers:
-      Host: yellow-king-ecd7.nsyrayyly2.workers.dev
-- name: 🇦🇹 Austria, Vienna | [BL] 7
-  type: vless
-  server: 193.8.215.96
-  port: 9443
-  uuid: d9d0f208-d582-41d5-bb7b-742671402810
-  cipher: zero
-  udp: true
-  tls: true
-  servername: hub-vie-02.hanvpn.cc
-  client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vie02-grpc-8e47a
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 17
+      Host: lunex.store
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   type: vmess
-  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  server: wwafj5lhl6bi8au9.v.3dns.vip
   port: 443
   uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
   tls: true
-  servername: lcv8v9l7oyamxxfz.v.3dns.vip
+  servername: wwafj5lhl6bi8au9.v.3dns.vip
   network: ws
   ws-opts:
     path: /ws-vmess
-- name: 🌐 Anycast-IP | 🇵🇱 🇷🇸 | [BL] 7
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 6
   type: vless
-  server: 2.56.172.228
-  port: 8443
-  uuid: 5b754a1a-11aa-4df9-a8ba-44af9a579fe1
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts
-  servername: poland.b2ai.top
-  client-fingerprint: ios
-- name: 🇨🇳 China, Guilin | [BL] 10
-  type: trojan
-  server: 100.42.228.109
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: chrome
+- name: 🇬🇧 United Kingdom, London | [BL] 6
+  type: hysteria2
+  server: gb1.vihodest.net
   port: 443
-  password: BxceQaOe
+  password: 88956de8-38db-449c-8410-4b70a4fb5c9b
   udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: ios
-- name: 🇸🇬 Singapore, Singapore | [BL] 13
+  sni: gb1.vihodest.net
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 6
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇦🇹 Austria, Vienna | [BL] 3
+  type: vless
+  server: sfert.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: safari
+- name: 🇬🇧 United Kingdom, London | [BL] 7
+  type: vless
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: safari
+- name: 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] 7
+  type: vless
+  server: 172.67.130.159
+  port: 2096
+  uuid: 832c8f42-7fe1-4aa4-9171-eb9dddbf6fef
+  cipher: zero
+  udp: true
+  tls: true
+  servername: cdn-sg.skyvora.app
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /78bc8
+    headers:
+      Host: cdn-sg.skyvora.app
+- name: 🇨🇦 Canada, Montreal | [BL] 16
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: android
+- name: 🇨🇦 Canada, Montreal | [BL] 17
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 7
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 8
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 9
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇸🇬 Singapore, Singapore | [BL] 9
   type: vless
   server: 35.198.230.134
   port: 443
@@ -3285,3 +2047,449 @@ proxies:
     short-id: b1fef7a9181ea31d
   servername: www.cloudflare.com
   client-fingerprint: edge
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  type: vless
+  server: solih.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: j7_ysAZxK5vBkMqvu0r8_UUuR3Qp7Yml3fXFDGR5x3w
+    short-id: 573703f224b75e8c
+  servername: solih.mervi.icu
+  client-fingerprint: ios
+- name: 🇨🇦 Canada, Montreal | [BL] 18
+  type: vless
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
+  servername: www.cloudflare.com
+  client-fingerprint: qq
+- name: 🇫🇮 Finland, Helsinki | [BL] 6
+  type: vless
+  server: fintanil228.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: chrome
+- name: 🇦🇹 Austria, Vienna | [BL] 4
+  type: vless
+  server: sfert.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: firefox
+- name: 🇧🇷 Brazil, São Paulo | [BL] 11
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+  servername: www.cloudflare.com
+  client-fingerprint: qq
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 10
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇨🇳 China, Guilin | [BL] 7
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  type: hysteria2
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  udp: true
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: 🇦🇹 Austria, Vienna | [BL] 5
+  type: vless
+  server: sfert.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: qq
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  type: vless
+  server: 151.101.213.155
+  port: 443
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /Lunex
+    headers:
+      Host: lunex.store
+- name: 🇸🇬 Singapore, Singapore | [BL] 10
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+- name: 🇸🇬 Singapore, Singapore | [BL] 11
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: qq
+- name: 🇨🇦 Canada, Montreal | [BL] 19
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  type: vless
+  server: 151.101.213.155
+  port: 443
+  uuid: 56029005-dadd-4c5c-8a3f-24fee9970b3a
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /Lunex
+    headers:
+      Host: lunex.store
+- name: 🇦🇹 Austria, Vienna | [BL] 6
+  type: vless
+  server: sfert.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: ios
+- name: 🇦🇹 Austria, Vienna | [BL] 7
+  type: vless
+  server: sfert.mervi.icu
+  port: 443
+  uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0
+    short-id: d3a788d813cb2050
+  servername: sfert.mervi.icu
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 11
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 12
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇧🇷 Brazil, São Paulo | [BL] 12
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+  servername: www.cloudflare.com
+  client-fingerprint: safari
+- name: 🇧🇷 Brazil, São Paulo | [BL] 13
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+- name: 🇸🇬 Singapore, Singapore | [BL] 12
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 13
+  type: vless
+  server: 82.115.20.206
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇨🇦 Canada, Montreal | [BL] 20
+  type: vless
+  server: 34.47.1.109
+  port: 443
+  uuid: 448b76ac-c636-4303-bec1-0b2c22afee0c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk
+    short-id: c9d4bf8d94ec8dab
+  servername: www.cloudflare.com
+  client-fingerprint: edge
+- name: 🇸🇬 Singapore, Singapore | [BL] 13
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: android
+- name: 🇧🇷 Brazil, São Paulo | [BL] 14
+  type: vless
+  server: 34.39.174.220
+  port: 443
+  uuid: 5e517b94-e207-47ee-be3c-3020a57594e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs
+    short-id: b62a4da6cd1c4dd6
+  servername: www.cloudflare.com
+  client-fingerprint: edge
+- name: 🇨🇳 China, Guilin | [BL] 8
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+  client-fingerprint: firefox
+- name: 🇬🇧 United Kingdom, London | [BL] 8
+  type: vless
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
+    short-id: 2e124af254a65e7c
+    spider-x: /
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  client-fingerprint: firefox
+- name: 🇩🇪 Germany, Frankfurt am Main (Frankfurt am Main Nord-Ost) | [BL] 14
+  type: vless
+  server: nova.freshnet.ir
+  port: 2082
+  uuid: ce2bd817-7fb1-4b94-8125-d6161de31962
+  cipher: zero
+  udp: true
+  tls: true
+  servername: nova.freshnet.ir
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /cats/FslNz
+    headers:
+      Host: nova.freshnet.ir
+- name: 🇺🇸 United States, Houston (Northside/Northline) | 🌐 | [BL] 7
+  type: vless
+  server: newstate.vihodest.net
+  port: 443
+  uuid: 88956de8-38db-449c-8410-4b70a4fb5c9b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc
+  servername: newstate.vihodest.net
+  client-fingerprint: firefox
+- name: 🇨🇳 China, Guilin | [BL] 9
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🇫🇮 Finland, Helsinki | [BL] 7
+  type: vless
+  server: fintanil228.vvzzkontaktezzvv.garden
+  port: 443
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA
+    short-id: d110331f200987ae
+    spider-x: /
+  servername: fintanil228.vvzzkontaktezzvv.garden
+  client-fingerprint: safari
+- name: 🇨🇳 China, Guilin | [BL] 10
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🇨🇦 Canada, Montreal | [BL] 21
+  type: vless
+  server: 34.186.193.91
+  port: 443
+  uuid: 2ea95ec3-6b09-470e-952a-ebb171b0d666
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4
+    short-id: 341ec000a90f1ced
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+- name: 🇸🇬 Singapore, Singapore | [BL] 14
+  type: vless
+  server: 35.198.230.134
+  port: 443
+  uuid: 50cbda48-00ce-4688-8b3d-0177ab8f177c
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA
+    short-id: b1fef7a9181ea31d
+  servername: www.cloudflare.com
+  client-fingerprint: ios
