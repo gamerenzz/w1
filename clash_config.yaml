@@ -26,373 +26,708 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇵🇱 Poland, Warsaw | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
   - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇷🇺 Russia, Moscow | 🌐 | [BL]
   - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
   - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 8
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 9
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇵🇱 Poland, Warsaw | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 10
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 11
-  - 🇵🇱 Poland, Warsaw | [BL] 7
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 12
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
   - 🇨🇿 Czechia, Prague | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
   - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 12
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇺🇸 United States, Secaucus | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL]
+  - 🇺🇸 United States, Santa Clara | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇺🇸 United States, Secaucus | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 4
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🇺🇦 Ukraine, Kyiv | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 3
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
+  - 🇺🇦 Ukraine, Kyiv | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇺🇸 United States, Phoenix | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 7
 - name: 🤖 人工智能
   type: select
   proxies:
   - 🚀 节点选择
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇵🇱 Poland, Warsaw | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
   - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇷🇺 Russia, Moscow | 🌐 | [BL]
   - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
   - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 8
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 9
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇵🇱 Poland, Warsaw | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 10
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 11
-  - 🇵🇱 Poland, Warsaw | [BL] 7
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 12
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
   - 🇨🇿 Czechia, Prague | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
   - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 12
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇺🇸 United States, Secaucus | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL]
+  - 🇺🇸 United States, Santa Clara | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇺🇸 United States, Secaucus | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 4
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🇺🇦 Ukraine, Kyiv | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 3
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
+  - 🇺🇦 Ukraine, Kyiv | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇺🇸 United States, Phoenix | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 7
 - name: 🍎 苹果服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇵🇱 Poland, Warsaw | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
   - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇷🇺 Russia, Moscow | 🌐 | [BL]
   - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
   - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 8
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 9
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇵🇱 Poland, Warsaw | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 10
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 11
-  - 🇵🇱 Poland, Warsaw | [BL] 7
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 12
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
   - 🇨🇿 Czechia, Prague | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
   - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 12
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇺🇸 United States, Secaucus | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL]
+  - 🇺🇸 United States, Santa Clara | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇺🇸 United States, Secaucus | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 4
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🇺🇦 Ukraine, Kyiv | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 3
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
+  - 🇺🇦 Ukraine, Kyiv | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇺🇸 United States, Phoenix | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 7
 - name: 🪟 微软服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇵🇱 Poland, Warsaw | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
   - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇷🇺 Russia, Moscow | 🌐 | [BL]
   - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
   - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 8
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 9
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇵🇱 Poland, Warsaw | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 10
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 11
-  - 🇵🇱 Poland, Warsaw | [BL] 7
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 12
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
   - 🇨🇿 Czechia, Prague | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
   - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 12
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇺🇸 United States, Secaucus | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL]
+  - 🇺🇸 United States, Santa Clara | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇺🇸 United States, Secaucus | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 4
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🇺🇦 Ukraine, Kyiv | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 3
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
+  - 🇺🇦 Ukraine, Kyiv | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇺🇸 United States, Phoenix | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 7
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - 🇵🇱 Poland, Warsaw | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇬🇧 United Kingdom, London | [BL]
   - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇷🇺 Russia, Moscow | 🌐 | [BL]
   - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
   - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 8
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🇵🇱 Poland, Warsaw | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 9
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇵🇱 Poland, Warsaw | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇨🇳 China, Guilin | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 10
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇵🇱 Poland, Warsaw | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 10
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 11
-  - 🇵🇱 Poland, Warsaw | [BL] 7
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 12
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
   - 🇨🇿 Czechia, Prague | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇬🇧 United Kingdom, London | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
   - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 12
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 14
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 3
+  - 🇬🇧 United Kingdom, London | [BL] 5
+  - 🇺🇸 United States, Secaucus | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL]
+  - 🇺🇸 United States, Santa Clara | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇺🇸 United States, Secaucus | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 4
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 2
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇬🇧 United Kingdom, London | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🇺🇦 Ukraine, Kyiv | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 3
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
+  - 🇺🇦 Ukraine, Kyiv | [BL] 2
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇨🇳 China, Guilin | [BL] 10
+  - 🇬🇧 United Kingdom, London | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇺🇸 United States, Phoenix | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 5
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 5
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 7
 - name: 🎯 全球直连
   type: select
   proxies:
@@ -449,125 +784,35 @@ rules:
 - GEOIP,cn,🎯 全球直连
 - MATCH,🐟 漏网之鱼
 proxies:
-- name: 🇵🇱 Poland, Warsaw | [BL]
+- name: 🇫🇮 Finland, Helsinki | [BL]
+  type: hysteria2
+  server: 222.167.212.160
+  port: 8443
+  password: kewr0929_M9ic23iqe_m9E2R93Js8034c_Rt10
+  udp: true
+  sni: new-finland-september.bumbleshrimp.com
+- name: 🇬🇧 United Kingdom, London | [BL]
   type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
-  client-fingerprint: ios
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
+  servername: mol.ultimagamest.com
   client-fingerprint: qq
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  type: vless
-  server: 2.26.3.81
-  port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: android
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /vless-ws
 - name: 🇨🇳 China, Guilin | [BL]
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: t.me%2Fripaojiedian
+  sni: 100.42.228.109
   skip-cert-verify: true
-  client-fingerprint: edge
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  type: vless
-  server: 2.26.3.81
-  port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: ios
-- name: 🇨🇳 China, Guilin | [BL] 2
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: safari
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  type: vless
-  server: 2.26.3.81
-  port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: chrome
+  client-fingerprint: random
 - name: 🇷🇺 Russia, Moscow | 🌐 | [BL]
   type: hysteria2
   server: msk.frkn.org
@@ -577,147 +822,196 @@ proxies:
   sni: msk.frkn.org
 - name: 🇲🇾 Malaysia, Cyberjaya | [BL]
   type: hysteria2
-  server: 103.117.141.103
+  server: mlxy1.mangshe.xyz
   port: 2060
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   udp: true
-  sni: mlxy.mangshe.xyz
+  sni: mlxy1.mangshe.xyz
   skip-cert-verify: true
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL]
   type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: ios
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
-  type: vmess
-  server: ex1ogt73nzpqkac2.v.3dns.vip
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: random
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
+  type: hysteria2
+  server: 77.74.123.99
+  port: 8443
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  udp: true
+  sni: grape-test-italy.dynuddns.net
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
+  type: vless
+  server: ru19.aimodelhub.top
   port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  ws-opts:
-    path: /ws-vmess
-- name: 🇵🇱 Poland, Warsaw | [BL] 2
-  type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
-  client-fingerprint: safari
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: random
+  network: xhttp
+  xhttp-opts:
+    path: /
 - name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
   type: vless
-  server: ir.fastraytel9880.ir
-  port: 22117
-  uuid: 4abb351b-5948-42d6-9c41-329ba75ddaa1
-  cipher: zero
-  udp: true
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  server: 178.17.48.202
+  port: 443
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: firefox
+- name: 🇨🇳 China, Guilin | [BL] 2
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
   client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: ios
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+  type: vless
+  server: ru19.aimodelhub.top
+  port: 443
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇬🇧 United Kingdom, London | [BL] 2
+  type: vless
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  type: vless
+  server: 178.17.48.202
+  port: 443
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: edge
+- name: 🇨🇿 Czechia, Prague | [BL]
+  type: vless
+  server: 194.87.59.7
+  port: 2085
+  uuid: ea925d7b-8f99-4874-9597-13a224c3664c
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  type: vless
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: android
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇬🇧 United Kingdom, London | [BL] 3
+  type: vless
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /vless-ws
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
   type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: firefox
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  type: vless
-  server: 31.76.69.22
+  server: 151.101.213.164
   port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: firefox
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  type: vless
-  server: 2.26.3.81
-  port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: firefox
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: firefox
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  type: vless
-  server: 2.26.3.81
-  port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: edge
+  servername: accounts.fastly.com
+  client-fingerprint: android
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
 - name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
   type: hysteria2
   server: nl01ntrhy01.tcp-reset-club.net
@@ -726,268 +1020,133 @@ proxies:
   udp: true
   sni: 127.0.0.1
   skip-cert-verify: true
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+- name: 🇹🇷 Turkey, Mahmutbey | [BL]
   type: vless
-  server: 2.26.3.81
+  server: 93.190.9.19
+  port: 3090
+  uuid: edfc660c-3cc9-4d36-8acd-5daca185f3e6
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇹🇷 Turkey, Etimesgut | [BL]
+  type: vless
+  server: 153.56.210.210
   port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: qq
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: chrome
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  type: hysteria2
-  server: mlxy2.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  skip-cert-verify: true
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: edge
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: ios
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
   type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: safari
-- name: 🇵🇱 Poland, Warsaw | [BL] 3
-  type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  type: hysteria2
-  server: nl01ntrhy01.tcp-reset-club.net
+  server: 151.101.213.164
   port: 443
-  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
   udp: true
-  sni: 127.0.0.1
-  skip-cert-verify: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇵🇱 Poland, Warsaw | [BL]
+  type: vless
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /vless-ws
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
   type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: edge
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 8
+  servername: accounts.fastly.com
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇹🇷 Turkey, Mahmutbey | [BL] 2
   type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  server: 93.190.8.163
+  port: 3090
+  uuid: ea925d7b-8f99-4874-9597-13a224c3664c
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: android
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: chrome
+- name: 🇬🇧 United Kingdom, London | [BL] 4
+  type: vless
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 2
+  type: vless
+  server: 153.56.210.210
+  port: 443
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: chrome
 - name: 🇨🇳 China, Guilin | [BL] 3
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: 100.42.228.109
+  sni: t.me%2Fripaojiedian
   skip-cert-verify: true
-  client-fingerprint: firefox
-- name: 🇵🇱 Poland, Warsaw | [BL] 4
-  type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
   client-fingerprint: android
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
-  type: vless
-  server: 31.76.69.22
-  port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: safari
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: qq
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 9
-  type: vless
-  server: 31.76.69.22
-  port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: android
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  type: hysteria2
-  server: mlxy1.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  sni: mlxy1.mangshe.xyz
-  skip-cert-verify: true
-- name: 🇺🇸 United States, Secaucus | [BL]
-  type: vmess
-  server: 163.245.196.106
-  port: 40443
-  uuid: XEXEVIL
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /user_xexevil tel
-- name: 🇵🇱 Poland, Warsaw | [BL] 5
-  type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: android
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 9
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: safari
 - name: 🇨🇳 China, Guilin | [BL] 4
   type: trojan
   server: 100.42.228.109
@@ -997,224 +1156,41 @@ proxies:
   sni: t.me%2Fripaojiedian
   skip-cert-verify: true
   client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: safari
 - name: 🇨🇳 China, Guilin | [BL] 5
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: 100.42.228.109
+  sni: t.me%2Fripaojiedian
   skip-cert-verify: true
-  client-fingerprint: random
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 10
-  type: vless
-  server: 31.76.69.22
-  port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: qq
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
   client-fingerprint: edge
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  type: vmess
-  server: ex1ogt73nzpqkac2.v.3dns.vip
-  port: 443
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: ex1ogt73nzpqkac2.v.3dns.vip
-  network: ws
-  ws-opts:
-    path: /ws-vmess
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 11
-  type: vless
-  server: 31.76.69.22
-  port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: chrome
 - name: 🇨🇳 China, Guilin | [BL] 6
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: 100.42.228.109
+  sni: t.me%2Fripaojiedian
   skip-cert-verify: true
-  client-fingerprint: chrome
-- name: 🇨🇳 China, Guilin | [BL] 7
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: edge
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: firefox
-- name: 🇵🇱 Poland, Warsaw | [BL] 6
-  type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
-  client-fingerprint: qq
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
-  client-fingerprint: qq
-- name: 🇺🇸 United States, Secaucus | [BL] 2
-  type: vmess
-  server: 163.245.196.106
-  port: 40443
-  uuid: XEXEVIL
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /user_xexevil tel
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 10
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: qq
-- name: 🇨🇳 China, Guilin | [BL] 8
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: ios
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 11
-  type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: android
-- name: 🇵🇱 Poland, Warsaw | [BL] 7
-  type: vless
-  server: 45.198.0.98
-  port: 1337
-  uuid: 94dd5fa3-ce24-4b16-8534-2e6b64a97087
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: tm-eZylkXA8308bx_Gik886Gfc2uMVrjs-4SVVZlMUI
-    short-id: d774703ebee04d5f
-  servername: www.booking.com
-  client-fingerprint: edge
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 12
-  type: vless
-  server: 31.76.69.22
-  port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: edge
-- name: 🇨🇿 Czechia, Prague | [BL]
-  type: vless
-  server: 153.76.185.93
-  port: 3090
-  uuid: 52504f52-ddd4-43fe-9fc6-8fb354ca2a2f
-  cipher: zero
-  udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
+  client-fingerprint: safari
 - name: 🇺🇸 United States, St Louis (Downtown) | [BL]
   type: vmess
-  server: chatgpt.com
+  server: 172.64.80.1
   port: 8443
   uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
   alterId: 0
@@ -1227,101 +1203,1265 @@ proxies:
     path: /lMnsZUN4/
     headers:
       Host: v2ray1.dozapp.xyz
-- name: 🇷🇺 Russia, Moscow | [BL]
+- name: 🇨🇳 China, Guilin | [BL] 7
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🇹🇷 Turkey, Mahmutbey | [BL] 3
+  type: vless
+  server: 93.190.8.26
+  port: 3090
+  uuid: 637b3435-8458-4358-b5f7-139f6db33006
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇬🇧 United Kingdom, London | [BL] 5
+  type: vless
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇺🇸 United States, Secaucus | [BL]
+  type: vmess
+  server: 163.245.196.106
+  port: 40443
+  uuid: XEXEVIL
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /user_xexevil tel
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: safari
+- name: 🇵🇱 Poland, Warsaw | [BL] 2
+  type: vless
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL]
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: android
+- name: 🇺🇸 United States, Santa Clara | [BL]
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
   type: hysteria2
   server: msk.frkn.org
   port: 443
   password: f317b5d6-d399-4d3d-a051-89d674ae953c
   udp: true
-  sni: msk.frkn.org
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 12
+- name: 🇵🇱 Poland, Warsaw | [BL] 3
   type: vless
-  server: 144.31.27.215
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg
-    short-id: 568d87a47271344e
-    spider-x: /
-  servername: 144.31.27.215
-  client-fingerprint: safari
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 13
+  servername: mol.ultimagamest.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 3
   type: vless
-  server: 31.76.69.22
+  server: 153.56.210.210
   port: 443
-  uuid: 61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8
-    short-id: 830b93d6a086e00e
-  servername: fastly.jsdelivr.net
-  client-fingerprint: ios
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 14
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: random
+- name: 🇵🇱 Poland, Warsaw | [BL] 4
   type: vless
-  server: 2.26.3.81
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: random
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇺🇸 United States, San Jose | [BL]
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: firefox
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  type: vless
+  server: 178.17.48.202
   port: 443
-  uuid: 607fbd26-4bd6-4e16-a74b-a0d9894866e7
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
-    spider-x: /
-  servername: fi03.mcloud.mov
-  client-fingerprint: safari
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: qq
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
   type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 2
+  type: vmess
+  server: 172.64.80.1
+  port: 8443
+  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: v2ray1.dozapp.xyz
+  network: ws
+  ws-opts:
+    path: /lMnsZUN4/
+    headers:
+      Host: v2ray1.dozapp.xyz
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: edge
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇺🇸 United States, Secaucus | [BL] 2
+  type: vmess
+  server: 163.245.196.106
+  port: 40443
+  uuid: XEXEVIL
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /user_xexevil tel
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 4
+  type: vless
+  server: 153.56.210.210
+  port: 443
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: qq
+- name: 🇹🇷 Turkey, Mahmutbey | [BL] 4
+  type: vless
+  server: 93.190.8.166
+  port: 3090
+  uuid: edfc660c-3cc9-4d36-8acd-5daca185f3e6
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  type: vless
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
   client-fingerprint: ios
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  type: vless
-  server: 2.27.41.167
-  port: 43000
-  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
-  cipher: zero
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇺🇸 United States, Santa Clara | [BL] 2
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
   udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: 867pr04Eeb9bRXQzoJV1O36jDXGlFbc3s0f_xAwgpho
-    short-id: f49105b04cfaefcf
-    spider-x: /
-  servername: 2.27.41.167
+  sni: sg-proxy.local
+  skip-cert-verify: true
   client-fingerprint: chrome
+- name: 🇺🇸 United States, San Jose | [BL] 2
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: ios
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 2
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: qq
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 5
+  type: vless
+  server: 153.56.210.210
+  port: 443
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: safari
+- name: 🇺🇸 United States, Santa Clara | [BL] 3
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: safari
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 4
+  type: vless
+  server: 178.17.48.202
+  port: 443
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: android
+- name: 🇨🇳 China, Guilin | [BL] 8
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  type: vless
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  type: hysteria2
+  server: mlxy2.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  sni: mlxy2.mangshe.xyz
+  skip-cert-verify: true
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  type: vless
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: random
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇺🇸 United States, San Jose | [BL] 3
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: edge
 - name: 🇨🇳 China, Guilin | [BL] 9
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: t.me%2Fripaojiedian
+  sni: 100.42.228.109
   skip-cert-verify: true
-  client-fingerprint: ios
+  client-fingerprint: firefox
+- name: 🇨🇿 Czechia, Prague | [BL] 2
+  type: vless
+  server: 153.76.185.180
+  port: 3090
+  uuid: ea925d7b-8f99-4874-9597-13a224c3664c
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇬🇧 United Kingdom, London | [BL] 6
+  type: vless
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: random
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  type: hysteria2
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  udp: true
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: chrome
+- name: 🇺🇸 United States, San Jose | [BL] 4
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: safari
+- name: 🇺🇦 Ukraine, Kyiv | [BL]
+  type: vless
+  server: 104.143.223.75
+  port: 2085
+  uuid: edfc660c-3cc9-4d36-8acd-5daca185f3e6
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  type: vless
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: firefox
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 5
+  type: vless
+  server: 178.17.48.202
+  port: 443
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: random
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 3
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: firefox
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
+  type: vless
+  server: ru19.aimodelhub.top
+  port: 443
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  type: vless
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: edge
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  type: vless
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇵🇱 Poland, Warsaw | [BL] 5
+  type: vless
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /vless-ws
 - name: 🇨🇳 China, Guilin | [BL] 10
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: t.me%2Fripaojiedian
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  type: hysteria2
+  server: 31.59.150.248
+  port: 4433
+  password: d929e993-8053-488a-8a22-0ae09f706a2e
+  udp: true
+  sni: nl.nextgencloud.tech
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: firefox
+- name: 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  type: vless
+  server: 162.35.96.35
+  port: 8081
+  uuid: 54ee5e59-55a3-4599-83ff-0c67b3f411b2
+  cipher: zero
+  udp: true
+  network: ws
+  ws-opts:
+    path: /vless-test
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: edge
+- name: 🇺🇸 United States, Santa Clara | [BL] 4
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
   skip-cert-verify: true
   client-fingerprint: android
+- name: 🇺🇸 United States, San Jose | [BL] 5
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: qq
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
+  type: vless
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: qq
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇺🇦 Ukraine, Kyiv | [BL] 2
+  type: vless
+  server: 104.143.223.71
+  port: 2085
+  uuid: 82d81f5d-51be-4132-afaf-46f6218f4127
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 4
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: safari
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  type: hysteria2
+  server: 103.117.141.103
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  sni: mlxy.mangshe.xyz
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: ios
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  type: hysteria2
+  server: mlxy2.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  skip-cert-verify: true
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: edge
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  type: vless
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇬🇧 United Kingdom, London | [BL] 7
+  type: vless
+  server: 45.88.12.61
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  type: vless
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  type: hysteria2
+  server: msk.frkn.org
+  port: 443
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  udp: true
+  skip-cert-verify: true
+- name: 🇺🇸 United States, Phoenix | [BL]
+  type: vless
+  server: www.csgo.net
+  port: 2095
+  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  cipher: zero
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: llm-api.sofurry.dpdns.org
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  type: vless
+  server: us-4bf85a22b1.shamanapp.online
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: safari
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 6
+  type: vless
+  server: 178.17.48.202
+  port: 443
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: chrome
+- name: 🇵🇱 Poland, Warsaw | [BL] 6
+  type: vless
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇫🇷 France, Paris | [BL]
+  type: hysteria2
+  server: 85.204.107.189
+  port: 8443
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  udp: true
+  sni: hopp-romania-new.roxa.org
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: chrome
+- name: 🇹🇷 Turkey, Mahmutbey | [BL] 5
+  type: vless
+  server: 93.190.9.17
+  port: 3090
+  uuid: e2b20d7c-8e3e-4122-a997-523f3d6af119
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇺🇸 United States, Santa Clara | [BL] 5
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: random
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+  type: vless
+  server: ru19.aimodelhub.top
+  port: 443
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /
+- name: 🇵🇱 Poland, Warsaw | [BL] 7
+  type: vless
+  server: 2.26.148.111
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: qq
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: android
+- name: 🇺🇸 United States, San Jose | [BL] 6
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: qq
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: qq
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
+  type: vless
+  server: ru19.aimodelhub.top
+  port: 443
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 6
+  type: vless
+  server: 153.56.210.210
+  port: 443
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: edge
+- name: 🇹🇷 Turkey, Mahmutbey | [BL] 6
+  type: vless
+  server: 93.190.9.158
+  port: 3090
+  uuid: 82d81f5d-51be-4132-afaf-46f6218f4127
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇺🇸 United States, San Jose | [BL] 7
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: android
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  type: vless
+  server: 95.85.252.223
+  port: 2083
+  uuid: 0d18168c-0d44-41f4-b94d-8e9ed0d6a2e7
+  cipher: zero
+  udp: true
+  tls: true
+  servername: mol.ultimagamest.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vless-ws
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 6
+  type: vless
+  server: ru19.aimodelhub.top
+  port: 443
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: android
+  network: xhttp
+  xhttp-opts:
+    path: /
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  type: vless
+  server: 185.227.154.226
+  port: 443
+  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
+    short-id: 3246e72c
+  servername: www.samsung.com
+  client-fingerprint: firefox
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 5
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: ios
+- name: 🇨🇭 Switzerland, Zurich | [BL]
+  type: hysteria2
+  server: 82.38.64.239
+  port: 8443
+  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
+  udp: true
+  sni: hopp-swizland-new.mysynology.net
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 7
+  type: vless
+  server: 153.56.210.210
+  port: 443
+  uuid: 8e826a69-63f6-0001-a67d-4a1958e8b2d2
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
+    short-id: a696de84963656de
+  servername: amd.com
+  client-fingerprint: android
+- name: 🇨🇿 Czechia, Prague | [BL] 3
+  type: vless
+  server: 194.87.59.20
+  port: 2085
+  uuid: e2b20d7c-8e3e-4122-a997-523f3d6af119
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 7
+  type: vless
+  server: 178.17.48.202
+  port: 443
+  uuid: 974f2c7e-a292-4207-8315-ef4151bdca41
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo
+  servername: external-api.bachidze.com
+  client-fingerprint: android
+- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 7
+  type: vless
+  server: ru19.aimodelhub.top
+  port: 443
+  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
+    short-id: 51b784e13468
+  servername: ru19.aimodelhub.top
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 6
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: edge
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  type: hysteria2
+  server: 162.249.126.13
+  port: 8443
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  udp: true
+  sni: hop-germany-september.dynuddns.com
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: safari
+- name: 🇨🇭 Switzerland, Zurich | 🌐 | [BL] 7
+  type: vless
+  server: 193.151.108.35
+  port: 43000
+  uuid: 47f79fc1-0646-40e8-8a58-73e85d183d5a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ
+    short-id: 75df7f65ba2a8155
+    spider-x: /
+  servername: 193.151.108.35
+  client-fingerprint: chrome
