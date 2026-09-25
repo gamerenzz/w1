@@ -26,1013 +26,923 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇸🇪 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 4
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 5
-  - 🇫🇷 France, Paris | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇺🇸 United States | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 8
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 9
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇺🇸 United States, San Jose | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 4
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 2
-  - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 3
-  - 🇺🇸 United States, Cleveland | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 12
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 3
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
-  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 3
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇨🇭 Switzerland, Zurich | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
-  - 🇨🇿 Czechia, Prague | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 6
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 15
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
   - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 8
-  - 🇹🇷 Turkey, Istanbul | [BL] 9
-  - 🇪🇪 Estonia, Tallinn | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 4
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 17
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 18
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 19
-  - 🇺🇸 United States, Cleveland | [BL] 8
-  - 🇺🇸 United States, Cleveland | [BL] 9
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 10
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 7
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
-  - 🇺🇸 United States, Cleveland | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 20
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇨🇿 Czechia, Prague | [BL] 4
-  - 🇹🇷 Turkey, Istanbul | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 5
-  - 🇺🇸 United States, Des Moines | [BL]
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
-  - 🇺🇸 United States, San Jose | [BL] 3
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 11
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 8
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 13
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 21
+  - 🇹🇷 Turkey, Ankara | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
   - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇹🇷 Turkey, Ankara | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 22
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 9
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 7
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 14
-  - 🇹🇷 Turkey, Istanbul | [BL] 15
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 12
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 16
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇺🇸 United States, Cleveland | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇺🇸 United States, San Jose | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇹🇷 Turkey, Mahmutbey | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 14
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 23
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 24
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 25
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 26
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  - 🇺🇸 United States, Des Moines | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇨🇳 China, Guilin | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 2
   - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 2
+  - 🇲🇾 Malaysia, Cyberjaya | [BL]
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇯🇵 Japan, Shibuya City | 🌐 | [BL]
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 2
+  - 🇮🇱 Israel, Rosh HaAyin | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 3
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇸🇪 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇹🇼 Taiwan, Yuanlin | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 4
+  - 🇯🇵 Japan, Shibuya City | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇯🇵 Japan, Shibuya City | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 7
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇭🇰 Hong Kong, Central | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 6
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇺🇸 United States, Des Moines | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 10
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 11
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 7
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 12
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
+  - 🇹🇼 Taiwan, Yuanlin | [BL] 2
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 12
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 6
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
+  - 🇭🇰 Hong Kong, Central | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 13
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 13
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
   - 🇨🇳 China, Guilin | [BL] 10
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 14
+  - 🇨🇿 Czechia, Prague | [BL] 4
+  - 🇺🇸 United States, Ashburn | [BL]
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 7
 - name: 🤖 人工智能
   type: select
   proxies:
   - 🚀 节点选择
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇸🇪 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 4
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 5
-  - 🇫🇷 France, Paris | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇺🇸 United States | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 8
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 9
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇺🇸 United States, San Jose | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 4
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 2
-  - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 3
-  - 🇺🇸 United States, Cleveland | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 12
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 3
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
-  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 3
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇨🇭 Switzerland, Zurich | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
-  - 🇨🇿 Czechia, Prague | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 6
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 15
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
   - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 8
-  - 🇹🇷 Turkey, Istanbul | [BL] 9
-  - 🇪🇪 Estonia, Tallinn | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 4
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 17
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 18
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 19
-  - 🇺🇸 United States, Cleveland | [BL] 8
-  - 🇺🇸 United States, Cleveland | [BL] 9
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 10
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 7
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
-  - 🇺🇸 United States, Cleveland | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 20
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇨🇿 Czechia, Prague | [BL] 4
-  - 🇹🇷 Turkey, Istanbul | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 5
-  - 🇺🇸 United States, Des Moines | [BL]
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
-  - 🇺🇸 United States, San Jose | [BL] 3
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 11
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 8
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 13
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 21
+  - 🇹🇷 Turkey, Ankara | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
   - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇹🇷 Turkey, Ankara | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 22
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 9
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 7
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 14
-  - 🇹🇷 Turkey, Istanbul | [BL] 15
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 12
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 16
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇺🇸 United States, Cleveland | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇺🇸 United States, San Jose | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇹🇷 Turkey, Mahmutbey | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 14
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 23
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 24
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 25
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 26
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  - 🇺🇸 United States, Des Moines | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇨🇳 China, Guilin | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 2
   - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 2
+  - 🇲🇾 Malaysia, Cyberjaya | [BL]
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇯🇵 Japan, Shibuya City | 🌐 | [BL]
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 2
+  - 🇮🇱 Israel, Rosh HaAyin | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 3
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇸🇪 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇹🇼 Taiwan, Yuanlin | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 4
+  - 🇯🇵 Japan, Shibuya City | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇯🇵 Japan, Shibuya City | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 7
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇭🇰 Hong Kong, Central | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 6
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇺🇸 United States, Des Moines | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 10
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 11
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 7
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 12
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
+  - 🇹🇼 Taiwan, Yuanlin | [BL] 2
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 12
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 6
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
+  - 🇭🇰 Hong Kong, Central | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 13
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 13
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
   - 🇨🇳 China, Guilin | [BL] 10
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 14
+  - 🇨🇿 Czechia, Prague | [BL] 4
+  - 🇺🇸 United States, Ashburn | [BL]
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 7
 - name: 🍎 苹果服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇸🇪 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 4
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 5
-  - 🇫🇷 France, Paris | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇺🇸 United States | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 8
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 9
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇺🇸 United States, San Jose | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 4
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 2
-  - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 3
-  - 🇺🇸 United States, Cleveland | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 12
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 3
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
-  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 3
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇨🇭 Switzerland, Zurich | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
-  - 🇨🇿 Czechia, Prague | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 6
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 15
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
   - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 8
-  - 🇹🇷 Turkey, Istanbul | [BL] 9
-  - 🇪🇪 Estonia, Tallinn | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 4
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 17
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 18
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 19
-  - 🇺🇸 United States, Cleveland | [BL] 8
-  - 🇺🇸 United States, Cleveland | [BL] 9
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 10
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 7
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
-  - 🇺🇸 United States, Cleveland | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 20
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇨🇿 Czechia, Prague | [BL] 4
-  - 🇹🇷 Turkey, Istanbul | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 5
-  - 🇺🇸 United States, Des Moines | [BL]
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
-  - 🇺🇸 United States, San Jose | [BL] 3
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 11
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 8
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 13
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 21
+  - 🇹🇷 Turkey, Ankara | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
   - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇹🇷 Turkey, Ankara | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 22
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 9
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 7
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 14
-  - 🇹🇷 Turkey, Istanbul | [BL] 15
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 12
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 16
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇺🇸 United States, Cleveland | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇺🇸 United States, San Jose | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇹🇷 Turkey, Mahmutbey | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 14
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 23
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 24
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 25
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 26
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  - 🇺🇸 United States, Des Moines | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇨🇳 China, Guilin | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 2
   - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 2
+  - 🇲🇾 Malaysia, Cyberjaya | [BL]
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇯🇵 Japan, Shibuya City | 🌐 | [BL]
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 2
+  - 🇮🇱 Israel, Rosh HaAyin | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 3
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇸🇪 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇹🇼 Taiwan, Yuanlin | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 4
+  - 🇯🇵 Japan, Shibuya City | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇯🇵 Japan, Shibuya City | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 7
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇭🇰 Hong Kong, Central | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 6
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇺🇸 United States, Des Moines | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 10
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 11
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 7
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 12
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
+  - 🇹🇼 Taiwan, Yuanlin | [BL] 2
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 12
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 6
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
+  - 🇭🇰 Hong Kong, Central | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 13
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 13
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
   - 🇨🇳 China, Guilin | [BL] 10
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 14
+  - 🇨🇿 Czechia, Prague | [BL] 4
+  - 🇺🇸 United States, Ashburn | [BL]
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 7
 - name: 🪟 微软服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇸🇪 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 4
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 5
-  - 🇫🇷 France, Paris | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇺🇸 United States | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 8
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 9
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇺🇸 United States, San Jose | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 4
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 2
-  - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 3
-  - 🇺🇸 United States, Cleveland | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 12
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 3
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
-  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 3
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇨🇭 Switzerland, Zurich | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
-  - 🇨🇿 Czechia, Prague | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 6
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 15
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
   - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 8
-  - 🇹🇷 Turkey, Istanbul | [BL] 9
-  - 🇪🇪 Estonia, Tallinn | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 4
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 17
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 18
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 19
-  - 🇺🇸 United States, Cleveland | [BL] 8
-  - 🇺🇸 United States, Cleveland | [BL] 9
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 10
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 7
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
-  - 🇺🇸 United States, Cleveland | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 20
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇨🇿 Czechia, Prague | [BL] 4
-  - 🇹🇷 Turkey, Istanbul | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 5
-  - 🇺🇸 United States, Des Moines | [BL]
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
-  - 🇺🇸 United States, San Jose | [BL] 3
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 11
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 8
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 13
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 21
+  - 🇹🇷 Turkey, Ankara | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
   - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇹🇷 Turkey, Ankara | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 22
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 9
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 7
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 14
-  - 🇹🇷 Turkey, Istanbul | [BL] 15
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 12
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 16
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇺🇸 United States, Cleveland | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇺🇸 United States, San Jose | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇹🇷 Turkey, Mahmutbey | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 14
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 23
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 24
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 25
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 26
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  - 🇺🇸 United States, Des Moines | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇨🇳 China, Guilin | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 2
   - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 2
+  - 🇲🇾 Malaysia, Cyberjaya | [BL]
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇯🇵 Japan, Shibuya City | 🌐 | [BL]
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 2
+  - 🇮🇱 Israel, Rosh HaAyin | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 3
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇸🇪 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇹🇼 Taiwan, Yuanlin | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 4
+  - 🇯🇵 Japan, Shibuya City | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇯🇵 Japan, Shibuya City | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 7
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇭🇰 Hong Kong, Central | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 6
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇺🇸 United States, Des Moines | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 10
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 11
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 7
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 12
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
+  - 🇹🇼 Taiwan, Yuanlin | [BL] 2
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 12
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 6
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
+  - 🇭🇰 Hong Kong, Central | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 13
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 13
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
   - 🇨🇳 China, Guilin | [BL] 10
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 14
+  - 🇨🇿 Czechia, Prague | [BL] 4
+  - 🇺🇸 United States, Ashburn | [BL]
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 7
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - 🇺🇸 United States, Secaucus | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇸🇪 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 4
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 2
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 5
-  - 🇫🇷 France, Paris | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇺🇸 United States | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 8
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 9
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇺🇸 United States, San Jose | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  - 🇲🇾 Malaysia, Cyberjaya | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 4
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 2
-  - 🇨🇳 China, Guilin | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇹🇷 Turkey, Istanbul | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 3
-  - 🇺🇸 United States, Cleveland | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 11
-  - 🇨🇳 China, Guilin | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 12
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 13
-  - 🇨🇳 China, Guilin | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 3
-  - 🇨🇳 China, Guilin | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  - 🇺🇸 United States, Cleveland | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
-  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 4
-  - 🇨🇿 Czechia, Prague | [BL] 2
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 5
-  - 🇹🇷 Turkey, Ankara | [BL] 3
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
-  - 🇨🇭 Switzerland, Zurich | [BL]
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
-  - 🇨🇿 Czechia, Prague | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 6
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
-  - 🇹🇷 Turkey, Ankara | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 15
-  - 🇨🇳 China, Guilin | [BL] 5
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
   - 🇺🇸 United States, Santa Clara | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 8
-  - 🇹🇷 Turkey, Istanbul | [BL] 9
-  - 🇪🇪 Estonia, Tallinn | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 4
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 17
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 18
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 19
-  - 🇺🇸 United States, Cleveland | [BL] 8
-  - 🇺🇸 United States, Cleveland | [BL] 9
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 10
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 4
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 7
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
-  - 🇺🇸 United States, Cleveland | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 3
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 20
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 6
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇨🇿 Czechia, Prague | [BL] 4
-  - 🇹🇷 Turkey, Istanbul | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇨🇳 China, Guilin | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 5
-  - 🇺🇸 United States, Des Moines | [BL]
-  - 🇺🇸 United States, Secaucus | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
-  - 🇺🇸 United States, San Jose | [BL] 3
-  - 🇺🇸 United States, Santa Clara | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
-  - 🇺🇸 United States, Cleveland | [BL] 11
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 8
-  - 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
-  - 🇹🇷 Turkey, Istanbul | [BL] 13
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 21
+  - 🇹🇷 Turkey, Ankara | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
   - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇹🇷 Turkey, Ankara | [BL] 6
-  - 🇹🇷 Turkey, Ankara | [BL] 7
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 22
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇸🇪 🇺🇸 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 5
-  - 🇨🇳 China, Guilin | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 9
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇺🇸 United States, St Louis (Downtown) | [BL] 7
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇹🇷 Turkey, Istanbul | [BL] 14
-  - 🇹🇷 Turkey, Istanbul | [BL] 15
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 10
-  - 🇺🇸 United States, Cleveland | [BL] 12
-  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  - 🇹🇷 Turkey, Istanbul | [BL] 16
-  - 🇨🇳 China, Guilin | [BL] 9
-  - 🇺🇸 United States, Cleveland | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇺🇸 United States, San Jose | [BL] 4
-  - 🇺🇸 United States, San Jose | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇹🇷 Turkey, Mahmutbey | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Cleveland | [BL] 14
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 23
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 24
-  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 25
-  - 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 26
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🇺🇸 United States, Santa Clara | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL]
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  - 🇺🇸 United States, Des Moines | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇨🇳 China, Guilin | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 2
   - 🇺🇸 United States, Santa Clara | [BL] 3
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 2
+  - 🇲🇾 Malaysia, Cyberjaya | [BL]
+  - 🇺🇸 United States, San Jose | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
+  - 🇨🇳 China, Guilin | [BL] 2
+  - 🇺🇸 United States, San Jose | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇯🇵 Japan, Shibuya City | 🌐 | [BL]
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 3
+  - 🇺🇸 United States, San Jose | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 2
+  - 🇮🇱 Israel, Rosh HaAyin | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 3
+  - 🇺🇸 United States, Santa Clara | [BL] 4
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 3
+  - 🇹🇷 Turkey, Mahmutbey | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Central | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 4
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇸🇪 | [BL]
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 4
+  - 🇨🇳 China, Guilin | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 3
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 3
+  - 🇨🇿 Czechia, Prague | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 4
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇹🇼 Taiwan, Yuanlin | [BL]
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 4
+  - 🇯🇵 Japan, Shibuya City | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 4
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  - 🇨🇳 China, Guilin | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  - 🇺🇸 United States, San Jose | [BL] 5
+  - 🇯🇵 Japan, Shibuya City | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 7
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇺🇸 United States, Secaucus | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  - 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇨🇳 China, Guilin | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 5
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 5
+  - 🇭🇰 Hong Kong, Central | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 6
+  - 🇨🇭 Switzerland, Zurich | [BL]
+  - 🇨🇳 China, Guilin | [BL] 7
+  - 🇺🇸 United States, Des Moines | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 10
+  - 🇺🇸 United States, San Jose | [BL] 6
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 5
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 6
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 11
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 7
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 7
+  - 🇨🇿 Czechia, Prague | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 12
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
+  - 🇹🇼 Taiwan, Yuanlin | [BL] 2
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 12
+  - 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 6
+  - 🇺🇸 United States, Santa Clara | [BL] 6
+  - 🇲🇾 Malaysia, Cyberjaya | [BL] 6
+  - 🇭🇰 Hong Kong, Central | [BL] 6
+  - 🇺🇸 United States, San Jose | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 13
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 13
+  - 🇨🇳 China, Guilin | [BL] 8
+  - 🇨🇳 China, Guilin | [BL] 9
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
   - 🇨🇳 China, Guilin | [BL] 10
+  - 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 14
+  - 🇨🇿 Czechia, Prague | [BL] 4
+  - 🇺🇸 United States, Ashburn | [BL]
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 7
 - name: 🎯 全球直连
   type: select
   proxies:
@@ -1089,194 +999,127 @@ rules:
 - GEOIP,cn,🎯 全球直连
 - MATCH,🐟 漏网之鱼
 proxies:
-- name: 🇺🇸 United States, Secaucus | [BL]
-  type: vmess
-  server: 163.245.196.106
-  port: 40443
-  uuid: XEXEVIL
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /user_xexevil tel
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
-  type: hysteria2
-  server: 162.249.126.13
-  port: 8443
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  udp: true
-  sni: hop-germany-september.dynuddns.com
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
   type: vless
-  server: 194.156.26.45
+  server: 45.207.157.136
   port: 443
-  uuid: 6bef6685-e989-467c-8fea-7fa1c6a0af2c
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  servername: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /vl/BBj8crirrHMxntD7H3o3z
-    headers:
-      Host: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-  type: vless
-  server: 200.169.183.68
-  port: 443
-  uuid: 54127949-5b65-4600-a976-326c99cfc794
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: e1f8a3b6
-    spider-x: /
-  servername: s3-m.perecmusic.ru
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL]
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 2
-  type: vless
-  server: 200.169.183.68
-  port: 443
-  uuid: 54127949-5b65-4600-a976-326c99cfc794
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: e1f8a3b6
-    spider-x: /
-  servername: s3-m.perecmusic.ru
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 2
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL]
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: safari
-  network: ws
-  ws-opts:
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇺🇸 United States, Cleveland | [BL]
-  type: vless
-  server: 154.83.2.110
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 3
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: random
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
-  type: vless
-  server: 185.227.154.226
-  port: 443
-  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
-    short-id: 3246e72c
-  servername: www.samsung.com
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 2
-  type: vless
-  server: 141.193.213.30
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: vms.lifetime23.workers.dev
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 3
-  type: vless
-  server: 200.169.183.68
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇺🇸 United States, Santa Clara | [BL]
+  type: trojan
+  server: 43.173.90.202
   port: 443
-  uuid: 54127949-5b65-4600-a976-326c99cfc794
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: safari
+- name: 🇹🇷 Turkey, Ankara | [BL]
+  type: hysteria2
+  server: 162.249.126.13
+  port: 8081
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  udp: true
+  sni: hop-germany-september.dynuddns.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 2
+  type: vless
+  server: 45.207.156.204
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+  type: vless
+  server: nl2.gursub.com
+  port: 443
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: e1f8a3b6
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: ios
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL]
+  type: vless
+  server: 222.167.245.212
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
     spider-x: /
-  servername: s3-m.perecmusic.ru
-  client-fingerprint: chrome
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL]
-  type: vmess
-  server: 172.64.80.1
-  port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
-  alterId: 0
-  cipher: auto
+  servername: www.evovpn.pro
+  client-fingerprint: ios
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
+  type: vless
+  server: 161.117.181.127
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
   udp: true
   tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
   network: ws
   ws-opts:
-    path: /lMnsZUN4/
+    path: /
     headers:
-      Host: v2ray1.dozapp.xyz
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇭🇰 Hong Kong, Central | [BL]
+  type: hysteria2
+  server: 311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com
+  port: 443
+  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
+  udp: true
+  sni: 311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com
+  skip-cert-verify: true
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
+  type: hysteria2
+  server: 77.74.123.99
+  port: 8443
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  udp: true
+  sni: grape-test-italy.dynuddns.net
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
 - name: 🇺🇸 United States, San Jose (Brokaw) | [BL]
   type: vless
   server: 23.82.99.128
@@ -1288,334 +1131,300 @@ proxies:
   reality-opts:
     public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
   servername: www.google.com
-  client-fingerprint: safari
+  client-fingerprint: qq
   network: grpc
   grpc-opts:
     grpc-service-name: TunService
-- name: 🇹🇷 Turkey, Istanbul | [BL]
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 3
   type: vless
-  server: 122.8.44.9
+  server: 45.207.157.136
   port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: android
-  network: xhttp
-  xhttp-opts: {}
-- name: 🇹🇷 Turkey, Istanbul | [BL] 2
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-    spider-x: /HesarWeb
-  servername: download.nvidia.com
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
     path: /
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇸🇪 🇺🇸 | [BL]
-  type: vless
-  server: 91.193.58.10
-  port: 8880
-  uuid: bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /pyip=Telegram🇨🇳 @WangCai2
     headers:
-      Host: yellow-mouse-fcce.400-318.workers.dev
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
-  type: vless
-  server: 109.121.44.71
-  port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
-  client-fingerprint: safari
-- name: 🇹🇷 Turkey, Istanbul | [BL] 3
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: firefox
-  network: xhttp
-  xhttp-opts: {}
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 4
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: safari
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 2
-  type: vmess
-  server: chatgpt.com
-  port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: v2ray1.dozapp.xyz
-  network: ws
-  ws-opts:
-    path: /lMnsZUN4/
-    headers:
-      Host: v2ray1.dozapp.xyz
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 2
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 5
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: random
-- name: 🇫🇷 France, Paris | [BL]
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇭🇰 Hong Kong, Central | [BL] 2
   type: hysteria2
-  server: 85.204.107.189
-  port: 8443
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  udp: true
-  sni: hopp-romania-new.roxa.org
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 3
-  type: vless
-  server: 194.156.26.45
+  server: b503b615-tm96o0-tne5x4-1rfon.hk3.hyhuawei.com
   port: 443
-  uuid: 6bef6685-e989-467c-8fea-7fa1c6a0af2c
-  cipher: zero
+  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
   udp: true
-  tls: true
-  servername: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /vl/BBj8crirrHMxntD7H3o3z
-    headers:
-      Host: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  type: vless
-  server: 194.156.26.45
+  sni: b503b615-tm96o0-tne5x4-1rfon.hk3.hyhuawei.com
+  skip-cert-verify: true
+- name: 🇺🇸 United States, Santa Clara | [BL] 2
+  type: trojan
+  server: 43.173.90.202
   port: 443
-  uuid: 6bef6685-e989-467c-8fea-7fa1c6a0af2c
-  cipher: zero
+  password: sg-trojan-2026
   udp: true
-  tls: true
-  servername: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
+  sni: sg-proxy.local
+  skip-cert-verify: true
   client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /vl/BBj8crirrHMxntD7H3o3z
-    headers:
-      Host: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 6
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
   type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: safari
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  type: vless
-  server: 185.227.154.226
-  port: 443
-  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
-    short-id: 3246e72c
-  servername: www.samsung.com
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 7
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: safari
   network: ws
   ws-opts:
-    headers:
-      Host: cvhpyn.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 2
-  type: vless
-  server: 45.131.208.4
-  port: 80
-  uuid: 424fa201-3f94-479e-b533-d5257cf9a207
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    headers:
-      Host: floral-thunder-10d3.82-67d.workers.dev
-- name: 🇺🇸 United States, Cleveland | [BL] 2
-  type: vless
-  server: 154.83.2.110
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: d3ea408c-3536-44d3-b54f-5887818a1721
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: firefox
-  network: xhttp
-  xhttp-opts:
     path: /
     headers:
-      Host: fretranxrabet.net
-- name: 🇺🇸 United States | 🌐 | [BL]
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL]
+  type: vless
+  server: 43.155.230.167
+  port: 443
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
+  client-fingerprint: random
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 2
+  type: vless
+  server: nl2.gursub.com
+  port: 443
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL]
+  type: vless
+  server: 156.246.95.216
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: chrome
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  type: vless
+  server: 43.155.230.167
+  port: 443
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
+  client-fingerprint: firefox
+- name: 🇺🇸 United States, Des Moines | [BL]
   type: vless
   server: www.csgo.net
   port: 2095
   uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
   cipher: zero
   udp: true
-  servername: www.csgo.net
   network: ws
   ws-opts:
     path: /
     headers:
       Host: llm-api.sofurry.dpdns.org
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL]
   type: vless
-  server: 109.121.44.71
+  server: 45.207.156.69
   port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 2
+  type: vless
+  server: 222.167.245.212
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.evovpn.pro
+  client-fingerprint: random
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
+  type: hysteria2
+  server: 162.249.126.13
+  port: 8443
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  udp: true
+  sni: hop-germany-september.dynuddns.com
+- name: 🇨🇳 China, Guilin | [BL]
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
   client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 8
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL]
   type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 9
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 2
   type: vless
-  server: 88.216.70.86
+  server: 156.246.95.216
   port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇺🇸 United States, Santa Clara | [BL] 3
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: android
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: edge
-- name: 🇨🇿 Czechia, Prague | [BL]
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  type: hysteria2
+  server: msk.frkn.org
+  port: 443
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  udp: true
+  sni: msk.frkn.org
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 2
   type: vless
-  server: 153.76.185.154
-  port: 3090
-  uuid: caa8d499-c303-4aa7-96a0-45a07bb47de5
+  server: 161.117.181.127
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 2
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 2
+  type: vless
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL]
+  type: hysteria2
+  server: mlxy2.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  sni: mlxy2.mangshe.xyz
+  skip-cert-verify: true
 - name: 🇺🇸 United States, San Jose | [BL]
   type: vless
   server: 137.175.82.40
@@ -1629,180 +1438,627 @@ proxies:
     public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
     short-id: d082f567
   servername: www.lovelive-anime.jp
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 4
-  type: vless
-  server: 194.156.26.45
-  port: 443
-  uuid: 6bef6685-e989-467c-8fea-7fa1c6a0af2c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /vl/BBj8crirrHMxntD7H3o3z
-    headers:
-      Host: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  type: vless
-  server: 185.227.154.226
-  port: 443
-  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
-    short-id: 3246e72c
-  servername: www.samsung.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 10
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
   client-fingerprint: firefox
-- name: 🇺🇸 United States, Cleveland | [BL] 3
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 4
   type: vless
-  server: 154.197.75.160
+  server: 45.207.157.136
   port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: random
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
   network: ws
   ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
+    path: /
     headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
-  type: hysteria2
-  server: nl01ntrhy01.tcp-reset-club.net
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL]
+  type: vless
+  server: 144.31.66.113
   port: 443
-  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
   udp: true
-  sni: 127.0.0.1
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
+  client-fingerprint: android
+  network: xhttp
+  xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🇨🇳 China, Guilin | [BL] 2
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
   skip-cert-verify: true
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL]
+  client-fingerprint: firefox
+- name: 🇺🇸 United States, San Jose | [BL] 2
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  type: vless
+  server: 8.210.29.68
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 3
+  type: vless
+  server: nl2.gursub.com
+  port: 443
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: chrome
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
+  type: vless
+  server: 144.31.66.113
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
+  client-fingerprint: edge
+  network: xhttp
+  xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
   type: hysteria2
-  server: mlxy1.mangshe.xyz
+  server: 77.74.123.99
+  port: 8443
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  udp: true
+  sni: grape-test-italy.dynuddns.net
+- name: 🇯🇵 Japan, Shibuya City | 🌐 | [BL]
+  type: hysteria2
+  server: msjp.mangshe.xyz
+  port: 20561
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+  type: hysteria2
+  server: 103.117.141.124
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 5
+  type: vless
+  server: 45.207.157.136
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 4
+  type: vless
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
+  type: vless
+  server: 144.31.66.113
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 5
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇨🇳 China, Guilin | [BL] 3
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
+  udp: true
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+  client-fingerprint: android
+- name: 🇺🇸 United States, San Jose | [BL] 3
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: safari
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  type: vless
+  server: 43.155.230.167
+  port: 443
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 2
+  type: vless
+  server: 45.207.156.69
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 2
+  type: vless
+  server: 8.210.29.68
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇮🇱 Israel, Rosh HaAyin | [BL]
+  type: vless
+  server: platform115.golnamakcert.top
+  port: 80
+  uuid: e13cf851-b4fd-413b-8d49-146e6eb8e5d4
+  cipher: zero
+  udp: true
+  servername: platform115.halalkhor.info
+  network: ws
+  ws-opts:
+    path: /platform115
+    headers:
+      Host: platform115.halalkhor.info
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+  type: vless
+  server: 23.82.99.128
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: android
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 3
+  type: vless
+  server: 8.210.29.68
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 3
+  type: vless
+  server: 222.167.245.212
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.evovpn.pro
+  client-fingerprint: edge
+- name: 🇺🇸 United States, Santa Clara | [BL] 4
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: qq
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  type: vless
+  server: 144.31.66.113
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 3
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇹🇷 Turkey, Mahmutbey | [BL]
+  type: vless
+  server: 93.190.8.166
+  port: 3090
+  uuid: a44b015b-1b2b-4f3e-b236-79634f674b2d
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 4
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 3
+  type: vless
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇭🇰 Hong Kong, Central | [BL] 3
+  type: hysteria2
+  server: e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com
+  port: 443
+  password: 4eedcde6-d16a-11ef-973a-f23c913c8d2b
+  udp: true
+  sni: e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com
+  skip-cert-verify: true
+- name: 🇨🇿 Czechia, Prague | [BL]
+  type: vless
+  server: 194.87.59.106
+  port: 2085
+  uuid: a44b015b-1b2b-4f3e-b236-79634f674b2d
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 6
+  type: vless
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 4
+  type: vless
+  server: 8.210.29.68
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+  type: hysteria2
+  server: 103.117.141.124
   port: 2060
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   udp: true
   sni: mlxy1.mangshe.xyz
   skip-cert-verify: true
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL]
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
   type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
+  server: 23.82.99.128
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
   cipher: zero
   udp: true
   tls: true
-  servername: kkkk-xcd.pages.dev
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: safari
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
   type: vless
-  server: 151.101.213.164
+  server: 144.31.66.113
   port: 443
-  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
   cipher: zero
   udp: true
   tls: true
-  servername: accounts.fastly.com
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
+  type: vless
+  server: 144.31.66.113
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
+  client-fingerprint: random
+  network: xhttp
+  xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
+  type: vless
+  server: 144.31.66.113
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.infofinland.fi
   client-fingerprint: safari
   network: xhttp
   xhttp-opts:
+    path: /video/download
+    headers:
+      Host: evovpn.pro
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 7
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
     path: /
     headers:
-      Host: fretranxrabet.net
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇸🇪 | [BL]
   type: vless
-  server: 185.227.154.226
+  server: 159.246.55.30
+  port: 8880
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  cipher: zero
+  udp: true
+  network: ws
+  ws-opts:
+    headers:
+      Host: vms.lifetime59.workers.dev
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
+  type: vless
+  server: 23.82.99.128
+  port: 10453
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
+  servername: www.google.com
+  client-fingerprint: firefox
+  network: grpc
+  grpc-opts:
+    grpc-service-name: TunService
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 4
+  type: vless
+  server: nl2.gursub.com
   port: 443
-  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
-    short-id: 3246e72c
-  servername: www.samsung.com
-  client-fingerprint: safari
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  type: vmess
-  server: 31.77.8.97
-  port: 110
-  uuid: e8758bf0-c234-4809-89f7-25fd868316d0
-  alterId: 0
-  cipher: auto
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: android
+- name: 🇨🇳 China, Guilin | [BL] 4
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
   udp: true
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 2
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: random
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 3
   type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
+  server: 156.246.95.216
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  servername: kkkk-xcd.pages.dev
-  client-fingerprint: firefox
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
   network: ws
   ws-opts:
-    path: /?ed=2048
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇹🇷 Turkey, Istanbul | [BL] 4
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-    spider-x: /HesarWeb
-  servername: download.nvidia.com
-  client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
     path: /
-- name: 🇺🇸 United States, Cleveland | [BL] 4
-  type: vless
-  server: 154.83.2.110
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
     headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 2
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
   type: vless
   server: 23.82.99.128
   port: 10453
@@ -1817,28 +2073,195 @@ proxies:
   network: grpc
   grpc-opts:
     grpc-service-name: TunService
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 2
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 5
   type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
+  server: nl2.gursub.com
+  port: 443
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: safari
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 8
+  type: vless
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 4
+  type: vless
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: qq
   network: ws
   ws-opts:
+    path: /
     headers:
-      Host: cvhpyn.pages.dev
-- name: 🇨🇳 China, Guilin | [BL]
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇺🇸 United States, San Jose | [BL] 4
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
   udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: ios
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 3
+  type: vless
+  server: 161.117.181.127
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇨🇿 Czechia, Prague | [BL] 2
+  type: vless
+  server: 153.76.185.98
+  port: 3090
+  uuid: a44b015b-1b2b-4f3e-b236-79634f674b2d
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🇫🇷 France, Paris | [BL]
+  type: hysteria2
+  server: 85.204.107.189
+  port: 8443
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  udp: true
+  sni: hopp-romania-new.roxa.org
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Central | [BL] 4
+  type: hysteria2
+  server: 465965e0-tm3mo0-0-1rfon.nw4.hyhuawei.com
+  port: 443
+  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
+  udp: true
+  sni: 465965e0-tm3mo0-0-1rfon.nw4.hyhuawei.com
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 6
+  type: vless
+  server: 45.207.157.136
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 5
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 9
+  type: vless
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 3
+  type: vless
+  server: 45.207.156.69
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 10
+  type: vless
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 4
+  type: vless
+  server: 45.207.156.69
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
 - name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
   type: vless
   server: 47.253.144.114
@@ -1852,149 +2275,141 @@ proxies:
     public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
     short-id: 4679f07417e9feb4
   servername: www.apple.com
-  client-fingerprint: chrome
-- name: 🇹🇷 Turkey, Istanbul | [BL] 5
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
-    path: ?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 3
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  servername: kkkk-xcd.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇺🇸 United States, Cleveland | [BL] 5
-  type: vless
-  server: 154.197.75.160
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 3
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: eb98ab60-f16d-4662-a740-c89307400939
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
-    path: /
-    headers:
-      Host: fretranxrabet.net
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 4
-  type: vless
-  server: 200.169.183.68
-  port: 443
-  uuid: 54127949-5b65-4600-a976-326c99cfc794
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: e1f8a3b6
-    spider-x: /
-  servername: s3-m.perecmusic.ru
-  client-fingerprint: random
-- name: 🇹🇷 Turkey, Ankara | [BL]
-  type: vless
-  server: ru19.aimodelhub.top
-  port: 443
-  uuid: 13ef8e97-815a-0002-8688-0154d85d26bf
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 3
+  client-fingerprint: qq
+- name: 🇹🇼 Taiwan, Yuanlin | [BL]
   type: vmess
-  server: 172.64.80.1
-  port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
+  server: 24864168545164.oylfmxz.cn
+  port: 443
+  uuid: d90e4077-bc7e-414d-a650-70bf1baae4d6
   alterId: 0
   cipher: auto
   udp: true
   tls: true
-  servername: v2ray1.dozapp.xyz
+  servername: 24864168545164.oylfmxz.cn
   network: ws
   ws-opts:
-    path: /lMnsZUN4/
+    path: /
     headers:
-      Host: v2ray1.dozapp.xyz
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 11
+      Host: 24864168545164.oylfmxz.cn
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 4
   type: vless
-  server: 88.216.70.86
+  server: 222.167.245.212
   port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: ios
-- name: 🇨🇳 China, Guilin | [BL] 2
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.evovpn.pro
+  client-fingerprint: firefox
+- name: 🇯🇵 Japan, Shibuya City | [BL]
+  type: hysteria2
+  server: 43.167.208.94
+  port: 443
+  password: RQBXe4kpsRant_2u1PzdneBOPuCSwUSI
+  udp: true
+  sni: 43.167.208.94
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 4
+  type: vless
+  server: 156.246.95.216
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL]
+  type: hysteria2
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  udp: true
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: 🇨🇳 China, Guilin | [BL] 5
   type: trojan
   server: 100.42.228.109
   port: 443
   password: BxceQaOe
   udp: true
-  sni: 100.42.228.109
+  sni: t.me%2Fripaojiedian
   skip-cert-verify: true
-  client-fingerprint: chrome
+  client-fingerprint: safari
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 6
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 6
+  type: vless
+  server: nl2.gursub.com
+  port: 443
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: firefox
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  type: vless
+  server: 43.155.230.167
+  port: 443
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
+  client-fingerprint: qq
+- name: 🇺🇸 United States, San Jose | [BL] 5
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: android
+- name: 🇯🇵 Japan, Shibuya City | [BL] 2
+  type: hysteria2
+  server: 43.167.208.94
+  port: 443
+  password: RQBXe4kpsRant_2u1PzdneBOPuCSwUSI
+  udp: true
+  skip-cert-verify: true
 - name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   type: vless
   server: 47.253.144.114
@@ -2008,211 +2423,36 @@ proxies:
     public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
     short-id: 4679f07417e9feb4
   servername: www.apple.com
-  client-fingerprint: safari
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 4
-  type: vmess
-  server: chatgpt.com
-  port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: v2ray1.dozapp.xyz
-  network: ws
-  ws-opts:
-    path: /lMnsZUN4/
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 12
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  type: vless
-  server: 109.121.44.71
-  port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL] 5
-  type: vless
-  server: 200.169.183.68
-  port: 443
-  uuid: 54127949-5b65-4600-a976-326c99cfc794
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: e1f8a3b6
-    spider-x: /
-  servername: s3-m.perecmusic.ru
-  client-fingerprint: firefox
-- name: 🇹🇷 Turkey, Ankara | [BL] 2
-  type: vless
-  server: ru19.aimodelhub.top
-  port: 443
-  uuid: 13ef8e97-815a-0002-8688-0154d85d26bf
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
   client-fingerprint: android
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 13
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 7
   type: vless
-  server: 88.216.70.86
+  server: 45.207.156.204
   port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: firefox
-- name: 🇨🇳 China, Guilin | [BL] 3
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
-  type: vless
-  server: 91.193.58.10
-  port: 8880
-  uuid: bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /pyip=Telegram @WangCai2
-    headers:
-      Host: yellow-mouse-fcce.400-318.workers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 3
-  type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    headers:
-      Host: cvhpyn.pages.dev
-- name: 🇨🇳 China, Guilin | [BL] 4
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: firefox
-- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
-  type: hysteria2
-  server: nl01ntrhy01.tcp-reset-club.net
-  port: 443
-  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
-  udp: true
-  sni: 127.0.0.1
-  skip-cert-verify: true
-- name: 🇺🇸 United States, Cleveland | [BL] 6
-  type: vless
-  server: 154.197.75.160
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 14
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: d3ea408c-3536-44d3-b54f-5887818a1721
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
   client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
+  network: ws
+  ws-opts:
     path: /
     headers:
-      Host: fretranxrabet.net
-- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL]
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 5
   type: vless
-  server: ru19.aimodelhub.top
+  server: 43.155.230.167
   port: 443
-  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
   client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 4
-  type: hysteria2
-  server: 31.59.150.248
-  port: 4433
-  password: d929e993-8053-488a-8a22-0ae09f706a2e
-  udp: true
-  sni: nl.nextgencloud.tech
 - name: 🇺🇸 United States, Secaucus | 🌐 | [BL]
   type: vless
   server: 162.35.96.35
@@ -2223,81 +2463,184 @@ proxies:
   network: ws
   ws-opts:
     path: /vless-test
-- name: 🇺🇸 United States, Cleveland | [BL] 7
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 4
   type: vless
-  server: 154.197.75.160
+  server: 161.117.181.127
   port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: firefox
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
   network: ws
   ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
+    path: /
     headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 4
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 5
   type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
+  server: 8.210.29.68
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  client-fingerprint: android
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
   network: ws
   ws-opts:
+    path: /
     headers:
-      Host: cvhpyn.pages.dev
-- name: 🇨🇿 Czechia, Prague | [BL] 2
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 5
   type: vless
-  server: 194.87.59.8
-  port: 2085
-  uuid: 43202c3e-466c-4dce-b834-c6f4378ba217
+  server: 161.117.181.127
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: ios
+- name: 🇹🇷 Turkey, Mahmutbey | [BL] 2
+  type: vless
+  server: 93.190.9.126
+  port: 3090
+  uuid: a44b015b-1b2b-4f3e-b236-79634f674b2d
   cipher: zero
   udp: true
   network: grpc
   grpc-opts:
     grpc-service-name: vless
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 5
-  type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
-  cipher: zero
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  type: vmess
+  server: 163.245.196.106
+  port: 40443
+  uuid: XEXEVIL
+  alterId: 0
+  cipher: auto
   udp: true
-  tls: true
-  client-fingerprint: chrome
   network: ws
   ws-opts:
-    headers:
-      Host: cvhpyn.pages.dev
-- name: 🇹🇷 Turkey, Ankara | [BL] 3
-  type: vless
-  server: ru19.aimodelhub.top
+    path: /user_xexevil tel
+- name: 🇨🇳 China, Guilin | [BL] 6
+  type: trojan
+  server: 100.42.228.109
   port: 443
-  uuid: 13ef8e97-815a-0002-8688-0154d85d26bf
+  password: BxceQaOe
+  udp: true
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  type: hysteria2
+  server: 31.59.150.248
+  port: 4433
+  password: d929e993-8053-488a-8a22-0ae09f706a2e
+  udp: true
+  sni: nl.nextgencloud.tech
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 5
+  type: vless
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
     path: /
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 2
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: edge
+- name: 🇺🇸 United States, Santa Clara | [BL] 5
+  type: trojan
+  server: 43.173.90.202
+  port: 443
+  password: sg-trojan-2026
+  udp: true
+  sni: sg-proxy.local
+  skip-cert-verify: true
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Central | [BL] 5
   type: hysteria2
-  server: 103.117.141.103
+  server: 311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com
+  port: 443
+  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
+  udp: true
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 4
+  type: hysteria2
+  server: mlxy1.mangshe.xyz
   port: 2060
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   udp: true
-  sni: mlxy.mangshe.xyz
+  sni: mlxy1.mangshe.xyz
   skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 5
+  type: vless
+  server: 156.246.95.216
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 6
+  type: vless
+  server: 8.210.29.68
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
 - name: 🇨🇭 Switzerland, Zurich | [BL]
   type: hysteria2
   server: 82.38.64.239
@@ -2305,98 +2648,7 @@ proxies:
   password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
   udp: true
   sni: hopp-swizland-new.mysynology.net
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 3
-  type: vless
-  server: us-4bf85a22b1.shamanapp.online
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🇨🇿 Czechia, Prague | [BL] 3
-  type: vless
-  server: 153.76.185.187
-  port: 3090
-  uuid: 8a258586-34ed-461c-bc95-26dfb49a7aa9
-  cipher: zero
-  udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 5
-  type: hysteria2
-  server: 77.74.123.99
-  port: 8443
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  udp: true
-  sni: grape-test-italy.dynuddns.net
-- name: 🇹🇷 Turkey, Istanbul | [BL] 6
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts: {}
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 4
-  type: vless
-  server: 23.82.99.128
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
-  client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🇹🇷 Turkey, Ankara | [BL] 4
-  type: vless
-  server: ru19.aimodelhub.top
-  port: 443
-  uuid: 13ef8e97-815a-0002-8688-0154d85d26bf
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 15
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: firefox
-- name: 🇨🇳 China, Guilin | [BL] 5
+- name: 🇨🇳 China, Guilin | [BL] 7
   type: trojan
   server: 100.42.228.109
   port: 443
@@ -2405,73 +2657,405 @@ proxies:
   sni: 100.42.228.109
   skip-cert-verify: true
   client-fingerprint: edge
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 3
+- name: 🇺🇸 United States, Des Moines | [BL] 2
+  type: vless
+  server: www.csgo.net
+  port: 2095
+  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  cipher: zero
+  udp: true
+  servername: www.csgo.net
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: llm-api.sofurry.dpdns.org
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 8
+  type: vless
+  server: 45.207.156.204
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 5
+  type: vless
+  server: 45.207.156.69
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) | [BL] 2
   type: hysteria2
-  server: mlxy1.mangshe.xyz
+  server: nl01ntrhy01.tcp-reset-club.net
+  port: 443
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  udp: true
+  sni: 127.0.0.1
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 9
+  type: vless
+  server: 45.207.157.136
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL] 7
+  type: vless
+  server: nl2.gursub.com
+  port: 443
+  uuid: 02bd8b5a-170b-4a79-8e68-9cec710272c7
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk
+    short-id: a1b2c3d4e5f6a1b2
+  servername: nl2.gursub.com
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 10
+  type: vless
+  server: 45.207.156.204
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇺🇸 United States, San Jose | [BL] 6
+  type: vless
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 5
+  type: vless
+  server: 222.167.245.212
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.evovpn.pro
+  client-fingerprint: android
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 5
+  type: hysteria2
+  server: mlxy2.mangshe.xyz
   port: 2060
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   udp: true
   skip-cert-verify: true
-- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 2
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 11
   type: vless
-  server: ru19.aimodelhub.top
+  server: 45.207.157.136
   port: 443
-  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
     path: /
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 5
-  type: vmess
-  server: 172.64.80.1
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 6
+  type: vless
+  server: 45.207.156.69
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇫🇮 Finland, Helsinki | [BL]
+  type: hysteria2
+  server: 222.167.212.160
   port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
+  password: kewr0929_M9ic23iqe_m9E2R93Js8034c_Rt10
+  udp: true
+  sni: new-finland-september.bumbleshrimp.com
+- name: 🇫🇷 France, Paris | [BL] 2
+  type: hysteria2
+  server: paris.nerabotaet.com
+  port: 443
+  password: 2561c6b1a3069d3170b4d7e1ecc08c65
+  udp: true
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 6
+  type: vless
+  server: 161.117.181.127
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 11
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  type: vless
+  server: 43.155.230.167
+  port: 443
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
+  client-fingerprint: android
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL] 7
+  type: vless
+  server: 161.117.181.127
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  type: hysteria2
+  server: msk.frkn.org
+  port: 443
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  udp: true
+  sni: msk.frkn.org
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 🇸🇬 | [BL] 7
+  type: vless
+  server: 45.207.156.69
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇨🇿 Czechia, Prague | [BL] 3
+  type: vless
+  server: 153.76.185.187
+  port: 3090
+  uuid: 7b219b61-9cc6-49ca-bf2d-5d5ec7960256
+  cipher: zero
+  udp: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: vless
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 12
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 8
+  type: vless
+  server: 47.253.144.114
+  port: 443
+  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
+    short-id: 4679f07417e9feb4
+  servername: www.apple.com
+  client-fingerprint: safari
+- name: 🇹🇼 Taiwan, Yuanlin | [BL] 2
+  type: vmess
+  server: 24864168545164.oylfmxz.cn
+  port: 443
+  uuid: d90e4077-bc7e-414d-a650-70bf1baae4d6
   alterId: 0
   cipher: auto
   udp: true
   tls: true
-  servername: v2ray1.dozapp.xyz
+  servername: 24864168545164.oylfmxz.cn
   network: ws
   ws-opts:
-    path: /lMnsZUN4/
+    path: /
     headers:
-      Host: v2ray1.dozapp.xyz
-- name: 🇹🇷 Turkey, Istanbul | [BL] 7
+      Host: 24864168545164.oylfmxz.cn
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 6
   type: vless
-  server: 122.8.44.9
+  server: 222.167.245.212
   port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: firefox
-  network: xhttp
-  xhttp-opts:
-    path: ?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 6
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.evovpn.pro
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 6
   type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
+  server: 156.246.95.216
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  client-fingerprint: ios
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
   network: ws
   ws-opts:
+    path: /
     headers:
-      Host: cvhpyn.pages.dev
-- name: 🇺🇸 United States, Santa Clara | [BL]
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 12
+  type: vless
+  server: 45.207.156.204
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇭🇰 🇵🇱 | [BL] 7
+  type: vless
+  server: 222.167.245.212
+  port: 443
+  uuid: 21551c9e-70fe-4fbf-9546-69db828c5dde
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4
+    short-id: b4c823
+    spider-x: /
+  servername: www.evovpn.pro
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 6
+  type: vless
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇺🇸 United States, Santa Clara | [BL] 6
   type: trojan
   server: 43.173.90.202
   port: 443
@@ -2479,261 +3063,99 @@ proxies:
   udp: true
   sni: sg-proxy.local
   skip-cert-verify: true
-  client-fingerprint: edge
-- name: 🇹🇷 Turkey, Istanbul | [BL] 8
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-    spider-x: /HesarWeb
-  servername: download.nvidia.com
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇹🇷 Turkey, Istanbul | [BL] 9
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
-    path: ?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
-- name: 🇪🇪 Estonia, Tallinn | [BL]
+  client-fingerprint: random
+- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 6
   type: hysteria2
-  server: mg-42.whit3.net
-  port: 443
-  password: 1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a
+  server: mlxy1.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   udp: true
-  sni: mg-42.whit3.net
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 4
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 3
-  type: vless
-  server: ru19.aimodelhub.top
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Central | [BL] 6
+  type: hysteria2
+  server: 44577f17-tm96o0-tne5x4-1rfon.nw4.hyhuawei.com
   port: 443
-  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
-  cipher: zero
+  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
   udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 16
+  sni: 44577f17-tm96o0-tne5x4-1rfon.nw4.hyhuawei.com
+  skip-cert-verify: true
+- name: 🇺🇸 United States, San Jose | [BL] 7
   type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
+  server: 137.175.82.40
+  port: 30556
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 6
-  type: vless
-  server: 109.121.44.71
-  port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  servername: www.lovelive-anime.jp
   client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 17
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 13
   type: vless
-  server: 88.216.70.86
+  server: 45.207.156.204
   port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: random
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 18
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 19
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: random
-- name: 🇺🇸 United States, Cleveland | [BL] 8
-  type: vless
-  server: 154.197.75.160
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: ios
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
   network: ws
   ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇺🇸 United States, Cleveland | [BL] 9
-  type: vless
-  server: 154.197.75.160
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 6
-  type: vmess
-  server: 172.64.80.1
-  port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  ws-opts:
-    path: /lMnsZUN4/
-    headers:
-      Host: v2ray1.dozapp.xyz
-- name: 🇹🇷 Turkey, Ankara | [BL] 5
-  type: vless
-  server: ru19.aimodelhub.top
-  port: 443
-  uuid: 13ef8e97-815a-0002-8688-0154d85d26bf
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: firefox
-  network: xhttp
-  xhttp-opts:
     path: /
-- name: 🇹🇷 Turkey, Istanbul | [BL] 10
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇺🇸 | [BL] 7
   type: vless
-  server: 122.8.44.9
+  server: 179.255.106.180
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 13
+  type: vless
+  server: 179.255.146.20
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🇨🇳 China, Guilin | [BL] 8
+  type: trojan
+  server: 100.42.228.109
   port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
+  password: BxceQaOe
   udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts: {}
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 5
-  type: vless
-  server: us-4bf85a22b1.shamanapp.online
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
+  sni: t.me%2Fripaojiedian
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🇨🇳 China, Guilin | [BL] 9
+  type: trojan
+  server: 100.42.228.109
+  port: 443
+  password: BxceQaOe
   udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
+  sni: 100.42.228.109
+  skip-cert-verify: true
   client-fingerprint: ios
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 4
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  servername: kkkk-xcd.pages.dev
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL] 7
-  type: vless
-  server: 172.67.79.160
-  port: 2087
-  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    headers:
-      Host: cvhpyn.pages.dev
 - name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 6
   type: vless
   server: 23.82.99.128
@@ -2745,69 +3167,19 @@ proxies:
   reality-opts:
     public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
   servername: www.google.com
-  client-fingerprint: qq
+  client-fingerprint: ios
   network: grpc
   grpc-opts:
     grpc-service-name: TunService
-- name: 🇺🇸 United States, Cleveland | [BL] 10
-  type: vless
-  server: 154.197.75.160
+- name: 🇨🇳 China, Guilin | [BL] 10
+  type: trojan
+  server: 100.42.228.109
   port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
+  password: BxceQaOe
   udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇹🇷 Turkey, Istanbul | [BL] 11
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
-    path: ?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇳🇱 🇸🇪 | [BL] 3
-  type: vless
-  server: 194.156.26.45
-  port: 443
-  uuid: 6bef6685-e989-467c-8fea-7fa1c6a0af2c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /vl/BBj8crirrHMxntD7H3o3z
-    headers:
-      Host: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 20
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: safari
+  sni: 100.42.228.109
+  skip-cert-verify: true
+  client-fingerprint: chrome
 - name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 7
   type: vless
   server: 23.82.99.128
@@ -2823,857 +3195,119 @@ proxies:
   network: grpc
   grpc-opts:
     grpc-service-name: TunService
-- name: 🇨🇳 China, Guilin | [BL] 6
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: edge
-- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 4
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL] 7
   type: vless
-  server: ru19.aimodelhub.top
+  server: 8.210.29.68
   port: 443
-  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇺🇸 United States, San Jose | [BL] 2
-  type: vless
-  server: 137.175.82.40
-  port: 30556
-  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
-    short-id: d082f567
-  servername: www.lovelive-anime.jp
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: d3ea408c-3536-44d3-b54f-5887818a1721
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: android
+  network: ws
+  ws-opts:
     path: /
     headers:
-      Host: fretranxrabet.net
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL] 14
+  type: vless
+  server: 45.207.156.204
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL] 7
+  type: vless
+  server: 45.8.186.20
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 14
+  type: vless
+  server: 64.186.255.143
+  port: 8443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
+  cipher: zero
+  udp: true
+  tls: true
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
 - name: 🇨🇿 Czechia, Prague | [BL] 4
   type: vless
-  server: 153.76.185.99
+  server: 153.76.185.98
   port: 3090
-  uuid: 8a258586-34ed-461c-bc95-26dfb49a7aa9
+  uuid: a44b015b-1b2b-4f3e-b236-79634f674b2d
   cipher: zero
   udp: true
   network: grpc
   grpc-opts:
     grpc-service-name: vless
-- name: 🇹🇷 Turkey, Istanbul | [BL] 12
+- name: 🇺🇸 United States, Ashburn | [BL]
   type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-    spider-x: /HesarWeb
-  servername: download.nvidia.com
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  type: vless
-  server: 185.227.154.226
-  port: 443
-  uuid: b0e3d7fe-0ff5-470d-9c69-4f624a35d683
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: qxcpzDbypXaxsvsvzvebnyHxc0BTQdz7LvIkBXZ0TUc
-    short-id: 3246e72c
-  servername: www.samsung.com
-  client-fingerprint: ios
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: eb98ab60-f16d-4662-a740-c89307400939
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
-    path: /
-    headers:
-      Host: fretranxrabet.net
-- name: 🇨🇳 China, Guilin | [BL] 7
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 🇮🇶 | [BL] 5
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  servername: kkkk-xcd.pages.dev
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL] 5
-  type: vless
-  server: 194.156.26.45
-  port: 443
-  uuid: 6bef6685-e989-467c-8fea-7fa1c6a0af2c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /vl/BBj8crirrHMxntD7H3o3z
-    headers:
-      Host: LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev
-- name: 🇺🇸 United States, Des Moines | [BL]
-  type: vless
-  server: www.csgo.net
-  port: 2095
-  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: llm-api.sofurry.dpdns.org
-- name: 🇺🇸 United States, Secaucus | [BL] 2
-  type: vmess
-  server: 163.245.196.106
-  port: 40443
-  uuid: XEXEVIL
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /user_xexevil tel
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  type: vless
-  server: 47.253.144.114
-  port: 443
-  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
-    short-id: 4679f07417e9feb4
-  servername: www.apple.com
-  client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 7
-  type: vless
-  server: 109.121.44.71
-  port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
-  client-fingerprint: chrome
-- name: 🇺🇸 United States, San Jose | [BL] 3
-  type: vless
-  server: 137.175.82.40
-  port: 30556
-  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
-    short-id: d082f567
-  servername: www.lovelive-anime.jp
-  client-fingerprint: edge
-- name: 🇺🇸 United States, Santa Clara | [BL] 2
-  type: trojan
-  server: 43.173.90.202
-  port: 443
-  password: sg-trojan-2026
-  udp: true
-  sni: sg-proxy.local
-  skip-cert-verify: true
-  client-fingerprint: qq
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: eb98ab60-f16d-4662-a740-c89307400939
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts:
-    path: /
-    headers:
-      Host: fretranxrabet.net
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 4
-  type: hysteria2
-  server: mlxy2.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  skip-cert-verify: true
-- name: 🇺🇸 United States, Cleveland | [BL] 11
-  type: vless
-  server: 154.83.2.110
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 8
-  type: vless
-  server: 23.82.99.128
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
-  client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🇨🇭 Switzerland, Geneva | 🌐 | [BL] 5
-  type: vless
-  server: ru19.aimodelhub.top
-  port: 443
-  uuid: 13ef8e97-815a-000b-8688-0154d85d26bf
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: edge
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇹🇷 Turkey, Istanbul | [BL] 13
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts:
-    path: ?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 21
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: qq
-- name: 🇭🇰 Hong Kong, Central | [BL]
-  type: hysteria2
-  server: 311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com
-  port: 443
-  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
-  udp: true
-  sni: 311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com
-  skip-cert-verify: true
-- name: 🇹🇷 Turkey, Ankara | [BL] 6
-  type: vless
-  server: ru19.aimodelhub.top
-  port: 443
-  uuid: 13ef8e97-815a-0002-8688-0154d85d26bf
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218
-    short-id: 51b784e13468
-  servername: ru19.aimodelhub.top
-  client-fingerprint: ios
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇹🇷 Turkey, Ankara | [BL] 7
-  type: hysteria2
-  server: 162.249.126.13
-  port: 8081
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  udp: true
-  sni: hop-germany-september.dynuddns.com
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 22
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: random
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇸🇪 🇺🇸 | [BL]
-  type: vless
-  server: 89.116.46.50
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /?ed
-    headers:
-      Host: vms.lifetime07.workers.dev
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  type: vless
-  server: 47.253.144.114
-  port: 443
-  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
-    short-id: 4679f07417e9feb4
-  servername: www.apple.com
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇦🇷 🇧🇪 | [BL] 5
-  type: vless
-  server: 141.227.137.177
-  port: 2053
-  uuid: b940be1b-3998-45d2-bf7b-06e7b6c4987a
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: random
-  network: ws
-  ws-opts:
-    headers:
-      Host: kkkk-xcd.pages.dev
-- name: 🇨🇳 China, Guilin | [BL] 8
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: random
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: eb98ab60-f16d-4662-a740-c89307400939
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: firefox
-  network: xhttp
-  xhttp-opts:
-    path: /
-    headers:
-      Host: fretranxrabet.net
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 9
-  type: vless
-  server: us-4bf85a22b1.shamanapp.online
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
-  client-fingerprint: android
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🇷🇺 Russia, Moscow | [BL]
-  type: hysteria2
-  server: msk.frkn.org
-  port: 443
-  password: f317b5d6-d399-4d3d-a051-89d674ae953c
-  udp: true
-  skip-cert-verify: true
-- name: 🇺🇸 United States, St Louis (Downtown) | [BL] 7
-  type: vmess
-  server: 172.64.80.1
-  port: 8443
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: v2ray1.dozapp.xyz
-  network: ws
-  ws-opts:
-    path: /lMnsZUN4/
-    headers:
-      Host: v2ray1.dozapp.xyz
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 5
-  type: hysteria2
-  server: mlxy2.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  sni: mlxy2.mangshe.xyz
-  skip-cert-verify: true
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 8
-  type: hysteria2
-  server: 31.59.150.248
-  port: 4433
-  password: d929e993-8053-488a-8a22-0ae09f706a2e
-  udp: true
-  sni: nl.nextgencloud.tech
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: d3ea408c-3536-44d3-b54f-5887818a1721
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
-    path: /
-    headers:
-      Host: fretranxrabet.net
-- name: 🇹🇷 Turkey, Istanbul | [BL] 14
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-    spider-x: /HesarWeb
-  servername: download.nvidia.com
-  client-fingerprint: edge
-  network: xhttp
-  xhttp-opts:
-    path: /
-- name: 🇹🇷 Turkey, Istanbul | [BL] 15
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: qq
-  network: xhttp
-  xhttp-opts: {}
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 10
-  type: vless
-  server: us-4bf85a22b1.shamanapp.online
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
-  client-fingerprint: edge
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🇺🇸 United States, Cleveland | [BL] 12
-  type: vless
-  server: 154.83.2.110
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: random
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🇺🇸 United States, San Jose (Brokaw) | [BL] 11
-  type: vless
-  server: us-4bf85a22b1.shamanapp.online
-  port: 10453
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc
-  servername: www.google.com
-  client-fingerprint: random
-  network: grpc
-  grpc-opts:
-    grpc-service-name: TunService
-- name: 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
-  type: vless
-  server: 195.85.59.30
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime58.workers.dev
-- name: 🇹🇷 Turkey, Istanbul | [BL] 16
-  type: vless
-  server: 122.8.44.9
-  port: 443
-  uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs
-  servername: download.nvidia.com
-  client-fingerprint: ios
-  network: xhttp
-  xhttp-opts: {}
-- name: 🇨🇳 China, Guilin | [BL] 9
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: t.me%2Fripaojiedian
-  skip-cert-verify: true
-  client-fingerprint: ios
-- name: 🇺🇸 United States, Cleveland | [BL] 13
-  type: vless
-  server: 154.197.75.160
-  port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  type: vless
-  server: 47.253.144.114
-  port: 443
-  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
-    short-id: 4679f07417e9feb4
-  servername: www.apple.com
-  client-fingerprint: firefox
-- name: 🇺🇸 United States, San Jose | [BL] 4
-  type: vless
-  server: 137.175.82.40
-  port: 30556
-  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
-    short-id: d082f567
-  servername: www.lovelive-anime.jp
-  client-fingerprint: qq
-- name: 🇺🇸 United States, San Jose | [BL] 5
-  type: vless
-  server: 137.175.82.40
-  port: 30556
-  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
-    short-id: d082f567
-  servername: www.lovelive-anime.jp
-  client-fingerprint: ios
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  type: vless
-  server: 47.253.144.114
-  port: 443
-  uuid: a4c6bab6-bd83-4b72-8c78-99e96f40cde3
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4
-    short-id: 4679f07417e9feb4
-  servername: www.apple.com
-  client-fingerprint: ios
-- name: 🇹🇷 Turkey, Mahmutbey | [BL]
-  type: vless
-  server: 93.190.8.26
-  port: 3090
-  uuid: 637b3435-8458-4358-b5f7-139f6db33006
+  server: 185.87.24.9
+  port: 2085
+  uuid: edc86071-abb7-4f33-be52-fa956c0abc77
   cipher: zero
   udp: true
   network: grpc
   grpc-opts:
     grpc-service-name: vless
-- name: 🇫🇮 Finland, Helsinki | [BL]
+- name: 🇫🇷 France, Paris | [BL] 3
   type: hysteria2
-  server: 222.167.212.160
+  server: 85.204.107.189
   port: 8443
-  password: kewr0929_M9ic23iqe_m9E2R93Js8034c_Rt10
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   udp: true
-  sni: new-finland-september.bumbleshrimp.com
-- name: 🇺🇸 United States, Cleveland | [BL] 14
+  sni: hopp-romania-new.roxa.org
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 7
   type: vless
-  server: 154.197.75.160
+  server: 43.155.230.167
   port: 443
-  uuid: 50414e45-4c5f-5a45-5553-4beea30ea96c
+  uuid: ea833f3a-4a7a-4978-b5a9-a22e446f0a81
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: B8RE9fNqS0eV7jXJcjQNuk4H4skMAa-0nQZ4orb5sCc
+    short-id: abcdef01
+  servername: www.bing.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇦🇷 🇯🇵 | [BL] 7
+  type: vless
+  server: 156.246.95.216
+  port: 443
+  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   cipher: zero
   udp: true
   tls: true
-  servername: 4cz9gseouyns.2iz1ile4upks.workers.dev
-  client-fingerprint: random
+  servername: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
+  client-fingerprint: chrome
   network: ws
   ws-opts:
-    path: /stream/PANEL_ZEUS/4beea30ea96c/loc-0
-    headers:
-      Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 23
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 9
-  type: vless
-  server: 109.121.44.71
-  port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 24
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 43d63a8f-c27e-467c-9405-7bbce8e06b55
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: safari
-- name: 🇲🇾 Malaysia, Cyberjaya | [BL] 6
-  type: hysteria2
-  server: 103.117.141.124
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  sni: mlxy1.mangshe.xyz
-  skip-cert-verify: true
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 25
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 2583d2a4-bfc2-46ee-bd76-49d7289eca93
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: main.abyssettle.net
-  client-fingerprint: random
-- name: 🌐 Anycast-IP | 🇩🇪 🇰🇷 | [BL] 26
-  type: vless
-  server: 88.216.70.86
-  port: 443
-  uuid: 6be9f5e4-2634-4c24-819c-40644874daac
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4
-    short-id: 7c4b9a2e8d5f3c1b
-  servername: build.abyssettle.net
-  client-fingerprint: safari
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: eb98ab60-f16d-4662-a740-c89307400939
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: edge
-  network: xhttp
-  xhttp-opts:
     path: /
     headers:
-      Host: fretranxrabet.net
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  type: vless
-  server: 151.101.213.164
-  port: 443
-  uuid: d3ea408c-3536-44d3-b54f-5887818a1721
-  cipher: zero
-  udp: true
-  tls: true
-  servername: accounts.fastly.com
-  client-fingerprint: safari
-  network: xhttp
-  xhttp-opts:
-    path: /
-    headers:
-      Host: fretranxrabet.net
-- name: 🇺🇸 United States, Santa Clara | [BL] 3
-  type: trojan
-  server: 43.173.90.202
-  port: 443
-  password: sg-trojan-2026
-  udp: true
-  sni: sg-proxy.local
-  skip-cert-verify: true
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 10
-  type: vless
-  server: 109.121.44.71
-  port: 443
-  uuid: 03446511-2806-4fc0-b02f-f10d2d3a33c6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: a7b2c9d4
-  servername: www.amd.com
-  client-fingerprint: edge
-- name: 🇸🇪 Sweden, Stockholm | [BL]
-  type: hysteria2
-  server: idontknow.whit3.net
-  port: 443
-  password: 1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a
-  udp: true
-  sni: idontknow.whit3.net
-- name: 🇨🇳 China, Guilin | [BL] 10
-  type: trojan
-  server: 100.42.228.109
-  port: 443
-  password: BxceQaOe
-  udp: true
-  sni: 100.42.228.109
-  skip-cert-verify: true
-  client-fingerprint: ios
+      Host: 2ymxf.st3o.5o7.hh.vavava.kdns.fr
