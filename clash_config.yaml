@@ -26,498 +26,1513 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL]
+  - 🇷🇴 Romania, Bucharest | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 3
-  - 🇳🇱 The Netherlands, Halfweg | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 4
-  - 🇺🇸 United States, Seattle | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 8
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇷🇺 Russia, Moscow | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL]
   - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇯🇵 Japan | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 9
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
   - 🇬🇧 United Kingdom, London | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 10
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 12
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 10
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 11
-  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 12
+  - 🇪🇪 Estonia, Tallinn | [BL]
+  - 🇺🇸 United States, Wilmington | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇮🇪 🇸🇬 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🌐 Anycast-IP | 🇮🇶 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL]
   - 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 14
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 5
+  - 🇯🇵 Japan, Inzai (Otsuka) | 🌐 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🌐 Anycast-IP | 🇮🇩 🇮🇷 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 2
+  - 🇪🇪 Estonia, Tallinn | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 3
+  - 🇷🇴 Romania, Bucharest | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 3
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
   - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇱🇻 🇸🇪 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL] 2
+  - 🇮🇳 India, New Delhi | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇪 🇳🇱 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 5
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇮🇷 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇷🇴 Romania, Bucharest | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 🇮🇪 🇮🇶 | [BL]
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 2
+  - 🇹🇼 Taiwan, Taipei | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 🇸🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇩🇪 Germany, Frankfurt am Main | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 7
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 🇰🇷 | [BL]
+  - 🇺🇸 United States, Seattle | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇹🇼 Taiwan, Taipei | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 8
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇪🇪 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 9
+  - 🇮🇳 India, New Delhi | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇵🇱 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - 🇯🇵 Japan | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 9
+  - 🌐 Anycast-IP | 🇭🇰 🇮🇪 🇰🇷 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 11
+  - 🇷🇺 Russia | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇳🇱 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
+  - 🇵🇱 Poland, Warsaw | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 13
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 14
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 9
+  - 🌐 Anycast-IP | 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 3
+  - 🇹🇼 Taiwan, Taipei | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇸🇬 Singapore, Singapore | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇫🇮 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇾 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 10
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇮🇹 | [BL]
+  - 🌐 Anycast-IP | 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+  - 🇺🇸 United States, Ashburn | 🌐 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 6
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 17
+  - 🇹🇼 Taiwan, Taipei | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇩🇪 🇷🇴 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Halfweg | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 18
+  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇷🇴 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 13
+  - 🌐 Anycast-IP | 🇮🇷 | [BL] 2
+  - 🇷🇺 Russia | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 19
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
+  - 🇷🇴 Romania, Bucharest | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 5
+  - 🇮🇳 India, New Delhi | [BL] 3
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🇵🇱 Poland, Warsaw | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 22
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 23
+  - 🇺🇸 United States, Wilmington | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 4
+  - 🇹🇼 Taiwan, Taipei | [BL] 14
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇯🇵 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇦🇷 🇩🇪 🇬🇧 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 20
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 6
 - name: 🤖 人工智能
   type: select
   proxies:
   - 🚀 节点选择
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL]
+  - 🇷🇴 Romania, Bucharest | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 3
-  - 🇳🇱 The Netherlands, Halfweg | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 4
-  - 🇺🇸 United States, Seattle | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 8
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇷🇺 Russia, Moscow | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL]
   - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇯🇵 Japan | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 9
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
   - 🇬🇧 United Kingdom, London | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 10
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 12
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 10
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 11
-  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 12
+  - 🇪🇪 Estonia, Tallinn | [BL]
+  - 🇺🇸 United States, Wilmington | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇮🇪 🇸🇬 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🌐 Anycast-IP | 🇮🇶 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL]
   - 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 14
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 5
+  - 🇯🇵 Japan, Inzai (Otsuka) | 🌐 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🌐 Anycast-IP | 🇮🇩 🇮🇷 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 2
+  - 🇪🇪 Estonia, Tallinn | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 3
+  - 🇷🇴 Romania, Bucharest | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 3
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
   - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇱🇻 🇸🇪 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL] 2
+  - 🇮🇳 India, New Delhi | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇪 🇳🇱 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 5
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇮🇷 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇷🇴 Romania, Bucharest | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 🇮🇪 🇮🇶 | [BL]
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 2
+  - 🇹🇼 Taiwan, Taipei | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 🇸🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇩🇪 Germany, Frankfurt am Main | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 7
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 🇰🇷 | [BL]
+  - 🇺🇸 United States, Seattle | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇹🇼 Taiwan, Taipei | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 8
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇪🇪 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 9
+  - 🇮🇳 India, New Delhi | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇵🇱 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - 🇯🇵 Japan | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 9
+  - 🌐 Anycast-IP | 🇭🇰 🇮🇪 🇰🇷 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 11
+  - 🇷🇺 Russia | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇳🇱 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
+  - 🇵🇱 Poland, Warsaw | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 13
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 14
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 9
+  - 🌐 Anycast-IP | 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 3
+  - 🇹🇼 Taiwan, Taipei | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇸🇬 Singapore, Singapore | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇫🇮 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇾 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 10
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇮🇹 | [BL]
+  - 🌐 Anycast-IP | 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+  - 🇺🇸 United States, Ashburn | 🌐 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 6
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 17
+  - 🇹🇼 Taiwan, Taipei | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇩🇪 🇷🇴 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Halfweg | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 18
+  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇷🇴 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 13
+  - 🌐 Anycast-IP | 🇮🇷 | [BL] 2
+  - 🇷🇺 Russia | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 19
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
+  - 🇷🇴 Romania, Bucharest | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 5
+  - 🇮🇳 India, New Delhi | [BL] 3
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🇵🇱 Poland, Warsaw | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 22
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 23
+  - 🇺🇸 United States, Wilmington | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 4
+  - 🇹🇼 Taiwan, Taipei | [BL] 14
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇯🇵 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇦🇷 🇩🇪 🇬🇧 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 20
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 6
 - name: 🍎 苹果服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL]
+  - 🇷🇴 Romania, Bucharest | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 3
-  - 🇳🇱 The Netherlands, Halfweg | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 4
-  - 🇺🇸 United States, Seattle | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 8
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇷🇺 Russia, Moscow | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL]
   - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇯🇵 Japan | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 9
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
   - 🇬🇧 United Kingdom, London | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 10
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 12
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 10
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 11
-  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 12
+  - 🇪🇪 Estonia, Tallinn | [BL]
+  - 🇺🇸 United States, Wilmington | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇮🇪 🇸🇬 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🌐 Anycast-IP | 🇮🇶 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL]
   - 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 14
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 5
+  - 🇯🇵 Japan, Inzai (Otsuka) | 🌐 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🌐 Anycast-IP | 🇮🇩 🇮🇷 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 2
+  - 🇪🇪 Estonia, Tallinn | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 3
+  - 🇷🇴 Romania, Bucharest | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 3
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
   - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇱🇻 🇸🇪 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL] 2
+  - 🇮🇳 India, New Delhi | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇪 🇳🇱 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 5
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇮🇷 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇷🇴 Romania, Bucharest | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 🇮🇪 🇮🇶 | [BL]
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 2
+  - 🇹🇼 Taiwan, Taipei | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 🇸🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇩🇪 Germany, Frankfurt am Main | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 7
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 🇰🇷 | [BL]
+  - 🇺🇸 United States, Seattle | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇹🇼 Taiwan, Taipei | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 8
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇪🇪 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 9
+  - 🇮🇳 India, New Delhi | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇵🇱 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - 🇯🇵 Japan | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 9
+  - 🌐 Anycast-IP | 🇭🇰 🇮🇪 🇰🇷 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 11
+  - 🇷🇺 Russia | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇳🇱 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
+  - 🇵🇱 Poland, Warsaw | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 13
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 14
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 9
+  - 🌐 Anycast-IP | 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 3
+  - 🇹🇼 Taiwan, Taipei | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇸🇬 Singapore, Singapore | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇫🇮 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇾 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 10
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇮🇹 | [BL]
+  - 🌐 Anycast-IP | 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+  - 🇺🇸 United States, Ashburn | 🌐 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 6
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 17
+  - 🇹🇼 Taiwan, Taipei | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇩🇪 🇷🇴 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Halfweg | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 18
+  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇷🇴 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 13
+  - 🌐 Anycast-IP | 🇮🇷 | [BL] 2
+  - 🇷🇺 Russia | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 19
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
+  - 🇷🇴 Romania, Bucharest | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 5
+  - 🇮🇳 India, New Delhi | [BL] 3
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🇵🇱 Poland, Warsaw | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 22
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 23
+  - 🇺🇸 United States, Wilmington | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 4
+  - 🇹🇼 Taiwan, Taipei | [BL] 14
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇯🇵 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇦🇷 🇩🇪 🇬🇧 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 20
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 6
 - name: 🪟 微软服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL]
+  - 🇷🇴 Romania, Bucharest | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 3
-  - 🇳🇱 The Netherlands, Halfweg | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 4
-  - 🇺🇸 United States, Seattle | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 8
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇷🇺 Russia, Moscow | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL]
   - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇯🇵 Japan | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 9
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
   - 🇬🇧 United Kingdom, London | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 10
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 12
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 10
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 11
-  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 12
+  - 🇪🇪 Estonia, Tallinn | [BL]
+  - 🇺🇸 United States, Wilmington | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇮🇪 🇸🇬 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🌐 Anycast-IP | 🇮🇶 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL]
   - 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 14
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 5
+  - 🇯🇵 Japan, Inzai (Otsuka) | 🌐 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🌐 Anycast-IP | 🇮🇩 🇮🇷 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 2
+  - 🇪🇪 Estonia, Tallinn | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 3
+  - 🇷🇴 Romania, Bucharest | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 3
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
   - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇱🇻 🇸🇪 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL] 2
+  - 🇮🇳 India, New Delhi | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇪 🇳🇱 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 5
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇮🇷 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇷🇴 Romania, Bucharest | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 🇮🇪 🇮🇶 | [BL]
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 2
+  - 🇹🇼 Taiwan, Taipei | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 🇸🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇩🇪 Germany, Frankfurt am Main | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 7
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 🇰🇷 | [BL]
+  - 🇺🇸 United States, Seattle | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇹🇼 Taiwan, Taipei | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 8
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇪🇪 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 9
+  - 🇮🇳 India, New Delhi | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇵🇱 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - 🇯🇵 Japan | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 9
+  - 🌐 Anycast-IP | 🇭🇰 🇮🇪 🇰🇷 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 11
+  - 🇷🇺 Russia | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇳🇱 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
+  - 🇵🇱 Poland, Warsaw | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 13
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 14
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 9
+  - 🌐 Anycast-IP | 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 3
+  - 🇹🇼 Taiwan, Taipei | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇸🇬 Singapore, Singapore | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇫🇮 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇾 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 10
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇮🇹 | [BL]
+  - 🌐 Anycast-IP | 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+  - 🇺🇸 United States, Ashburn | 🌐 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 6
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 17
+  - 🇹🇼 Taiwan, Taipei | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇩🇪 🇷🇴 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Halfweg | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 18
+  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇷🇴 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 13
+  - 🌐 Anycast-IP | 🇮🇷 | [BL] 2
+  - 🇷🇺 Russia | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 19
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
+  - 🇷🇴 Romania, Bucharest | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 5
+  - 🇮🇳 India, New Delhi | [BL] 3
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🇵🇱 Poland, Warsaw | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 22
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 23
+  - 🇺🇸 United States, Wilmington | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 4
+  - 🇹🇼 Taiwan, Taipei | [BL] 14
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇯🇵 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇦🇷 🇩🇪 🇬🇧 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 20
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 6
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL]
-  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL]
+  - 🇷🇴 Romania, Bucharest | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL]
   - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 2
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 3
-  - 🇳🇱 The Netherlands, Halfweg | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 4
-  - 🇺🇸 United States, Seattle | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 2
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 6
-  - 🇭🇰 Hong Kong, Hong Kong | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 8
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  - 🇷🇺 Russia, Moscow | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 4
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 7
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 8
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL]
   - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  - 🇯🇵 Japan | 🌐 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 9
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 9
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
-  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
   - 🇬🇧 United Kingdom, London | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 10
-  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
-  - 🇨🇿 Czechia, Prague | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 11
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 12
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 10
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 13
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 11
-  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
-  - 🇰🇷 South Korea, Incheon | 🌐 | [BL] 12
+  - 🇪🇪 Estonia, Tallinn | [BL]
+  - 🇺🇸 United States, Wilmington | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL]
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇮🇪 🇸🇬 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇵🇱 Poland, Warsaw | [BL] 2
+  - 🌐 Anycast-IP | 🇮🇶 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL]
   - 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Halfweg | [BL] 14
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 5
+  - 🇯🇵 Japan, Inzai (Otsuka) | 🌐 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  - 🌐 Anycast-IP | 🇮🇩 🇮🇷 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 2
+  - 🇪🇪 Estonia, Tallinn | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 | [BL]
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL]
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇵🇱 Poland, Warsaw | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 3
+  - 🇷🇴 Romania, Bucharest | [BL] 2
+  - 🇸🇬 Singapore, Singapore | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 4
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 3
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
   - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇱🇻 🇸🇪 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL] 2
+  - 🇮🇳 India, New Delhi | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🌐 Anycast-IP | 🇦🇪 🇳🇱 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 5
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇮🇷 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  - 🇷🇴 Romania, Bucharest | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 🇮🇪 🇮🇶 | [BL]
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 2
+  - 🇹🇼 Taiwan, Taipei | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
+  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 🇸🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇩🇪 Germany, Frankfurt am Main | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 7
+  - 🇹🇷 Turkey, Etimesgut | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Central | [BL] 2
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 🇰🇷 | [BL]
+  - 🇺🇸 United States, Seattle | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 6
+  - 🇹🇼 Taiwan, Taipei | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 7
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
+  - 🇸🇬 Singapore, Singapore | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 12
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 8
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇪🇪 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 13
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 9
+  - 🇮🇳 India, New Delhi | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇵🇱 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+  - 🇹🇷 Turkey, Etimesgut | [BL] 3
+  - 🇵🇱 Poland, Warsaw | [BL] 7
+  - 🇯🇵 Japan | 🌐 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 9
+  - 🌐 Anycast-IP | 🇭🇰 🇮🇪 🇰🇷 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 10
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 3
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 11
+  - 🇷🇺 Russia | 🌐 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 16
+  - 🇫🇷 France, Paris | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 4
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 2
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇳🇱 🇺🇸 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 17
+  - 🇵🇱 Poland, Warsaw | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 4
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 4
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 13
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 5
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 14
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 9
+  - 🌐 Anycast-IP | 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 3
+  - 🇹🇼 Taiwan, Taipei | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇸🇬 Singapore, Singapore | [BL] 4
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇫🇮 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 9
+  - 🌐 Anycast-IP | 🇨🇾 🇺🇸 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇵🇱 Poland, Warsaw | [BL] 10
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇮🇹 | [BL]
+  - 🌐 Anycast-IP | 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 18
+  - 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
+  - 🇹🇷 Turkey, Etimesgut | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 3
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+  - 🇺🇸 United States, Ashburn | 🌐 | [BL]
+  - 🇺🇸 United States, Wilmington | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 🇺🇸 | [BL]
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 6
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 17
+  - 🇹🇼 Taiwan, Taipei | [BL] 12
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 19
+  - 🇹🇷 Turkey, Etimesgut | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 5
+  - 🌐 Anycast-IP | 🇩🇪 🇷🇴 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Halfweg | [BL]
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 20
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 18
+  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇷🇴 | [BL]
+  - 🇹🇼 Taiwan, Taipei | [BL] 13
+  - 🌐 Anycast-IP | 🇮🇷 | [BL] 2
+  - 🇷🇺 Russia | 🌐 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 19
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
+  - 🇷🇴 Romania, Bucharest | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇺🇸 | [BL]
+  - 🌐 Anycast-IP | 🇮🇪 🇳🇱 | [BL]
+  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 3
+  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 5
+  - 🇮🇳 India, New Delhi | [BL] 3
+  - 🌐 Anycast-IP | 🇺🇸 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇲🇩 | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🇵🇱 Poland, Warsaw | [BL] 11
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 21
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 22
+  - 🇸🇬 Singapore, Singapore | 🌐 | [BL] 7
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 23
+  - 🇺🇸 United States, Wilmington | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
+  - 🇱🇰 Sri Lanka, Battaramulla | [BL] 4
+  - 🇹🇼 Taiwan, Taipei | [BL] 14
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🌐 Anycast-IP | 🇨🇦 🇯🇵 | [BL]
+  - 🇫🇷 France, Roubaix | 🌐 | [BL] 11
+  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 11
+  - 🌐 Anycast-IP | 🇦🇷 🇩🇪 🇬🇧 🇵🇱 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 | [BL]
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  - 🇹🇷 Turkey, Etimesgut | [BL] 7
+  - 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 20
+  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
+  - 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 6
 - name: 🎯 全球直连
   type: select
   proxies:
@@ -574,27 +1589,14 @@ rules:
 - GEOIP,cn,🎯 全球直连
 - MATCH,🐟 漏网之鱼
 proxies:
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL]
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: chrome
-- name: 🇷🇺 Russia, Moscow | [BL]
-  type: hysteria2
-  server: msk.frkn.org
+- name: 🇳🇱 The Netherlands, Haarlem | [BL]
+  type: trojan
+  server: 188.42.145.180
   port: 443
-  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  password: humanity
   udp: true
-  sni: msk.frkn.org
+  sni: www.volumeroot.com
+  skip-cert-verify: true
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL]
   type: vless
   server: 151.101.213.164
@@ -604,343 +1606,273 @@ proxies:
   udp: true
   tls: true
   servername: accounts.fastly.com
-  client-fingerprint: edge
+  client-fingerprint: ios
   network: xhttp
   xhttp-opts:
     path: /
     headers:
       Host: fretranxrabet.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL]
+  type: trojan
+  server: 167.82.76.27
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🇷🇴 Romania, Bucharest | [BL]
+  type: vless
+  server: 109.104.106.149
+  port: 443
+  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw
+    short-id: 87709fed663228e5
+  servername: d3-ro.cloud-cdn.xyz
+  client-fingerprint: edge
+- name: 🇹🇼 Taiwan, Taipei | [BL]
+  type: vless
+  server: 45.192.201.140
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+    headers:
+      Host: argo6.5671234.xyz
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
   type: vless
-  server: 45.95.96.170
+  server: 2.27.69.117
   port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
-  client-fingerprint: edge
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 2
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: firefox
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: android
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 3
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Halfweg | [BL]
-  type: vless
-  server: 67.159.6.181
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: android
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 4
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: android
-- name: 🇺🇸 United States, Seattle | [BL]
-  type: hysteria2
-  server: mg.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  sni: mg.mangshe.xyz
-  skip-cert-verify: true
-- name: 🇫🇮 Finland, Helsinki | [BL]
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: edge
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 2
-  type: vless
-  server: 67.159.6.181
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: edge
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  type: vless
-  server: 45.95.96.182
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: qq
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL]
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: edge
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
-  type: vless
-  server: 45.95.96.170
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
+    public-key: -bn-69fLm8-ZIN4AWcFJTvliohVXnevdOK6E0HJF90Y
+    short-id: 123c2bff
+  servername: addons.mozilla.org
   client-fingerprint: chrome
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 5
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 3
-  type: vless
-  server: 189.74.114.123
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: android
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: firefox
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 2
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: ios
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 6
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: edge
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL]
   type: vmess
-  server: 2b9hwy8ocx7q74nm.v.3dns.vip
-  port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
+  server: 45.127.32.220
+  port: 55002
+  uuid: b25731af-0428-4274-be5d-31a273a8d632
   alterId: 0
   cipher: auto
   udp: true
-  tls: true
   network: ws
   ws-opts:
-    path: /ws-vmess
+    path: b25731af-0428-4274-be5d-31a273a8d632-vm
     headers:
-      Host: 2b9hwY8oCx7Q74NM.v.3dns.vip
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 4
+      Host: www.bing.com
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
   type: vless
-  server: 189.74.114.123
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
+  server: 93.89.220.24
+  port: 1443
+  uuid: d77ad0b7-f73d-48b6-a37f-df435cabe889
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
+    public-key: 2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w
+    short-id: 8d31ee9fb75b3061
+  servername: ee.cloude.one
+  client-fingerprint: edge
+- name: 🇬🇧 United Kingdom, London | [BL]
+  type: hysteria2
+  server: 103.126.51.50
+  port: 8443
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  udp: true
+  sni: ocober-romania-new.yyuyy.com
+- name: 🇪🇪 Estonia, Tallinn | [BL]
+  type: vless
+  server: ee.h1cloud.net
+  port: 25895
+  uuid: f90b7d43-69e2-4b46-a672-8029bc6796a2
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k
+    short-id: a73f0410d728c823
+  servername: www.samsung.com
   client-fingerprint: ios
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 7
+- name: 🇺🇸 United States, Wilmington | [BL]
   type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
+  server: 104.168.202.51
+  port: 443
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: x.m-90.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: t.me/TEAMNETGRATISCOL
+    headers:
+      Host: x.m-90.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 156.245.232.239
+- name: 🇵🇱 Poland, Warsaw | [BL]
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL]
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: android
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL]
+  servername: grok.setlisting.ru
+- name: 🇹🇼 Taiwan, Taipei | [BL] 2
   type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
   cipher: zero
   udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: '%2Fe8e2cecb6188f7fb'
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  type: vless
+  server: 62.182.195.147
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL]
+  type: trojan
+  server: 199.232.78.101
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    headers:
+      Host: www.pubgmobile.com
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL]
+  type: vless
+  server: 149.50.105.60
+  port: 443
+  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
+  cipher: zero
+  udp: true
+  tls: true
+  servername: bab-6.site
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vws/
+    headers:
+      Host: bab-6.site
+- name: 🇺🇸 United States, Los Angeles | [BL]
+  type: hysteria2
+  server: 13.143.232.86
+  port: 443
+  password: 4ffc5c57-3242-4422-88de-25fb0f7e97bc
+  udp: true
+  sni: media.pantera-radio.ru
+- name: 🌐 Anycast-IP | 🇬🇧 🇮🇪 🇸🇬 🇺🇸 | [BL]
+  type: vless
+  server: 43.173.1.153
+  port: 8443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
   client-fingerprint: chrome
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: stigmata.ir
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
-  type: vless
-  server: 45.95.96.170
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
+      Host: ccc.010304.xyz
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  type: hysteria2
+  server: 77.74.123.107
+  port: 8443
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
-  client-fingerprint: qq
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 3
-  type: vless
-  server: 131.123.13.93
+  sni: grape-test-italy.dynuddns.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  type: trojan
+  server: 188.42.145.180
   port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
+  password: humanity
   udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: chrome
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  sni: www.volumeroot.com
+  skip-cert-verify: true
+  client-fingerprint: safari
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
   type: vless
   server: 151.101.213.164
   port: 443
@@ -949,68 +1881,289 @@ proxies:
   udp: true
   tls: true
   servername: accounts.fastly.com
-  client-fingerprint: ios
+  client-fingerprint: edge
   network: xhttp
   xhttp-opts:
     path: /
     headers:
       Host: fretranxrabet.net
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 5
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
   type: vless
-  server: 67.159.6.181
+  server: 141.193.213.20
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 2
+  type: trojan
+  server: 167.82.76.7
   port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
+  password: mitivpn
   udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: qq
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 4
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: www.pubgmobile.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
   type: vless
-  server: 131.123.13.93
+  server: 216.173.67.59
   port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
+  uuid: d342d11e-d224-4463-b982-532309285094
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: qq
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 8
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 6
-  type: vless
-  server: 189.74.114.123
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
+  servername: ccc.010304.xyz
   client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  type: vmess
+  server: yg1.ygkkk.dpdns.org
+  port: 443
+  uuid: b2ba4a73-3123-479e-aa96-5973a9ecd0c0
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: jmp1.907737.xyz
+  network: ws
+  ws-opts:
+    path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm
+    headers:
+      Host: jmp1.907737.xyz
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL]
+  type: trojan
+  server: 167.82.76.7
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: android
+- name: 🇭🇰 Hong Kong, Central | [BL]
+  type: hysteria2
+  server: c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com
+  port: 443
+  password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  udp: true
+  sni: c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com
+  skip-cert-verify: true
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇵🇱 Poland, Warsaw | [BL] 2
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🌐 Anycast-IP | 🇮🇶 🇳🇱 | [BL]
+  type: vless
+  server: 212.87.220.98
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 3
+  type: trojan
+  server: 199.232.78.101
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: chrome
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 2
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 3
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  type: vless
+  server: 93.89.220.24
+  port: 1443
+  uuid: d77ad0b7-f73d-48b6-a37f-df435cabe889
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w
+    short-id: 8d31ee9fb75b3061
+  servername: ee.cloude.one
+  client-fingerprint: firefox
+- name: 🇫🇷 France, Paris | [BL]
+  type: trojan
+  server: www.calmlunch.com
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+- name: 🇵🇱 Poland, Warsaw | [BL] 3
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL]
+  type: vless
+  server: 31.56.27.129
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
+  type: hysteria2
+  server: els.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  sni: els.mangshe.xyz
+  skip-cert-verify: true
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 4
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 5
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇯🇵 Japan, Inzai (Otsuka) | 🌐 | [BL]
+  type: vless
+  server: 143.20.156.116
+  port: 443
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: jp3.yohototo.top
+  network: ws
+  ws-opts:
+    path: /tyxyws
+    headers:
+      Host: jp3.yohototo.top
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  type: trojan
+  server: 31.77.168.35
+  port: 443
+  password: MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo
+  udp: true
+  sni: d3-de2.cloud-cdn.xyz
+  client-fingerprint: edge
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
   type: vless
   server: 151.101.213.164
@@ -1020,12 +2173,191 @@ proxies:
   udp: true
   tls: true
   servername: accounts.fastly.com
-  client-fingerprint: chrome
+  client-fingerprint: random
   network: xhttp
   xhttp-opts:
     path: /
     headers:
       Host: fretranxrabet.net
+- name: 🌐 Anycast-IP | 🇮🇩 🇮🇷 | [BL]
+  type: vless
+  server: 31.59.210.26
+  port: 2088
+  uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg
+    short-id: b1ad165f903c62fe
+  servername: www.yandex.ru
+  client-fingerprint: ios
+  network: grpc
+  grpc-opts:
+    grpc-service-name: astracat
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  type: vless
+  server: 62.84.99.145
+  port: 443
+  uuid: 053682f4-c584-46df-ad81-069dec5f64f0
+  cipher: zero
+  udp: true
+  tls: true
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /cdnws
+    headers:
+      Host: no.gokonstantin.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 4
+  type: trojan
+  server: 199.232.78.160
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
+  type: vless
+  server: 141.11.139.215
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL]
+  type: hysteria2
+  server: 156.229.160.253
+  port: 55000
+  password: e4fa7b90-b8ee-45bb-b3be-cb3bfdc551e3
+  udp: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL] 2
+  type: vmess
+  server: 45.127.32.220
+  port: 55002
+  uuid: b25731af-0428-4274-be5d-31a273a8d632
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: b25731af-0428-4274-be5d-31a273a8d632-vm
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 2
+  type: vless
+  server: 95.85.227.129
+  port: 443
+  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
+  cipher: zero
+  udp: true
+  tls: true
+  servername: bab-6.site
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vws/
+    headers:
+      Host: bab-6.site
+- name: 🇪🇪 Estonia, Tallinn | [BL] 2
+  type: vless
+  server: ee.h1cloud.net
+  port: 25895
+  uuid: f90b7d43-69e2-4b46-a672-8029bc6796a2
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k
+    short-id: a73f0410d728c823
+  servername: www.samsung.com
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 156.245.232.239
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 2
+  type: hysteria2
+  server: 156.229.160.253
+  port: 55000
+  password: f9e76796-72ba-4af1-9435-a556bd81c140
+  udp: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 🇩🇪 Germany, Nuremberg | 🌐 | [BL]
+  type: vless
+  server: 153.75.81.16
+  port: 443
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  cipher: zero
+  udp: true
+  tls: true
+  servername: s4ws.ragingbull.de5.net
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /wsrb7k2m
+    headers:
+      Host: s4ws.ragingbull.de5.net
+- name: 🇹🇼 Taiwan, Taipei | [BL] 3
+  type: vless
+  server: 45.192.201.140
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🇫🇷 France, Paris | [BL] 2
+  type: trojan
+  server: www.calmlunch.com
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 2
+  type: trojan
+  server: 167.82.76.7
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 | [BL]
+  type: vless
+  server: 185.36.143.187
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
 - name: 🇷🇺 Russia, Moscow | 🌐 | [BL]
   type: hysteria2
   server: msk.frkn.org
@@ -1034,32 +2366,209 @@ proxies:
   udp: true
   sni: msk.frkn.org
   skip-cert-verify: true
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 2
+- name: 🇸🇬 Singapore, Singapore | [BL]
   type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
+  server: 206.206.78.36
+  port: 443
+  uuid: e3f0c894-0f76-4683-a751-6a93da8fd14d
   cipher: zero
   udp: true
-  client-fingerprint: ios
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ
+    short-id: 133a3f10a1581047
+  servername: www.cloudflare.com
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  type: vmess
+  server: cu.877774.xyz
+  port: 443
+  uuid: f3244e28-157b-49e9-9730-89832f89ebcc
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /vmess-argo
+    headers:
+      Host: balanced-minds-carrier-demanding.trycloudflare.com
+- name: 🇵🇱 Poland, Warsaw | [BL] 4
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇳🇱 🇺🇸 | [BL]
+  type: vless
+  server: 144.31.99.252
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: stigmata.ir
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 3
+      Host: ccc.010304.xyz
+- name: 🇹🇼 Taiwan, Taipei | [BL] 4
   type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
   cipher: zero
   udp: true
-  client-fingerprint: qq
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: safari
   network: ws
   ws-opts:
-    path: /
+    path: /e8e2cecb6188f7fb
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 3
+  type: vless
+  server: 8.47.69.0
+  port: 2053
+  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fr.api-music-fa.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /api/voip/updates/static/fr2035
     headers:
-      Host: stigmata.ir
+      Host: fr.api-music-fa.com
+- name: 🇷🇴 Romania, Bucharest | [BL] 2
+  type: vless
+  server: 109.104.106.149
+  port: 443
+  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw
+    short-id: 87709fed663228e5
+  servername: d3-ro.cloud-cdn.xyz
+  client-fingerprint: firefox
+- name: 🇸🇬 Singapore, Singapore | [BL] 2
+  type: vless
+  server: 206.206.78.36
+  port: 443
+  uuid: e3f0c894-0f76-4683-a751-6a93da8fd14d
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ
+    short-id: 133a3f10a1581047
+  servername: www.cloudflare.com
+  client-fingerprint: edge
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 6
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  type: vless
+  server: 5.35.46.168
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 4
+  type: vless
+  server: 8.47.69.0
+  port: 2053
+  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: vless.api-music-fa.com
+  network: ws
+  ws-opts:
+    path: /api/voip/updates/static/fr2035
+    headers:
+      Host: fr.api-music-fa.com
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 3
+  type: vless
+  server: cf.877774.xyz
+  port: 8443
+  uuid: ce0cf224-1d6e-466e-a7e3-55aead76afed
+  cipher: zero
+  udp: true
+  tls: true
+  servername: aaa.abcai.online
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /vless-argofp=chrome
+    headers:
+      Host: aaa.abcai.online
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+  type: hysteria2
+  server: msk.frkn.org
+  port: 443
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  udp: true
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  type: vmess
+  server: yg1.ygkkk.dpdns.org
+  port: 443
+  uuid: b2ba4a73-3123-479e-aa96-5973a9ecd0c0
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: jmp1.907737.xyz
+  network: ws
+  ws-opts:
+    path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm
+    headers:
+      Host: jmp1.907737.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇱🇻 🇸🇪 🇺🇸 | [BL]
+  type: trojan
+  server: 199.232.78.160
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 8
   type: vless
   server: 151.101.213.164
@@ -1069,86 +2578,545 @@ proxies:
   udp: true
   tls: true
   servername: accounts.fastly.com
-  client-fingerprint: firefox
   network: xhttp
   xhttp-opts:
     path: /
     headers:
       Host: fretranxrabet.net
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 9
-  type: vless
-  server: 45.95.96.182
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 🇺🇸 | [BL] 2
+  type: trojan
+  server: 199.232.78.160
   port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: qq
+- name: 🇮🇳 India, New Delhi | [BL]
+  type: vless
+  server: 5.253.28.224
+  port: 40443
+  uuid: af5eac96-e478-488a-bc8c-45269d7e8847
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: safari
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 10
-  type: vless
-  server: 45.95.96.182
+    public-key: g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw
+    short-id: 68a8
+  servername: deepl.com
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  type: trojan
+  server: 167.82.76.7
   port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+- name: 🇵🇱 Poland, Warsaw | [BL] 5
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: edge
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇦🇪 🇳🇱 | [BL]
+  type: hysteria2
+  server: 217.60.34.78
+  port: 4443
+  password: d2c658d5-2502-441c-b750-d1452277ddb1
+  udp: true
+  sni: trunk-nl.cvedcdigital.vip
+- name: 🇹🇼 Taiwan, Taipei | [BL] 5
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 5
+  type: vless
+  server: 45.138.72.141
+  port: 443
+  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
+  cipher: zero
+  udp: true
+  tls: true
+  servername: bab-6.site
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vws/
+    headers:
+      Host: bab-6.site
+- name: 🌐 Anycast-IP | 🇮🇷 | [BL]
+  type: vless
+  server: 31.59.210.26
+  port: 2088
+  uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
+  cipher: zero
+  udp: true
   tls: true
   reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: firefox
-- name: 🇷🇺 Russia, Moscow | [BL] 2
+    public-key: Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg
+    short-id: b1ad165f903c62fe
+  servername: www.yandex.ru
+  client-fingerprint: qq
+  network: grpc
+  grpc-opts:
+    grpc-service-name: astracat
+- name: 🇷🇺 Russia, Moscow | [BL]
   type: hysteria2
   server: msk.frkn.org
   port: 443
   password: f317b5d6-d399-4d3d-a051-89d674ae953c
   udp: true
   skip-cert-verify: true
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 4
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 9
+  type: trojan
+  server: 31.77.168.35
+  port: 443
+  password: MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo
+  udp: true
+  sni: d3-de2.cloud-cdn.xyz
+  client-fingerprint: ios
+- name: 🇷🇴 Romania, Bucharest | [BL] 3
   type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
+  server: 109.104.106.149
+  port: 443
+  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
   cipher: zero
   udp: true
-  client-fingerprint: safari
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw
+    short-id: 87709fed663228e5
+    spider-x: /
+  servername: d3-ro.cloud-cdn.xyz
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇫🇷 🇮🇪 🇮🇶 | [BL]
+  type: vless
+  server: 31.57.109.102
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 2
+  type: vless
+  server: 117.55.233.87
+  port: 443
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  cipher: zero
+  udp: true
+  tls: true
+  servername: s3ws.ragingbull.de5.net
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /wsrb7k2m
+    headers:
+      Host: s3ws.ragingbull.de5.net
+- name: 🇹🇼 Taiwan, Taipei | [BL] 6
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: '%2Fe8e2cecb6188f7fb'
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇮🇶 🇳🇱 🇸🇪 | [BL]
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: android
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: stigmata.ir
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
-  type: vmess
-  server: 2b9hwy8ocx7q74nm.v.3dns.vip
+      Host: ccc.010304.xyz
+- name: 🇷🇺 Russia, Moscow | [BL] 2
+  type: vless
+  server: charredrelatedfoam.falloworchard.com
   port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
+  uuid: d53ceb12-1b43-4547-8c1d-9b34a02372c6
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: jp5PkSh099NYT4PM8-tPErUja-u1S1PFSqYoxhQgZmo
+    short-id: d97ed991ca4d52df
+  servername: charredrelatedfoam.falloworchard.com
+  client-fingerprint: firefox
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 6
+  type: vless
+  server: 8.47.69.0
+  port: 2053
+  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fr.api-music-fa.com
+  network: ws
+  ws-opts:
+    path: /api/voip/updates/static/fr2035
+    headers:
+      Host: fr.api-music-fa.com
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL]
+  type: vless
+  server: de2.srv.vbuste.ru
+  port: 443
+  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08
+    short-id: 4be4110078ebed4a
+  servername: de2.srv.vbuste.ru
+  client-fingerprint: randomized
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 5
+  type: trojan
+  server: 167.82.76.27
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL]
+  type: vless
+  server: de-2.srv.dvzh.net
+  port: 443
+  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
+    short-id: e4e77e76e6e49da7
+  servername: de-2.srv.dvzh.net
+  client-fingerprint: firefox
+- name: 🇹🇼 Taiwan, Taipei | [BL] 7
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  type: vmess
+  server: yg1.ygkkk.dpdns.org
+  port: 443
+  uuid: b2ba4a73-3123-479e-aa96-5973a9ecd0c0
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
   ws-opts:
-    path: /ws-vmess
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 7
-  type: vless
-  server: 67.159.6.181
+    path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm
+    headers:
+      Host: jmp1.907737.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 🇸🇪 | [BL]
+  type: trojan
+  server: 199.232.78.160
   port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇨🇦 🇳🇱 🇸🇪 🇺🇸 | [BL] 2
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇱🇰 Sri Lanka, Battaramulla | [BL]
+  type: vless
+  server: 170.114.45.6
+  port: 80
+  uuid: 684f9a2e-4f96-497f-bfd9-ff1e34637952
+  cipher: zero
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: free.sahanwickramasinghe.me
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: chrome
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 7
+  type: vless
+  server: 8.47.69.0
+  port: 2053
+  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fr.api-music-fa.com
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /api/voip/updates/static/fr2035
+    headers:
+      Host: fr.api-music-fa.com
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  skip-cert-verify: true
+  client-fingerprint: firefox
+- name: 🇩🇪 Germany, Frankfurt am Main | 🌐 | [BL]
+  type: vless
+  server: 72.56.31.5
+  port: 443
+  uuid: ad7bd143-73b6-41bc-8b22-0e4decc551f4
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
+    public-key: exM1jU7RvrPjiQ270sbU4jeWe0kI9O_cXsBMBMGsdww
+    short-id: bd195ee0dc19265b
+  servername: cdn.jsdelivr.net
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  type: vmess
+  server: cu.877774.xyz
+  port: 443
+  uuid: f3244e28-157b-49e9-9730-89832f89ebcc
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: balanced-minds-carrier-demanding.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: /vmess-argo?ed=2560
+    headers:
+      Host: balanced-minds-carrier-demanding.trycloudflare.com
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 7
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🇹🇷 Turkey, Etimesgut | [BL]
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
+  udp: true
+  sni: nimm.mpd.cc.cd.
   client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇺🇸 | [BL]
+  type: vless
+  server: 95.182.95.178
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
+  type: vless
+  server: news.zoom.us
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇭🇰 Hong Kong, Central | [BL] 2
+  type: hysteria2
+  server: 755802e4-tmm5c0-trnd2c-jjv2.hk3.hyhuawei.com
+  port: 443
+  password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  udp: true
+  sni: 755802e4-tmm5c0-trnd2c-jjv2.hk3.hyhuawei.com
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 4
+  type: hysteria2
+  server: 156.229.160.253
+  port: 55000
+  password: fe552e75-4ffd-4e1a-984c-44e71c746c15
+  udp: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 10
+  type: vless
+  server: 45.95.96.170
+  port: 443
+  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
+    short-id: f6d23c76d0362796
+  servername: ai.rtnode.site
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 🇰🇷 | [BL]
+  type: vless
+  server: 141.11.139.215
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇺🇸 United States, Seattle | [BL]
+  type: hysteria2
+  server: mg.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  sni: mg.mangshe.xyz
+  skip-cert-verify: true
+- name: 🇵🇱 Poland, Warsaw | [BL] 6
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: f259a2e5-fd8d-4db9-a3ac-6b26322cffa9
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🇹🇼 Taiwan, Taipei | [BL] 8
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: '%2Fe8e2cecb6188f7fb'
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 6
+  type: vless
+  server: 94.183.189.154
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 11
   type: vless
   server: 151.101.213.164
@@ -1158,140 +3126,109 @@ proxies:
   udp: true
   tls: true
   servername: accounts.fastly.com
-  client-fingerprint: qq
+  client-fingerprint: chrome
   network: xhttp
   xhttp-opts:
     path: /
     headers:
       Host: fretranxrabet.net
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 8
-  type: vless
-  server: 189.74.114.123
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 7
+  type: trojan
+  server: 199.232.78.160
   port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
+  password: mitivpn
   udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 5
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | [BL] 2
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
+  sni: ssl.fastly.com
   client-fingerprint: firefox
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 5
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
   type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
+  server: news.zoom.us
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
   cipher: zero
   udp: true
-  client-fingerprint: android
+  tls: true
+  servername: u.srilankangrill.online
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: stigmata.ir
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
-  type: hysteria2
-  server: 77.74.123.107
-  port: 8443
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  udp: true
-  sni: grape-test-italy.dynuddns.net
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
-  type: vmess
-  server: 20.235.220.189
+      Host: u.srilankangrill.online
+- name: 🇸🇬 Singapore, Singapore | [BL] 3
+  type: vless
+  server: 206.206.78.36
   port: 443
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  alterId: 0
-  cipher: auto
+  uuid: e3f0c894-0f76-4683-a751-6a93da8fd14d
+  cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
-  network: ws
-  ws-opts:
-    path: /ws-vmess
-    headers:
-      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
-- name: 🇯🇵 Japan | 🌐 | [BL]
-  type: hysteria2
-  server: 160.16.71.52
-  port: 8843
-  password: ee872217-9c78-402c-a002-6a2af50b0227
-  udp: true
-  sni: updates.cdn-apple.com
-  skip-cert-verify: true
+  reality-opts:
+    public-key: UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ
+    short-id: 133a3f10a1581047
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 12
   type: vless
-  server: 45.95.96.170
+  server: 2.27.35.74
   port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
-  client-fingerprint: android
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
-  type: vmess
-  server: 20.235.220.189
-  port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
-  alterId: 0
-  cipher: auto
+    public-key: zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks
+    short-id: 34e797af
+  servername: addons.mozilla.org
+  client-fingerprint: randomized
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 8
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: firefox
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL] 3
+  type: vless
+  server: news.zoom.us
+  port: 8443
+  uuid: 799b1006-3255-4e36-8ea0-64fe24d2bfa7
+  cipher: zero
   udp: true
   tls: true
+  servername: asia.csmaster.site
+  client-fingerprint: chrome
   network: ws
   ws-opts:
-    path: /ws-vmess
     headers:
-      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
-- name: 🇫🇮 Finland, Helsinki | [BL] 3
+      Host: asia.csmaster.site
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 2
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
+  udp: true
+  sni: nimm.mpd.cc.cd.
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇨🇦 🇪🇪 | [BL]
   type: vless
-  server: 131.123.13.93
+  server: 77.110.97.158
   port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: qq
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 13
   type: vless
   server: 151.101.213.164
@@ -1301,41 +3238,949 @@ proxies:
   udp: true
   tls: true
   servername: accounts.fastly.com
+  client-fingerprint: edge
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 9
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🇮🇳 India, New Delhi | [BL] 2
+  type: vless
+  server: dorado.yokkastars.com
+  port: 40443
+  uuid: af5eac96-e478-488a-bc8c-45269d7e8847
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw
+    short-id: 68a8
+  servername: deepl.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 2
+  type: trojan
+  server: 199.232.78.101
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 8
+  type: trojan
+  server: 199.232.78.101
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: android
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇵🇱 🇺🇸 | [BL]
+  type: vless
+  server: 43.174.193.1
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+  type: vless
+  server: 141.193.213.21
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 3
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
+  udp: true
+  sni: nimm.mpd.cc.cd.
+  client-fingerprint: edge
+- name: 🇵🇱 Poland, Warsaw | [BL] 7
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+- name: 🇯🇵 Japan | 🌐 | [BL]
+  type: hysteria2
+  server: 160.16.71.52
+  port: 8843
+  password: ee872217-9c78-402c-a002-6a2af50b0227
+  udp: true
+  sni: updates.cdn-apple.com
+  skip-cert-verify: true
+- name: 🇹🇼 Taiwan, Taipei | [BL] 9
+  type: vless
+  server: hinet1.2yly.com
+  port: 24215
+  uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
+  servername: addons.mozilla.org
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇭🇰 🇮🇪 🇰🇷 | [BL]
+  type: vless
+  server: 95.182.95.178
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 5
+  type: vless
+  server: cf.877774.xyz
+  port: 8443
+  uuid: ce0cf224-1d6e-466e-a7e3-55aead76afed
+  cipher: zero
+  udp: true
+  tls: true
+  servername: aaa.abcai.online
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /vless-argofp=chrome
+    headers:
+      Host: aaa.abcai.online
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
+  type: vless
+  server: 138.124.58.39
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇱🇰 Sri Lanka, Battaramulla | [BL] 2
+  type: vless
+  server: support.zoom.us
+  port: 80
+  uuid: 684f9a2e-4f96-497f-bfd9-ff1e34637952
+  cipher: zero
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: free.sahanwickramasinghe.me
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 14
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL]
+  type: vless
+  server: 199.68.196.67
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 9
+  type: trojan
+  server: 167.82.76.27
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+- name: 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
+  type: hysteria2
+  server: xg1.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  type: vmess
+  server: yg1.ygkkk.dpdns.org
+  port: 443
+  uuid: b2ba4a73-3123-479e-aa96-5973a9ecd0c0
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm
+    headers:
+      Host: jmp1.907737.xyz
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 10
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
   client-fingerprint: safari
   network: xhttp
   xhttp-opts:
     path: /
     headers:
       Host: fretranxrabet.net
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 14
-  type: vless
-  server: 45.95.96.170
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 3
+  type: trojan
+  server: 167.82.76.7
   port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 11
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
-  client-fingerprint: firefox
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 15
+  servername: grok.setlisting.ru
+- name: 🇷🇺 Russia | 🌐 | [BL]
+  type: hysteria2
+  server: ru.xiaoliyu.cyou
+  port: 18333
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  udp: true
+  sni: ru.xiaoliyu.cyou
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    headers:
+      Host: 156.245.232.239
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 12
   type: vless
-  server: 45.95.96.170
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
+  flow: xtls-rprx-vision-udp443
   tls: true
-  reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
-  client-fingerprint: ios
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
 - name: 🇩🇪 Germany, Frankfurt am Main | [BL] 16
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇫🇷 France, Paris | [BL] 3
+  type: trojan
+  server: www.calmlunch.com
+  port: 443
+  password: humanity
+  udp: true
+  skip-cert-verify: true
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇮🇪 🇳🇱 🇺🇸 | [BL]
+  type: vless
+  server: 185.130.224.202
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 4
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
+  udp: true
+  sni: nimm.mpd.cc.cd.
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 2
+  type: vless
+  server: de-2.srv.dvzh.net
+  port: 443
+  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
+    short-id: e4e77e76e6e49da7
+  servername: de-2.srv.dvzh.net
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇳🇱 🇺🇸 | [BL]
+  type: vless
+  server: 43.174.193.1
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 17
+  type: vless
+  server: 45.95.96.170
+  port: 443
+  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
+    short-id: f6d23c76d0362796
+  servername: ai.rtnode.site
+  client-fingerprint: chrome
+- name: 🇵🇱 Poland, Warsaw | [BL] 8
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+- name: 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL] 2
+  type: hysteria2
+  server: xg1.mangshe.xyz
+  port: 2060
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  udp: true
+  sni: xg1.mangshe.xyz
+  skip-cert-verify: true
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇳🇱 | [BL]
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL] 4
+  type: vless
+  server: 170.114.52.22
+  port: 443
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  cipher: zero
+  udp: true
+  tls: true
+  servername: asia.csmaster.site
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    headers:
+      Host: asia.csmaster.site
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 8
+  type: vless
+  server: 89.150.35.60
+  port: 443
+  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
+  cipher: zero
+  udp: true
+  tls: true
+  servername: bab-6.site
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vws/
+    headers:
+      Host: bab-6.site
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 4
+  type: trojan
+  server: 199.232.78.101
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 13
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL] 5
+  type: vless
+  server: 170.114.52.22
+  port: 443
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  cipher: zero
+  udp: true
+  tls: true
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    headers:
+      Host: asia.csmaster.site
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+  type: vless
+  server: 141.193.213.20
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 2
+  type: vless
+  server: 217.60.6.103
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
+  type: vless
+  server: 130.17.12.35
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  type: vmess
+  server: 156.245.232.239
+  port: 35043
+  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts: {}
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 5
+  type: trojan
+  server: 167.82.76.27
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: ios
+- name: 🌐 Anycast-IP | 🇨🇭 🇮🇪 🇮🇶 | [BL] 2
+  type: vless
+  server: 199.68.196.67
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇫🇷 France, Paris | [BL] 4
+  type: trojan
+  server: www.calmlunch.com
+  port: 443
+  password: humanity
+  udp: true
+- name: 🌐 Anycast-IP | 🇩🇪 🇸🇪 🇺🇸 | [BL]
+  type: trojan
+  server: 167.82.76.7
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: edge
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: edge
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 14
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  type: vless
+  server: news.zoom.us
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 2
+  type: vless
+  server: de2.srv.vbuste.ru
+  port: 443
+  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08
+    short-id: 4be4110078ebed4a
+  servername: de2.srv.vbuste.ru
+  client-fingerprint: randomized
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 15
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+  type: vless
+  server: 31.56.146.139
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
+  type: vless
+  server: 43.129.80.179
+  port: 8443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇵🇱 Poland, Warsaw | [BL] 9
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🌐 Anycast-IP | 🇸🇪 🇺🇸 | [BL]
+  type: trojan
+  server: 199.232.78.160
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+- name: 🇹🇼 Taiwan, Taipei | [BL] 10
+  type: vless
+  server: 45.192.201.140
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 3
+  type: vless
+  server: 153.75.81.16
+  port: 443
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  cipher: zero
+  udp: true
+  tls: true
+  servername: s4ws.ragingbull.de5.net
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /wsrb7k2m
+    headers:
+      Host: s4ws.ragingbull.de5.net
+- name: 🇹🇼 Taiwan, Taipei | [BL] 11
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: safari
+- name: 🇸🇬 Singapore, Singapore | [BL] 4
+  type: vless
+  server: 206.206.78.36
+  port: 443
+  uuid: e3f0c894-0f76-4683-a751-6a93da8fd14d
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ
+    short-id: 133a3f10a1581047
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇫🇮 | [BL]
+  type: vless
+  server: 77.110.97.245
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇺🇸 United States, Wilmington | [BL] 2
+  type: vless
+  server: 5.8.52.100
+  port: 443
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: x.m-90.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: t.me/TEAMNETGRATISCOL
+    headers:
+      Host: x.m-90.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  type: vless
+  server: 130.17.12.35
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL]
+  type: vless
+  server: 31.56.113.202
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 9
+  type: vless
+  server: 193.37.215.75
+  port: 443
+  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
+  cipher: zero
+  udp: true
+  tls: true
+  servername: bab-6.site
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /vws/
+    headers:
+      Host: bab-6.site
+- name: 🌐 Anycast-IP | 🇨🇾 🇺🇸 | [BL]
+  type: vless
+  server: 2.56.123.131
+  port: 443
+  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: wDAQ_iQ_vv6lQiB9nCxIJviEhARWOQOPyhzos8EJW3o
+    short-id: 9da47879658f9f25
+  servername: contact.yump.online
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+- name: 🌐 Anycast-IP | 🇩🇪 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  type: vless
+  server: 185.94.165.207
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇵🇱 Poland, Warsaw | [BL] 10
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+    headers:
+      Host: pl-2070d4dca0.shamanapp.online
+- name: 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇮🇹 | [BL]
+  type: vless
+  server: 80.211.27.249
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇳🇱 | [BL]
+  type: hysteria2
+  server: 77.74.123.107
+  port: 8443
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  udp: true
+  sni: grape-test-italy.dynuddns.net
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 6
+  type: vless
+  server: cf.877774.xyz
+  port: 8443
+  uuid: ce0cf224-1d6e-466e-a7e3-55aead76afed
+  cipher: zero
+  udp: true
+  tls: true
+  servername: aaa.abcai.online
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /vless-argofp=chrome
+    headers:
+      Host: aaa.abcai.online
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  type: hysteria2
+  server: e7q.internet-booster.online
+  port: 2443
+  password: QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN
+  udp: true
+  sni: hy2.78.141.219.189.nip.io
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 18
   type: vless
   server: 151.101.213.164
   port: 443
@@ -1350,477 +4195,1004 @@ proxies:
     path: /
     headers:
       Host: fretranxrabet.net
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 6
-  type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
-  cipher: zero
-  udp: true
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: stigmata.ir
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 9
-  type: vless
-  server: 189.74.114.123
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: qq
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: qq
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 9
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: ios
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 5
-  type: vmess
-  server: 2b9hwy8ocx7q74nm.v.3dns.vip
-  port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
-  network: ws
-  ws-opts:
-    path: /ws-vmess
-    headers:
-      Host: 2b9hwY8oCx7Q74NM.v.3dns.vip
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 17
-  type: vless
-  server: 45.95.96.182
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: android
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 6
-  type: vmess
-  server: 2b9hwy8ocx7q74nm.v.3dns.vip
-  port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  ws-opts:
-    path: /ws-vmess
-    headers:
-      Host: 2b9hwY8oCx7Q74NM.v.3dns.vip
-- name: 🇬🇧 United Kingdom, London | [BL]
-  type: hysteria2
-  server: 103.126.51.50
-  port: 8443
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  udp: true
-  sni: ocober-romania-new.yyuyy.com
-- name: 🇸🇪 Sweden, Stockholm | [BL]
-  type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
-  cipher: zero
-  udp: true
-  servername: psf-2.weedly.top
-  network: ws
-  ws-opts:
-    headers:
-      Host: stigmata.ir
-- name: 🇫🇮 Finland, Helsinki | [BL] 4
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: ios
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 6
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: android
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: safari
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: chrome
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 18
-  type: vless
-  server: 45.95.96.182
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: chrome
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 19
-  type: vless
-  server: 45.95.96.170
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA
-    short-id: f6d23c76d0362796
-  servername: ai.rtnode.site
-  client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 10
-  type: vless
-  server: 67.159.6.181
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: firefox
-- name: 🇷🇺 Russia, Moscow | 🌐 | [BL] 2
+- name: 🇷🇺 Russia, Moscow | 🌐 | [BL] 3
   type: hysteria2
   server: msk.frkn.org
   port: 443
   password: f317b5d6-d399-4d3d-a051-89d674ae953c
   udp: true
-  skip-cert-verify: true
-- name: 🇨🇿 Czechia, Prague | [BL]
-  type: vless
-  server: 153.76.185.158
-  port: 3090
-  uuid: c7cb3a66-991f-4796-aeed-2926aae9f3f9
-  cipher: zero
+  sni: msk.frkn.org
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 5
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
   udp: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: vless
-- name: 🇫🇮 Finland, Helsinki | [BL] 5
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: chrome
-- name: 🇫🇮 Finland, Helsinki | 🌐 | [BL] 7
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-  servername: 1mcfn.67resserv67.info
+  sni: nimm.mpd.cc.cd.
   client-fingerprint: firefox
-- name: 🇸🇪 Sweden, Stockholm | 🌐 | [BL] 7
-  type: vless
-  server: psf-2.weedly.top
-  port: 80
-  uuid: 33016f3d-8509-493c-bd8b-d26447d48135
-  cipher: zero
-  udp: true
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: stigmata.ir
-- name: 🇫🇮 Finland, Helsinki | [BL] 6
-  type: vless
-  server: 131.123.13.93
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 3
+  type: trojan
+  server: 167.82.76.7
   port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
+  password: mitivpn
   udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: random
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 11
-  type: vless
-  server: 189.74.114.123
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: edge
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 20
-  type: vless
-  server: 45.95.96.182
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: edge
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 21
-  type: vless
-  server: 45.95.96.182
-  port: 443
-  uuid: a47f8110-de83-4c37-b6a7-16010535aef4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs
-    short-id: a7268acdcfef5862
-  servername: ai.yump.online
-  client-fingerprint: ios
-- name: 🇫🇮 Finland, Helsinki | [BL] 7
-  type: vless
-  server: 131.123.13.93
-  port: 443
-  uuid: 55ccbeb5-0bf4-4e4d-afcb-23c038e73e00
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA
-    short-id: 29455a3a790acbd0
-    spider-x: /
-  servername: 1mcfn.67resserv67.info
-  client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 12
-  type: vless
-  server: 189.74.114.123
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: firefox
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 10
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
+  sni: ssl.fastly.com
   client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 13
-  type: vless
-  server: 67.159.6.181
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: ios
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
-  type: vless
-  server: 50.7.157.235
-  port: 443
-  uuid: b812a4e0-c90a-4864-8ffb-2af71d69d4f4
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY
-    short-id: ba4b2afa9e7193ea
-  servername: edge-fr.extazy.org
-  client-fingerprint: random
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 11
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: edge
-- name: 🇭🇰 Hong Kong, Hong Kong | 🌐 | [BL]
-  type: hysteria2
-  server: xg1.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  sni: xg1.mangshe.xyz
-  skip-cert-verify: true
-- name: 🇰🇷 South Korea, Incheon | 🌐 | [BL] 12
-  type: vless
-  server: icn-a-01.auuas.com
-  port: 1891
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0
-    short-id: 8378f267
-  servername: www.npmjs.com
-  client-fingerprint: safari
-- name: 🇷🇺 Russia, Zelenograd (Zelenogradskiy administrativnyy okrug) | 🌐 | [BL]
-  type: hysteria2
-  server: els.mangshe.xyz
-  port: 2060
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  udp: true
-  sni: els.mangshe.xyz
-  skip-cert-verify: true
-- name: 🇳🇱 The Netherlands, Halfweg | [BL] 14
-  type: vless
-  server: 67.159.6.181
-  port: 443
-  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: a8
-  servername: api.mediagavan.cc
-  client-fingerprint: safari
-- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 14
   type: vmess
-  server: 20.235.220.189
+  server: cu.877774.xyz
   port: 443
-  uuid: f23bb427c1f94373876c2f43e9f790f3
+  uuid: f3244e28-157b-49e9-9730-89832f89ebcc
   alterId: 0
   cipher: auto
   udp: true
   tls: true
-  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  servername: balanced-minds-carrier-demanding.trycloudflare.com
   network: ws
   ws-opts:
-    path: /ws-vmess
+    path: /vmess-argo
+    headers:
+      Host: balanced-minds-carrier-demanding.trycloudflare.com
+- name: 🇫🇮 Finland, Helsinki | [BL]
+  type: vless
+  server: 3f8efdt.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
+    short-id: 023a1e6ffc32be10
+  servername: 3f8efdt.fi1.h1clayd.click
+  client-fingerprint: chrome
+- name: 🇫🇮 Finland, Helsinki | [BL] 2
+  type: vless
+  server: 13.143.129.45
+  port: 443
+  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM
+    short-id: 7dd08043
+  servername: addons.mozilla.org
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 3
+  type: vless
+  server: de-2.srv.dvzh.net
+  port: 443
+  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
+    short-id: e4e77e76e6e49da7
+  servername: de-2.srv.dvzh.net
+  client-fingerprint: chrome
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+  type: vless
+  server: news.zoom.us
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇺🇸 United States, Ashburn | 🌐 | [BL]
+  type: vless
+  server: www.chatgpt.com
+  port: 2083
+  uuid: 88360a6d-0fd7-49ef-ad06-6397fc7a80e5
+  cipher: zero
+  udp: true
+  tls: true
+  servername: azki.dearhossein-taktaz.ir
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: azki.dearhossein-taktaz.ir
+- name: 🇺🇸 United States, Wilmington | [BL] 3
+  type: vless
+  server: 46.36.221.203
+  port: 443
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: x.m-90.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: t.me/TEAMNETGRATISCOL
+    headers:
+      Host: x.m-90.xyz
+- name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [BL] 3
+  type: vless
+  server: de2.srv.vbuste.ru
+  port: 443
+  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08
+    short-id: 4be4110078ebed4a
+  servername: de2.srv.vbuste.ru
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇲🇩 🇺🇸 | [BL]
+  type: vless
+  server: 80.96.113.48
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL] 6
+  type: hysteria2
+  server: 104.234.233.70
+  port: 55000
+  password: fe552e75-4ffd-4e1a-984c-44e71c746c15
+  udp: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 16
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 10
+  type: trojan
+  server: 199.232.78.101
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 4
+  type: trojan
+  server: 167.82.76.7
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: ios
+- name: 🇫🇷 France, Paris | [BL] 5
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 17
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇹🇼 Taiwan, Taipei | [BL] 12
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+- name: 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 4
+  type: vless
+  server: de-2.srv.dvzh.net
+  port: 443
+  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
+    short-id: e4e77e76e6e49da7
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 6
+  type: trojan
+  server: 199.232.78.160
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 19
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 6
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
+  udp: true
+  sni: nimm.mpd.cc.cd.
+  client-fingerprint: android
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 🇺🇸 | [BL] 5
+  type: trojan
+  server: 167.82.76.7
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇩🇪 🇷🇴 | [BL]
+  type: trojan
+  server: 77.74.123.107
+  port: 4443
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  udp: true
+  sni: grape-test-italy.dynuddns.net
+  client-fingerprint: firefox
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 10
+  type: vless
+  server: 8.47.69.0
+  port: 2053
+  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fr.api-music-fa.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /api/voip/updates/static/fr2035
+    headers:
+      Host: fr.api-music-fa.com
+- name: 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 4
+  type: vless
+  server: 159.195.5.79
+  port: 2083
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  cipher: zero
+  udp: true
+  tls: true
+  servername: s4ws.ragingbull.de5.net
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /wsrb7k2m
+    headers:
+      Host: s4ws.ragingbull.de5.net
+- name: 🇳🇱 The Netherlands, Halfweg | [BL]
+  type: vless
+  server: api.mediagavan.cc
+  port: 443
+  uuid: 84c9ff14-75b9-420b-8a5c-dc25e19ec11a
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
+    short-id: a8
+  servername: api.mediagavan.cc
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 7
+  type: vless
+  server: 2.56.172.107
+  port: 443
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: x.m-90.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: t.me/TEAMNETGRATISCOL
+    headers:
+      Host: x.m-90.xyz
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 20
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 18
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇷🇴 | [BL]
+  type: vless
+  server: 85.90.196.11
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇹🇼 Taiwan, Taipei | [BL] 13
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: '%2Fe8e2cecb6188f7fb'
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🌐 Anycast-IP | 🇮🇷 | [BL] 2
+  type: vless
+  server: 31.59.210.26
+  port: 2088
+  uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg
+    short-id: b1ad165f903c62fe
+  servername: www.yandex.ru
+  client-fingerprint: chrome
+  network: grpc
+  grpc-opts:
+    grpc-service-name: astracat
+- name: 🇷🇺 Russia | 🌐 | [BL] 2
+  type: hysteria2
+  server: ru.xiaoliyu.cyou
+  port: 18333
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  udp: true
+  skip-cert-verify: true
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  type: vmess
+  server: yg1.ygkkk.dpdns.org
+  port: 443
+  uuid: b2ba4a73-3123-479e-aa96-5973a9ecd0c0
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: jmp1.907737.xyz
+  network: ws
+  ws-opts:
+    path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm
+    headers:
+      Host: jmp1.907737.xyz
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 19
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+  client-fingerprint: chrome
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
+  type: vless
+  server: news.zoom.us
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇷🇴 Romania, Bucharest | [BL] 4
+  type: vless
+  server: 109.104.106.149
+  port: 443
+  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw
+    short-id: 87709fed663228e5
+  servername: d3-ro.cloud-cdn.xyz
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇺🇸 | [BL]
+  type: vless
+  server: 130.17.12.35
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇮🇪 🇳🇱 | [BL]
+  type: vless
+  server: 43.174.193.1
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
+  type: vless
+  server: 141.11.139.215
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 7
+  type: trojan
+  server: 167.82.76.7
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇬🇧 🇱🇻 | [BL] 3
+  type: vless
+  server: 217.60.6.103
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  type: vless
+  server: ccc.010304.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | [BL] 6
+  type: trojan
+  server: 45.205.0.6
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] 5
+  type: vless
+  server: 83.229.87.123
+  port: 443
+  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
+    short-id: e4e77e76e6e49da7
+  servername: de-2.srv.dvzh.net
+  client-fingerprint: firefox
+- name: 🇮🇳 India, New Delhi | [BL] 3
+  type: vless
+  server: dorado.yokkastars.com
+  port: 40443
+  uuid: af5eac96-e478-488a-bc8c-45269d7e8847
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw
+    short-id: 68a8
+  servername: deepl.com
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇺🇸 | [BL] 8
+  type: vless
+  server: cf.877774.xyz
+  port: 8443
+  uuid: ce0cf224-1d6e-466e-a7e3-55aead76afed
+  cipher: zero
+  udp: true
+  tls: true
+  servername: aaa.abcai.online
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /vless-argofp=chrome
+    headers:
+      Host: aaa.abcai.online
+- name: 🌐 Anycast-IP | 🇨🇦 🇸🇪 | [BL] 8
+  type: trojan
+  server: 199.232.78.160
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇲🇩 | [BL]
+  type: vless
+  server: 80.96.113.48
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  skip-cert-verify: true
+- name: 🇵🇱 Poland, Warsaw | [BL] 11
+  type: vless
+  server: pl-2070d4dca0.shamanapp.online
+  port: 33740
+  uuid: d666e16b-2b64-4499-bb32-896c26dc2e3d
+  cipher: zero
+  udp: true
+  tls: true
+  servername: pl-2070d4dca0.shamanapp.online
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /ShamanXHTTP2026
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 21
+  type: trojan
+  server: 31.77.168.35
+  port: 443
+  password: MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo
+  udp: true
+  sni: d3-de2.cloud-cdn.xyz
+  client-fingerprint: safari
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇱🇻 | [BL] 2
+  type: vless
+  server: 31.56.113.202
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 5
+  type: vless
+  server: 117.55.233.87
+  port: 443
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  cipher: zero
+  udp: true
+  tls: true
+  servername: s3ws.ragingbull.de5.net
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /wsrb7k2m
+    headers:
+      Host: s3ws.ragingbull.de5.net
+- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 | [BL]
+  type: vless
+  server: ccc.010304.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  type: vmess
+  server: cu.877774.xyz
+  port: 443
+  uuid: f3244e28-157b-49e9-9730-89832f89ebcc
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /vmess-argo
+    headers:
+      Host: balanced-minds-carrier-demanding.trycloudflare.com
+- name: 🇱🇰 Sri Lanka, Battaramulla | [BL] 3
+  type: vless
+  server: support.zoom.us
+  port: 80
+  uuid: 684f9a2e-4f96-497f-bfd9-ff1e34637952
+  cipher: zero
+  udp: true
+  servername: free.sahanwickramasinghe.me
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: free.sahanwickramasinghe.me
+- name: 🇺🇸 United States | 🌐 | [BL]
+  type: vless
+  server: 146.75.117.242
+  port: 443
+  uuid: 9b733a43-cf91-4ba0-bd76-6ca8b42e827a
+  cipher: zero
+  udp: true
+  tls: true
+  servername: minimize-evenness.cdn-content.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: minimize-evenness.cdn-content.com
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 22
+  type: vless
+  server: 93.123.101.19
+  port: 1443
+  uuid: d77ad0b7-f73d-48b6-a37f-df435cabe889
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2V705nBMsH_w0dWqRNfD_bjOJhp5Opc1ELgrfiPFggQ
+    short-id: 9ecdbcce4f70a126
+  servername: xyeta.cloude.one
+  client-fingerprint: edge
+- name: 🇸🇬 Singapore, Singapore | 🌐 | [BL] 7
+  type: vmess
+  server: 45.127.32.220
+  port: 55002
+  uuid: b25731af-0428-4274-be5d-31a273a8d632
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /b25731af-0428-4274-be5d-31a273a8d632-vm
+    headers:
+      Host: www.bing.com
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 23
+  type: vless
+  server: 151.101.213.164
+  port: 443
+  uuid: eb98ab60-f16d-4662-a740-c89307400939
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: fretranxrabet.net
+- name: 🇺🇸 United States, Wilmington | [BL] 4
+  type: vless
+  server: 5.8.52.100
+  port: 443
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: x.m-90.xyz
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: t.me/TEAMNETGRATISCOL
+    headers:
+      Host: x.m-90.xyz
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: android
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
+  type: vless
+  server: 141.193.213.21
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇱🇰 Sri Lanka, Battaramulla | [BL] 4
+  type: vless
+  server: support.zoom.us
+  port: 80
+  uuid: 684f9a2e-4f96-497f-bfd9-ff1e34637952
+  cipher: zero
+  udp: true
+  servername: support.zoom.us
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: free.sahanwickramasinghe.me
+- name: 🇹🇼 Taiwan, Taipei | [BL] 14
+  type: vless
+  server: argo6.5671234.xyz
+  port: 443
+  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
+  cipher: zero
+  udp: true
+  tls: true
+  servername: argo6.5671234.xyz
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /e8e2cecb6188f7fb
+    headers:
+      Host: argo6.5671234.xyz
+- name: 🇫🇷 France, Paris | [BL] 7
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇯🇵 | [BL]
+  type: vless
+  server: 160.251.167.81
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🇫🇷 France, Roubaix | 🌐 | [BL] 11
+  type: vless
+  server: 8.47.69.0
+  port: 2053
+  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fr.api-music-fa.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /api/voip/updates/static/fr2035
+    headers:
+      Host: fr.api-music-fa.com
+- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇸🇪 | [BL] 11
+  type: trojan
+  server: 167.82.76.27
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: ssl.fastly.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇦🇷 🇩🇪 🇬🇧 🇵🇱 | [BL]
+  type: vless
+  server: 2.56.172.107
+  port: 443
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  cipher: zero
+  udp: true
+  tls: true
+  servername: fzo5i.ir46.90k.hh.ov0.kdns.fr
+  network: ws
+  ws-opts:
+    path: /glasspanel/guest000_0_5de14443985f/
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 | [BL]
+  type: vless
+  server: 43.129.80.179
+  port: 8443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇸🇪 🇺🇸 | [BL]
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇹🇷 Turkey, Etimesgut | [BL] 7
+  type: trojan
+  server: www.speedtest.org
+  port: 2053
+  password: e309e031-991e-4656-9934-44d10deb8fd8
+  udp: true
+  sni: nimm.mpd.cc.cd.
+  client-fingerprint: safari
+- name: 🇮🇪 Ireland, Sandyford (Sandyford Business Park) | [BL] 20
+  type: vless
+  server: 87.192.47.10
+  port: 52006
+  uuid: bc659d88-a1e0-4c65-a49a-7b51b26a7a7f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: grok.setlisting.ru
+- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  type: vless
+  server: 43.174.193.1
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
+  type: vless
+  server: news.zoom.us
+  port: 8443
+  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  cipher: zero
+  udp: true
+  tls: true
+  servername: u.srilankangrill.online
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: u.srilankangrill.online
+- name: 🇩🇪 Germany, Nuremberg | 🌐 | [BL] 6
+  type: vless
+  server: 159.195.5.79
+  port: 2083
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  cipher: zero
+  udp: true
+  tls: true
+  servername: s4ws.ragingbull.de5.net
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /wsrb7k2m
+    headers:
+      Host: s4ws.ragingbull.de5.net
