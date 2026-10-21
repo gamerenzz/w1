@@ -26,1223 +26,1113 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇹🇼 Taiwan, Taoyuan | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL]
+  - 🇭🇺 Hungary, Szeged | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇮🇳 India, Thane | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 4
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇾 🇩🇪 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 5
-  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
   - 🇫🇷 France, Paris | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 2
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 8
   - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇺🇸 United States | 🌐 | [BL] 2
+  - 🇰🇿 Kazakhstan, Almaty | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇮 🇸🇪 🇺🇸 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇭🇺 Hungary, Szeged | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇨🇳 China, Shenzhen | [BL]
   - 🇫🇷 France, Paris | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 🇺🇸 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 21
+  - 🇮🇳 India, Thane | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🇫🇷 France, Paris | 🌐 | [BL] 9
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 22
   - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 24
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 4
+  - 🇮🇳 India, Thane | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 25
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 7
-  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
   - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
   - 🇳🇱 The Netherlands, Haarlem | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
   - 🇳🇱 The Netherlands, Haarlem | [BL] 29
   - 🇳🇱 The Netherlands, Haarlem | [BL] 30
+  - 🇺🇸 United States | 🌐 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
   - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 15
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇫🇷 France | 🌐 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 19
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 20
   - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 21
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 22
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 | [BL]
-  - 🇫🇷 France, Paris | [BL] 7
   - 🇫🇷 France, Paris | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 23
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 24
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 25
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 26
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 27
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇶 🇺🇸 | [BL]
   - 🇫🇷 France, Paris | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 13
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 28
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 4
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 18
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 19
   - 🇫🇷 France, Paris | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 29
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 15
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 30
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 31
+  - 🇯🇵 Japan, Osaka | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
   - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 6
+  - 🇺🇸 United States | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
+  - 🇭🇺 Hungary, Szeged | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
   - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
   - 🇳🇱 The Netherlands, Haarlem | [BL] 46
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 11
-  - 🌐 Anycast-IP | 🇦🇷 🇬🇧 🇵🇱 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 12
   - 🇳🇱 The Netherlands, Haarlem | [BL] 47
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 32
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 48
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 49
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
-  - 🌐 Anycast-IP | 🇨🇦 🇨🇭 🇨🇾 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 34
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 15
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 10
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 6
   - 🇫🇷 France, Paris | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 36
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 37
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 38
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 22
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 23
   - 🇳🇱 The Netherlands, Haarlem | [BL] 54
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 24
   - 🇳🇱 The Netherlands, Haarlem | [BL] 55
-  - 🌐 Anycast-IP | 🇨🇭 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
   - 🇫🇷 France, Paris | [BL] 14
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 39
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 40
   - 🇫🇷 France, Paris | [BL] 15
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
+  - 🇺🇸 United States | 🌐 | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 57
+  - 🇮🇳 India, Thane | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 58
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 18
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 59
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 41
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 19
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 19
   - 🇳🇱 The Netherlands, Haarlem | [BL] 60
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 20
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 12
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 61
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 20
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 21
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 62
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 25
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 63
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 26
+  - 🇫🇷 France, Paris | [BL] 16
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 27
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 64
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 65
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 29
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 30
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 66
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🇮🇳 India, Thane | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 31
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇷 France, Paris | [BL] 17
+  - 🇺🇸 United States | 🌐 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 32
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 33
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 34
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 67
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 35
+  - 🇮🇳 India, Thane | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇭🇺 Hungary, Szeged | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 36
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 68
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 69
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 70
+  - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 37
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 71
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 72
 - name: 🤖 人工智能
   type: select
   proxies:
   - 🚀 节点选择
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🇹🇼 Taiwan, Taoyuan | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL]
+  - 🇭🇺 Hungary, Szeged | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇮🇳 India, Thane | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 4
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇾 🇩🇪 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 5
-  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
   - 🇫🇷 France, Paris | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 2
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 8
   - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇺🇸 United States | 🌐 | [BL] 2
+  - 🇰🇿 Kazakhstan, Almaty | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇮 🇸🇪 🇺🇸 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇭🇺 Hungary, Szeged | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇨🇳 China, Shenzhen | [BL]
   - 🇫🇷 France, Paris | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 🇺🇸 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 21
+  - 🇮🇳 India, Thane | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🇫🇷 France, Paris | 🌐 | [BL] 9
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 22
   - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 24
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 4
+  - 🇮🇳 India, Thane | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 25
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 7
-  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
   - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
   - 🇳🇱 The Netherlands, Haarlem | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
   - 🇳🇱 The Netherlands, Haarlem | [BL] 29
   - 🇳🇱 The Netherlands, Haarlem | [BL] 30
+  - 🇺🇸 United States | 🌐 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
   - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 15
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇫🇷 France | 🌐 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 19
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 20
   - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 21
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 22
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 | [BL]
-  - 🇫🇷 France, Paris | [BL] 7
   - 🇫🇷 France, Paris | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 23
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 24
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 25
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 26
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 27
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇶 🇺🇸 | [BL]
   - 🇫🇷 France, Paris | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 13
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 28
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 4
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 18
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 19
   - 🇫🇷 France, Paris | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 29
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 15
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 30
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 31
+  - 🇯🇵 Japan, Osaka | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
   - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 6
+  - 🇺🇸 United States | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
+  - 🇭🇺 Hungary, Szeged | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
   - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
   - 🇳🇱 The Netherlands, Haarlem | [BL] 46
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 11
-  - 🌐 Anycast-IP | 🇦🇷 🇬🇧 🇵🇱 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 12
   - 🇳🇱 The Netherlands, Haarlem | [BL] 47
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 32
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 48
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 49
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
-  - 🌐 Anycast-IP | 🇨🇦 🇨🇭 🇨🇾 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 34
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 15
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 10
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 6
   - 🇫🇷 France, Paris | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 36
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 37
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 38
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 22
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 23
   - 🇳🇱 The Netherlands, Haarlem | [BL] 54
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 24
   - 🇳🇱 The Netherlands, Haarlem | [BL] 55
-  - 🌐 Anycast-IP | 🇨🇭 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
   - 🇫🇷 France, Paris | [BL] 14
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 39
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 40
   - 🇫🇷 France, Paris | [BL] 15
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
+  - 🇺🇸 United States | 🌐 | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 57
+  - 🇮🇳 India, Thane | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 58
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 18
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 59
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 41
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 19
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 19
   - 🇳🇱 The Netherlands, Haarlem | [BL] 60
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 20
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 12
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 61
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 20
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 21
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 62
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 25
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 63
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 26
+  - 🇫🇷 France, Paris | [BL] 16
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 27
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 64
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 65
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 29
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 30
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 66
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🇮🇳 India, Thane | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 31
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇷 France, Paris | [BL] 17
+  - 🇺🇸 United States | 🌐 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 32
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 33
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 34
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 67
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 35
+  - 🇮🇳 India, Thane | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇭🇺 Hungary, Szeged | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 36
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 68
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 69
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 70
+  - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 37
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 71
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 72
 - name: 🍎 苹果服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇹🇼 Taiwan, Taoyuan | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL]
+  - 🇭🇺 Hungary, Szeged | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇮🇳 India, Thane | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 4
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇾 🇩🇪 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 5
-  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
   - 🇫🇷 France, Paris | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 2
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 8
   - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇺🇸 United States | 🌐 | [BL] 2
+  - 🇰🇿 Kazakhstan, Almaty | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇮 🇸🇪 🇺🇸 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇭🇺 Hungary, Szeged | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇨🇳 China, Shenzhen | [BL]
   - 🇫🇷 France, Paris | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 🇺🇸 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 21
+  - 🇮🇳 India, Thane | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🇫🇷 France, Paris | 🌐 | [BL] 9
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 22
   - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 24
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 4
+  - 🇮🇳 India, Thane | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 25
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 7
-  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
   - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
   - 🇳🇱 The Netherlands, Haarlem | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
   - 🇳🇱 The Netherlands, Haarlem | [BL] 29
   - 🇳🇱 The Netherlands, Haarlem | [BL] 30
+  - 🇺🇸 United States | 🌐 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
   - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 15
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇫🇷 France | 🌐 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 19
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 20
   - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 21
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 22
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 | [BL]
-  - 🇫🇷 France, Paris | [BL] 7
   - 🇫🇷 France, Paris | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 23
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 24
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 25
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 26
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 27
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇶 🇺🇸 | [BL]
   - 🇫🇷 France, Paris | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 13
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 28
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 4
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 18
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 19
   - 🇫🇷 France, Paris | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 29
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 15
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 30
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 31
+  - 🇯🇵 Japan, Osaka | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
   - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 6
+  - 🇺🇸 United States | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
+  - 🇭🇺 Hungary, Szeged | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
   - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
   - 🇳🇱 The Netherlands, Haarlem | [BL] 46
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 11
-  - 🌐 Anycast-IP | 🇦🇷 🇬🇧 🇵🇱 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 12
   - 🇳🇱 The Netherlands, Haarlem | [BL] 47
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 32
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 48
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 49
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
-  - 🌐 Anycast-IP | 🇨🇦 🇨🇭 🇨🇾 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 34
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 15
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 10
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 6
   - 🇫🇷 France, Paris | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 36
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 37
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 38
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 22
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 23
   - 🇳🇱 The Netherlands, Haarlem | [BL] 54
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 24
   - 🇳🇱 The Netherlands, Haarlem | [BL] 55
-  - 🌐 Anycast-IP | 🇨🇭 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
   - 🇫🇷 France, Paris | [BL] 14
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 39
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 40
   - 🇫🇷 France, Paris | [BL] 15
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
+  - 🇺🇸 United States | 🌐 | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 57
+  - 🇮🇳 India, Thane | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 58
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 18
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 59
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 41
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 19
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 19
   - 🇳🇱 The Netherlands, Haarlem | [BL] 60
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 20
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 12
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 61
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 20
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 21
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 62
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 25
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 63
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 26
+  - 🇫🇷 France, Paris | [BL] 16
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 27
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 64
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 65
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 29
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 30
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 66
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🇮🇳 India, Thane | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 31
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇷 France, Paris | [BL] 17
+  - 🇺🇸 United States | 🌐 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 32
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 33
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 34
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 67
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 35
+  - 🇮🇳 India, Thane | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇭🇺 Hungary, Szeged | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 36
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 68
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 69
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 70
+  - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 37
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 71
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 72
 - name: 🪟 微软服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🇹🇼 Taiwan, Taoyuan | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL]
+  - 🇭🇺 Hungary, Szeged | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇮🇳 India, Thane | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 4
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇾 🇩🇪 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 5
-  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
   - 🇫🇷 France, Paris | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 2
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 8
   - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇺🇸 United States | 🌐 | [BL] 2
+  - 🇰🇿 Kazakhstan, Almaty | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇮 🇸🇪 🇺🇸 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇭🇺 Hungary, Szeged | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇨🇳 China, Shenzhen | [BL]
   - 🇫🇷 France, Paris | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 🇺🇸 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 21
+  - 🇮🇳 India, Thane | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🇫🇷 France, Paris | 🌐 | [BL] 9
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 22
   - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 24
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 4
+  - 🇮🇳 India, Thane | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 25
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 7
-  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
   - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
   - 🇳🇱 The Netherlands, Haarlem | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
   - 🇳🇱 The Netherlands, Haarlem | [BL] 29
   - 🇳🇱 The Netherlands, Haarlem | [BL] 30
+  - 🇺🇸 United States | 🌐 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
   - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 15
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇫🇷 France | 🌐 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 19
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 20
   - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 21
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 22
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 | [BL]
-  - 🇫🇷 France, Paris | [BL] 7
   - 🇫🇷 France, Paris | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 23
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 24
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 25
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 26
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 27
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇶 🇺🇸 | [BL]
   - 🇫🇷 France, Paris | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 13
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 28
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 4
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 18
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 19
   - 🇫🇷 France, Paris | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 29
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 15
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 30
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 31
+  - 🇯🇵 Japan, Osaka | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
   - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 6
+  - 🇺🇸 United States | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
+  - 🇭🇺 Hungary, Szeged | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
   - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
   - 🇳🇱 The Netherlands, Haarlem | [BL] 46
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 11
-  - 🌐 Anycast-IP | 🇦🇷 🇬🇧 🇵🇱 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 12
   - 🇳🇱 The Netherlands, Haarlem | [BL] 47
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 32
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 48
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 49
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
-  - 🌐 Anycast-IP | 🇨🇦 🇨🇭 🇨🇾 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 34
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 15
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 10
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 6
   - 🇫🇷 France, Paris | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 36
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 37
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 38
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 22
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 23
   - 🇳🇱 The Netherlands, Haarlem | [BL] 54
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 24
   - 🇳🇱 The Netherlands, Haarlem | [BL] 55
-  - 🌐 Anycast-IP | 🇨🇭 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
   - 🇫🇷 France, Paris | [BL] 14
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 39
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 40
   - 🇫🇷 France, Paris | [BL] 15
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
+  - 🇺🇸 United States | 🌐 | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 57
+  - 🇮🇳 India, Thane | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 58
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 18
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 59
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 41
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 19
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 19
   - 🇳🇱 The Netherlands, Haarlem | [BL] 60
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 20
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 12
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 61
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 20
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 21
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 62
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 25
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 63
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 26
+  - 🇫🇷 France, Paris | [BL] 16
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 27
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 64
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 65
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 29
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 30
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 66
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🇮🇳 India, Thane | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 31
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇷 France, Paris | [BL] 17
+  - 🇺🇸 United States | 🌐 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 32
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 33
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 34
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 67
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 35
+  - 🇮🇳 India, Thane | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇭🇺 Hungary, Szeged | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 36
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 68
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 69
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 70
+  - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 37
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 71
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 72
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - 🇹🇼 Taiwan, Taoyuan | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL]
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL]
+  - 🇭🇺 Hungary, Szeged | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇮🇳 India, Thane | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 4
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇾 🇩🇪 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 5
-  - 🇭🇰 Hong Kong, Central | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  - 🇺🇸 United States | 🌐 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 10
   - 🇫🇷 France, Paris | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 2
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 8
   - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 7
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  - 🇺🇸 United States | 🌐 | [BL] 2
+  - 🇰🇿 Kazakhstan, Almaty | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇫🇮 🇸🇪 🇺🇸 | [BL]
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇭🇺 Hungary, Szeged | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇨🇳 China, Shenzhen | [BL]
   - 🇫🇷 France, Paris | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 🇺🇸 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 12
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 21
+  - 🇮🇳 India, Thane | [BL] 2
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  - 🇫🇷 France, Paris | 🌐 | [BL] 9
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 22
   - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 24
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  - 🇭🇺 Hungary, Szeged | [BL] 4
+  - 🇮🇳 India, Thane | [BL] 3
+  - 🇺🇸 United States | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
   - 🇳🇱 The Netherlands, Haarlem | [BL] 25
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 4
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 3
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 3
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 7
-  - 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇺🇸 | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
   - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇮 Finland, Helsinki | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 16
   - 🇳🇱 The Netherlands, Haarlem | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 17
   - 🇳🇱 The Netherlands, Haarlem | [BL] 29
   - 🇳🇱 The Netherlands, Haarlem | [BL] 30
+  - 🇺🇸 United States | 🌐 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
   - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 15
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
   - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇫🇷 France | 🌐 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 19
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 20
   - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 21
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
   - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 22
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 | [BL]
-  - 🇫🇷 France, Paris | [BL] 7
   - 🇫🇷 France, Paris | [BL] 8
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 23
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 24
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 25
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 26
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 27
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  - 🌐 Anycast-IP | 🇩🇪 🇮🇶 🇺🇸 | [BL]
   - 🇫🇷 France, Paris | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 12
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 13
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 28
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 4
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 18
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 19
   - 🇫🇷 France, Paris | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 29
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 4
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 15
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 30
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 31
+  - 🇯🇵 Japan, Osaka | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 37
   - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 38
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 39
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 40
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 6
+  - 🇺🇸 United States | 🌐 | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 41
+  - 🇭🇺 Hungary, Szeged | [BL] 5
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 42
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 43
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
   - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 44
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 45
   - 🇳🇱 The Netherlands, Haarlem | [BL] 46
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 11
-  - 🌐 Anycast-IP | 🇦🇷 🇬🇧 🇵🇱 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 12
   - 🇳🇱 The Netherlands, Haarlem | [BL] 47
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 32
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 2
   - 🇳🇱 The Netherlands, Haarlem | [BL] 48
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 13
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 49
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
-  - 🌐 Anycast-IP | 🇨🇦 🇨🇭 🇨🇾 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 33
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 5
-  - 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 34
-  - 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 | [BL]
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 14
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 15
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 10
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 16
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 11
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
-  - 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 6
   - 🇫🇷 France, Paris | [BL] 13
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 36
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 18
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 37
-  - 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 38
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 50
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 22
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 51
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 52
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 23
   - 🇳🇱 The Netherlands, Haarlem | [BL] 54
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 24
   - 🇳🇱 The Netherlands, Haarlem | [BL] 55
-  - 🌐 Anycast-IP | 🇨🇭 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
   - 🇫🇷 France, Paris | [BL] 14
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 39
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 40
   - 🇫🇷 France, Paris | [BL] 15
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 56
+  - 🇺🇸 United States | 🌐 | [BL] 6
   - 🇳🇱 The Netherlands, Haarlem | [BL] 57
+  - 🇮🇳 India, Thane | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
   - 🇳🇱 The Netherlands, Haarlem | [BL] 58
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 18
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 5
   - 🇳🇱 The Netherlands, Haarlem | [BL] 59
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 41
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 19
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 19
   - 🇳🇱 The Netherlands, Haarlem | [BL] 60
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 20
-  - 🇹🇼 Taiwan, Taoyuan | [BL] 12
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 61
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 20
-  - 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 21
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
   - 🇳🇱 The Netherlands, Haarlem | [BL] 62
-  - 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 25
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 63
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 26
+  - 🇫🇷 France, Paris | [BL] 16
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 27
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 64
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 65
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 28
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 29
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 30
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 66
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🇮🇳 India, Thane | [BL] 5
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 31
+  - 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 8
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇷 France, Paris | [BL] 17
+  - 🇺🇸 United States | 🌐 | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 32
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 33
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 34
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 67
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 35
+  - 🇮🇳 India, Thane | [BL] 6
+  - 🇰🇿 Kazakhstan, Almaty | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇭🇺 Hungary, Szeged | [BL] 6
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 36
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 68
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 69
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 70
+  - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 37
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 71
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 72
 - name: 🎯 全球直连
   type: select
   proxies:
@@ -1299,336 +1189,50 @@ rules:
 - GEOIP,cn,🎯 全球直连
 - MATCH,🐟 漏网之鱼
 proxies:
-- name: 🇹🇼 Taiwan, Taoyuan | [BL]
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇨🇦 🇫🇷 🇮🇪 | [BL]
+- name: 🇫🇷 France, Paris | 🌐 | [BL]
   type: vless
-  server: 31.59.103.159
+  server: 199.232.78.160
   port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
+  uuid: XpnTeam-31
   cipher: zero
   udp: true
   tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
-  type: vmess
-  server: de-d21e56c13c.shamanapp.online
-  port: 33744
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /ShamanVMESS2026
-    headers:
-      Host: de-d21e56c13c.shamanapp.online:33744
-- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL]
-  type: vless
-  server: 47.254.251.37
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /archives?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]
-  type: vless
-  server: 103.116.7.100
-  port: 2087
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  type: vmess
-  server: 217.60.183.95
-  port: 33744
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /ShamanVMESS2026
-    headers:
-      Host: de-d21e56c13c.shamanapp.online:33744
-- name: 🇳🇱 The Netherlands, Haarlem | [BL]
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: android
-- name: 🇫🇷 France, Paris | [BL]
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: chrome
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 2
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  type: vless
-  server: 154.211.8.152
-  port: 2053
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 3
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
+  servername: ssl.fastly.com
   client-fingerprint: ios
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL]
-  type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
-- name: 🇸🇪 Sweden, Stockholm | [BL]
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL]
   type: vless
-  server: se1.h1cloud.net
-  port: 26128
-  uuid: 68c3d665-b2b5-4ffb-9f37-9f3d8c47324d
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: sACiHit5lNtPRK_eFP6jT8dMPUZ4kQRsfPj_LL5p7Uk
-    short-id: 13ac4d3bdadf1ea1
-    spider-x: /
-  servername: www.icloud.com
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: df50147201bf
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 | [BL]
-  type: vless
-  server: 185.189.58.222
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
   client-fingerprint: qq
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 3
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+- name: 🇭🇺 Hungary, Szeged | [BL]
   type: vless
-  server: 167.68.4.131
-  port: 8443
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
+  server: hu3.aiage.work
+  port: 443
+  uuid: d0d08709-093d-45dc-ac6f-fd18890fa2c5
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
-  servername: proxy-34l.pages.dev
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 4
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  type: vless
-  server: 141.193.213.10
-  port: 443
-  uuid: 977b814d-d9e0-4889-bb71-98d6bfb8f462
-  cipher: zero
-  udp: true
-  tls: true
-  servername: partner.catchplay.com.r3xxe.eu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /sg-amz
-    headers:
-      Host: partner.catchplay.com.r3xxe.eu.cc
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇨🇾 🇩🇪 🇬🇧 🇷🇺 | [BL]
-  type: vless
-  server: 185.193.29.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /Telegram-WangCai2
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  type: vless
-  server: 27.50.48.8
-  port: 443
-  uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: vless2-8vx.pages.dev
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 5
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  reality-opts:
+    public-key: M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE
+    short-id: a09ef132e6a308ae
+  servername: hu3.aiage.work
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL]
   type: trojan
   server: 188.42.145.180
   port: 443
@@ -1636,244 +1240,30 @@ proxies:
   udp: true
   sni: wWw.Volumeroot.cOm.
   client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 2
   type: vless
-  server: 139.64.235.123
+  server: 199.232.78.170
   port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  uuid: XpnTeam-32
   cipher: zero
   udp: true
   tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
+  servername: ssl.fastly.com
+  client-fingerprint: qq
   network: ws
   ws-opts:
+    path: /
     headers:
-      Host: notls.lukongtou.eu.org
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 11
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 2
   type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  type: vless
-  server: 141.193.213.10
-  port: 443
-  uuid: a321980f-54ce-432a-862a-76035b9d78ad
-  cipher: zero
-  udp: true
-  tls: true
-  servername: m.udemy.com.r3xxe.eu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /nl-tw
-    headers:
-      Host: m.udemy.com.r3xxe.eu.cc
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇫🇷 France, Paris | [BL] 2
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
-  type: vless
-  server: 188.164.248.96
-  port: 8443
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: whitecreeper.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇫🇮 Finland, Helsinki | [BL]
-  type: vless
-  server: 8fc752g.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18
-    short-id: 09d0a94a1c6fc9d5
-    spider-x: /
-  servername: 8fc752g.fi3.h1clayd.click
-  client-fingerprint: safari
-  network: grpc
-  grpc-opts:
-    grpc-service-name: f345a414c040
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 5
-  type: vless
-  server: 27.50.49.154
-  port: 2083
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  servername: proxy-34l.pages.dev
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🇭🇰 Hong Kong, Central | [BL]
-  type: hysteria2
-  server: 8c05abce-tnhmo0-tohhws-zn8y.hk3.hyhuawei.com
-  port: 443
-  password: 44e76f8c-7362-11ec-bb74-f23c9164ca5d
-  udp: true
-  sni: 8c05abce-tnhmo0-tohhws-zn8y.hk3.hyhuawei.com
-  skip-cert-verify: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 6
-  type: vless
-  server: 27.50.49.242
-  port: 8443
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: random
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🇫🇷 France, Paris | [BL] 3
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  type: vless
-  server: 103.116.7.100
-  port: 2087
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  servername: proxy-1cu.pages.dev
+  sni: wWw.Volumeroot.cOm.
   client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 2
-  type: vless
-  server: 194.58.109.206
-  port: 8443
-  uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf3.schzyc.cc.cd
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.CMLiussss.net
-    headers:
-      Host: cf3.schzyc.cc.cd
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: edge
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 7
-  type: vless
-  server: 154.211.8.152
-  port: 2053
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: random
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL]
-  type: vless
-  server: 152.175.34.232
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 15
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 3
   type: trojan
   server: 188.42.145.180
   port: 443
@@ -1881,22 +1271,102 @@ proxies:
   udp: true
   sni: www.volumeroot.com
   client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  type: vless
-  server: 31.15.19.61
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  type: trojan
+  server: 8.47.69.0
   port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 3
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-32
   cipher: zero
   udp: true
   tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
+  servername: ssl.fastly.com
+  client-fingerprint: safari
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: cf-1rm.pages.dev
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL]
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: ios
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 4
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: qq
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+  type: vmess
+  server: 8.217.13.103
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇮🇳 India, Thane | [BL]
+  type: vless
+  server: 165.99.222.161
+  port: 443
+  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4
+  servername: in1.vkusnews.com
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: ios
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
   type: vmess
   server: 168.113.215.6
   port: 33736
@@ -1909,86 +1379,493 @@ proxies:
     path: /vmess-ws
     headers:
       Host: nl-2a972c8052.shamanapp.online
-- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  type: vless
-  server: 45.133.117.190
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  type: vmess
+  server: 47.243.65.243
   port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 5
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-32
   cipher: zero
   udp: true
   tls: true
-  servername: cf-1rm.pages.dev
+  servername: ssl.fastly.com
   client-fingerprint: chrome
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: cf-1rm.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  type: trojan
-  server: 188.42.145.180
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
+  type: vless
+  server: 188.164.248.216
   port: 443
-  password: humanity
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
   udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: android
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  type: vmess
-  server: 47.250.135.244
-  port: 10000
-  uuid: aedc66b8-99d7-4a21-8310-61870e7f870d
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 8
   type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: edge
-- name: 🇸🇪 Sweden, Stockholm | [BL] 2
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
   type: vless
-  server: se1.h1cloud.net
-  port: 26100
-  uuid: 68c3d665-b2b5-4ffb-9f37-9f3d8c47324d
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
   cipher: zero
   udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
+  type: vless
+  server: netherlands02.azotvpn.xyz
+  port: 443
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: 1uuvuG2Jl_o6yoVvOYm3hEboArh2Znu7zCy4Tqj36TI
-    short-id: 8045087bda646f1b
-  servername: www.icloud.com
-  client-fingerprint: random
-- name: 🌐 Anycast-IP | 🇨🇦 🇫🇮 🇸🇪 🇺🇸 | [BL]
-  type: vless
-  server: 45.9.74.238
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+    spider-x: /
+  servername: netherlands02.azotvpn.xyz
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  type: vmess
+  server: 47.243.65.243
   port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 6
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
   cipher: zero
   udp: true
   tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
+  servername: ssl.fastly.com
+  client-fingerprint: safari
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: cf-1rm.pages.dev
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 7
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL] 2
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: safari
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  type: vless
+  server: netherlands02.azotvpn.xyz
+  port: 443
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+    spider-x: /
+  servername: netherlands02.azotvpn.xyz
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
   type: vmess
-  server: de-d21e56c13c.shamanapp.online
-  port: 33744
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
   network: ws
   ws-opts:
-    path: /ShamanVMESS2026
+    path: /ws-vmess
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 5
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7OyamxxfZ.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
     headers:
-      Host: de-d21e56c13c.shamanapp.online:33744
+      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 6
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 7
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
+- name: 🇺🇸 United States | 🌐 | [BL]
+  type: vless
+  server: grimness-backlogs.cdn-content.com
+  port: 443
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: grimness-backlogs.cdn-content.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: grimness-backlogs.cdn-content.com
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 8
+  type: vmess
+  server: 8.217.13.103
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qtkdr8jxe3wefxjm.v.3dns.vip
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 9
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: qTKDR8jXE3wEFxJM.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qTKDR8jXE3wEFxJM.v.3dns.vip
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 10
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇫🇷 France, Paris | [BL] 3
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: safari
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 2
+  type: vless
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 8
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  type: trojan
+  server: 185.22.172.249
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: unsafe
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  type: vless
+  server: netherlands02.azotvpn.xyz
+  port: 443
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+    spider-x: /
+  servername: netherlands02.azotvpn.xyz
+  client-fingerprint: safari
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 11
+  type: vmess
+  server: 20.235.220.189
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇺🇸 United States | 🌐 | [BL] 2
+  type: vless
+  server: grimness-backlogs.cdn-content.com
+  port: 443
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: grimness-backlogs.cdn-content.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: grimness-backlogs.cdn-content.com
+- name: 🇰🇿 Kazakhstan, Almaty | [BL]
+  type: vless
+  server: 206.223.248.70
+  port: 443
+  uuid: 5c8950a3-2142-42c9-b414-fa34526ff25f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ
+    short-id: aba1b7bfa1fdbb10
+  servername: kz-2.movietop24.site
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: ios
+- name: 🇭🇺 Hungary, Szeged | [BL] 2
+  type: vless
+  server: hu3.aiage.work
+  port: 443
+  uuid: d0d08709-093d-45dc-ac6f-fd18890fa2c5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE
+    short-id: a09ef132e6a308ae
+  servername: hu3.aiage.work
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  type: vless
+  server: netherlands02.azotvpn.xyz
+  port: 443
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+    spider-x: /
+  servername: netherlands02.azotvpn.xyz
+  client-fingerprint: android
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 18
   type: trojan
   server: 188.42.145.180
@@ -1996,7 +1873,33 @@ proxies:
   password: humanity
   udp: true
   sni: www.volumeroot.com
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 6a2f8573-66dd-5f60-884c-16e02f3a5acb
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
   client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇨🇳 China, Shenzhen | [BL]
+  type: vmess
+  server: 39.108.113.127
+  port: 10086
+  uuid: 7547daaa-1577-49b0-9519-bd1823add1a7
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
 - name: 🇫🇷 France, Paris | [BL] 4
   type: trojan
   server: 141.193.213.172
@@ -2004,188 +1907,57 @@ proxies:
   password: humanity
   udp: true
   sni: www.calmlunch.com
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  type: vless
-  server: 185.193.29.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  network: ws
-  ws-opts:
-    path: Telegram-WangCai2🇨🇳
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
-  type: vmess
-  server: de-d21e56c13c.shamanapp.online
-  port: 33744
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  alterId: 0
-  cipher: none
-  udp: true
-  network: ws
-  ws-opts:
-    path: /ShamanVMESS2026
-    headers:
-      Host: de-d21e56c13c.shamanapp.online:33744
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 2
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
   client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
-  type: vless
-  server: 103.116.7.220
-  port: 2096
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-34l.pages.dev
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 19
   type: trojan
-  server: 188.42.145.180
+  server: 45.131.4.38
   port: 443
   password: humanity
   udp: true
-  sni: www.volumeroot.com
+  sni: www.pleadcourt.org
   client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 8
+- name: 🇰🇿 Kazakhstan, Almaty | [BL] 2
   type: vless
-  server: 185.193.29.123
+  server: 206.223.248.70
   port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  uuid: 5c8950a3-2142-42c9-b414-fa34526ff25f
   cipher: zero
   udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  type: vless
-  server: 27.50.48.13
-  port: 443
-  uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
-  cipher: zero
-  udp: true
-  tls: true
-  servername: vless2-8vx.pages.dev
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vless2-8vx.pages.dev
-- name: 🇫🇷 France, Paris | [BL] 5
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: ios
-- name: 🇸🇪 Sweden, Stockholm | [BL] 3
-  type: vless
-  server: se1.h1cloud.net
-  port: 26100
-  uuid: 68c3d665-b2b5-4ffb-9f37-9f3d8c47324d
-  cipher: zero
-  udp: true
+  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: 1uuvuG2Jl_o6yoVvOYm3hEboArh2Znu7zCy4Tqj36TI
-    short-id: 8045087bda646f1b
-  servername: www.icloud.com
-  client-fingerprint: ios
-- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 🇺🇸 | [BL]
-  type: vless
-  server: 47.82.155.79
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /app/index?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🇫🇮 Finland, Helsinki | [BL] 2
-  type: vless
-  server: faf318x.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: iZD9niaCQZpjG_ndVq8N2pY4hLNg0n7_oT7qJUMkDEI
-    short-id: 248965340b604f9c
-    spider-x: /
-  servername: faf318x.fi3.h1clayd.click
-  client-fingerprint: chrome
-  network: xhttp
-  xhttp-opts:
-    path: /30ed746037ba
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 3
-  type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
+    public-key: 2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ
+    short-id: aba1b7bfa1fdbb10
+  servername: kz-2.movietop24.site
   client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 🇸🇪 | [BL]
-  type: vless
-  server: 185.193.29.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /Telegram-WangCai2🇨🇳
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 6
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 12
   type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qTKDR8jXE3wEFxJM.v.3dns.vip
+- name: 🇰🇿 Kazakhstan, Almaty | [BL] 3
+  type: vless
+  server: 206.223.248.70
+  port: 443
+  uuid: 5c8950a3-2142-42c9-b414-fa34526ff25f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ
+    short-id: aba1b7bfa1fdbb10
+  servername: kz-2.movietop24.site
+  client-fingerprint: firefox
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 20
   type: trojan
   server: 188.42.145.180
@@ -2193,58 +1965,71 @@ proxies:
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 9
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 21
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: safari
+- name: 🇮🇳 India, Thane | [BL] 2
   type: vless
-  server: 103.116.7.67
-  port: 2083
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
+  server: 165.99.222.161
+  port: 443
+  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: random
+  reality-opts:
+    public-key: SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4
+  servername: in1.vkusnews.com
+  client-fingerprint: safari
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 13
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
   network: ws
   ws-opts:
+    path: /ws-vmess
     headers:
-      Host: proxy-1cu.pages.dev
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 4
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 9
   type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
   cipher: zero
   udp: true
   tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: chrome
+  servername: ssl.fastly.com
+  client-fingerprint: ios
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 2
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL]
   type: vless
-  server: 47.251.101.248
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  server: 172.96.192.167
+  port: 8443
+  uuid: 38a9c88a-14c7-49e4-841d-bdb78fbb9529
   cipher: zero
   udp: true
   tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /html/movies/watch?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: chrome
+  reality-opts:
+    public-key: 8-tz1FBA5y6CcLp0NogIY4-x6pxkFBZ_HWSOXEioWho
+    short-id: dc286495
+  servername: www.cloudflare.com
+  client-fingerprint: qq
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 22
   type: trojan
   server: 188.42.145.180
@@ -2252,7 +2037,7 @@ proxies:
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: ios
+  client-fingerprint: edge
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 23
   type: trojan
   server: 188.42.145.180
@@ -2261,67 +2046,98 @@ proxies:
   udp: true
   sni: www.volumeroot.com
   client-fingerprint: chrome
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 5
+- name: 🇭🇺 Hungary, Szeged | [BL] 3
   type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  server: hu3.aiage.work
+  port: 443
+  uuid: d0d08709-093d-45dc-ac6f-fd18890fa2c5
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🇫🇮 Finland, Helsinki | [BL] 3
+  reality-opts:
+    public-key: M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE
+    short-id: a09ef132e6a308ae
+  servername: hu3.aiage.work
+  client-fingerprint: safari
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 2
   type: vless
-  server: 8fc752g.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+  server: 172.96.192.167
+  port: 8443
+  uuid: 38a9c88a-14c7-49e4-841d-bdb78fbb9529
   cipher: zero
   udp: true
   tls: true
   reality-opts:
-    public-key: GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18
-    short-id: 09d0a94a1c6fc9d5
-    spider-x: /
-  servername: 8fc752g.fi3.h1clayd.click
-  client-fingerprint: chrome
-  network: grpc
-  grpc-opts:
-    grpc-service-name: f345a414c040
-- name: 🇫🇷 France, Paris | [BL] 6
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
+    public-key: 8-tz1FBA5y6CcLp0NogIY4-x6pxkFBZ_HWSOXEioWho
+    short-id: dc286495
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 24
   type: trojan
-  server: 8.47.69.0
+  server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
-  sni: www.pleadcourt.org
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 6
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: edge
+- name: 🇭🇺 Hungary, Szeged | [BL] 4
   type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  server: hu3.aiage.work
+  port: 443
+  uuid: d0d08709-093d-45dc-ac6f-fd18890fa2c5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE
+    short-id: a09ef132e6a308ae
+  servername: hu3.aiage.work
+  client-fingerprint: ios
+- name: 🇮🇳 India, Thane | [BL] 3
+  type: vless
+  server: 165.99.222.161
+  port: 443
+  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4
+  servername: in1.vkusnews.com
+  client-fingerprint: chrome
+- name: 🇺🇸 United States | 🌐 | [BL] 3
+  type: vless
+  server: grimness-backlogs.cdn-content.com
+  port: 443
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
   cipher: zero
   udp: true
   tls: true
-  servername: u.srilankangrill.online
+  servername: grimness-backlogs.cdn-content.com
   client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: grimness-backlogs.cdn-content.com
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 10
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 6a2f8573-66dd-5f60-884c-16e02f3a5acb
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
+      Host: Appxdn.global.ssl.fastly.net
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 25
   type: trojan
   server: 188.42.145.180
@@ -2329,479 +2145,167 @@ proxies:
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  skip-cert-verify: true
+  client-fingerprint: ios
+- name: 🇫🇷 France, Paris | [BL] 5
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+- name: 🇰🇿 Kazakhstan, Almaty | [BL] 4
+  type: vless
+  server: 206.223.248.70
+  port: 443
+  uuid: 5c8950a3-2142-42c9-b414-fa34526ff25f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ
+    short-id: aba1b7bfa1fdbb10
+  servername: kz-2.movietop24.site
+  client-fingerprint: ios
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 3
+  type: vless
+  server: 172.96.192.167
+  port: 8443
+  uuid: 38a9c88a-14c7-49e4-841d-bdb78fbb9529
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 8-tz1FBA5y6CcLp0NogIY4-x6pxkFBZ_HWSOXEioWho
+    short-id: dc286495
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 14
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 15
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  type: vless
+  server: netherlands02.azotvpn.xyz
+  port: 443
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+    spider-x: /
+  servername: netherlands02.azotvpn.xyz
+  client-fingerprint: qq
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 3
+  type: vless
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
+  client-fingerprint: chrome
+- name: 🇫🇷 France, Paris | [BL] 6
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: edge
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 26
   type: trojan
-  server: 45.131.4.38
+  server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: edge
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  type: vmess
-  server: de-d21e56c13c.shamanapp.online
-  port: 33744
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
-  alterId: 0
-  cipher: auto
-  udp: true
-  servername: de-d21e56c13c.shamanapp.online:33744
-  network: ws
-  ws-opts:
-    path: /ShamanVMESS2026
-    headers:
-      Host: de-d21e56c13c.shamanapp.online:33744
-- name: 🇫🇮 Finland, Helsinki | [BL] 4
-  type: vless
-  server: 263651t.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4
-    short-id: 2892e611785bafd1
-  servername: 263651t.fi3.h1clayd.click
+  sni: www.volumeroot.com
   client-fingerprint: firefox
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 7
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 11
   type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 8
-  type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 12
-  type: vless
-  server: 154.211.8.152
-  port: 2053
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 9
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 10
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 13
-  type: vless
-  server: 27.50.49.154
-  port: 2083
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 14
-  type: vless
-  server: 188.164.248.216
+  server: 199.232.78.160
   port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
+  uuid: XpnTeam-31
   cipher: zero
   udp: true
   tls: true
-  servername: ccc.010304.xyz
+  servername: ssl.fastly.com
   client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 3
-  type: vless
-  server: 194.58.109.206
-  port: 8443
-  uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf3.schzyc.cc.cd
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.CMLiussss.net
-    headers:
-      Host: cf3.schzyc.cc.cd
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  type: vmess
-  server: 168.113.215.6
-  port: 33736
-  uuid: 1281acca-f21d-475c-bf04-eccbee7f8df2
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /vmess-ws
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 7
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇮🇪 🇮🇶 🇳🇱 🇺🇸 | [BL]
-  type: vless
-  server: 195.133.79.154
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
+      Host: Appxdn.global.ssl.fastly.net
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 27
   type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: android
-- name: 🇫🇮 Finland, Helsinki | [BL] 5
-  type: vless
-  server: 263651t.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4
-    short-id: 2892e611785bafd1
-  servername: 263651t.fi3.h1clayd.click
-  client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
   sni: www.volumeroot.com
   client-fingerprint: firefox
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: unsafe
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 11
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 12
   type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  server: 199.232.78.160
+  port: 443
+  uuid: 6a2f8573-66dd-5f60-884c-16e02f3a5acb
   cipher: zero
   udp: true
   tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: safari
+  servername: ssl.fastly.com
+  client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 🇺🇸 | [BL]
-  type: vless
-  server: 83.219.249.189
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 15
-  type: vless
-  server: 167.68.4.131
-  port: 8443
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🇸🇪 Sweden, Stockholm | [BL] 4
-  type: vless
-  server: se1.h1cloud.net
-  port: 26100
-  uuid: 68c3d665-b2b5-4ffb-9f37-9f3d8c47324d
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 1uuvuG2Jl_o6yoVvOYm3hEboArh2Znu7zCy4Tqj36TI
-    short-id: 8045087bda646f1b
-  servername: www.icloud.com
-  client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: qq
-- name: 🇫🇷 France | 🌐 | [BL]
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: ab4f3e97-27ba-496a-8133-9d7ca285fcba
-  cipher: zero
-  udp: true
-  tls: true
-  servername: polshaov.ochmaybrooooo.online
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: polshaov.ochmaybrooooo.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 16
-  type: vless
-  server: 103.116.7.100
-  port: 2087
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: random
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 17
-  type: vless
-  server: 27.50.48.13
-  port: 443
-  uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: vless2-8vx.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 18
-  type: vless
-  server: 188.164.248.151
-  port: 2096
-  uuid: 9f534ac4-3c58-4a16-8b74-13dff09a0cf1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: d39333476.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /item/m
-    headers:
-      Host: d39333476.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 19
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 20
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 21
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇰🇷 | [BL]
-  type: vless
-  server: 47.239.241.168
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /order/members/mall?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: firefox
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 22
-  type: vless
-  server: 188.164.248.96
-  port: 8443
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
-  cipher: zero
-  udp: true
-  tls: true
-  servername: whitecreeper.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.SG.CMLiussss.Net
-    headers:
-      Host: whitecreeper.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 | [BL]
-  type: vless
-  server: 185.92.74.108
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
+      Host: Appxdn.global.ssl.fastly.net
 - name: 🇫🇷 France, Paris | [BL] 7
   type: trojan
   server: 45.80.111.7
@@ -2809,143 +2313,127 @@ proxies:
   password: humanity
   udp: true
   sni: www.calmlunch.com
+  client-fingerprint: safari
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 16
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 28
+  type: trojan
+  server: 185.22.172.249
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
   client-fingerprint: qq
-- name: 🇫🇷 France, Paris | [BL] 8
-  type: trojan
-  server: 45.80.111.7
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 17
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
   port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 23
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
   udp: true
   tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: chrome
   network: ws
   ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 24
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 25
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 26
-  type: vless
-  server: 27.50.49.154
-  port: 2083
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 27
-  type: vless
-  server: 188.164.248.61
-  port: 443
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
-  cipher: zero
-  udp: true
-  tls: true
-  servername: whitecreeper.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.SG.CMLiussss.Net
-    headers:
-      Host: whitecreeper.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 37
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 38
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 39
+    path: /ws-vmess
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 29
   type: trojan
   server: 45.131.4.38
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: unsafe
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL]
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 30
   type: trojan
-  server: 199.181.197.99
+  server: 188.42.145.180
   port: 443
-  password: 70756c73-0000-4000-8000-650000000000
+  password: humanity
   udp: true
-  sni: parsa-panel-u48we.wotic15356.workers.dev
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇩🇪 🇮🇶 🇺🇸 | [BL]
+  sni: www.volumeroot.com
+  client-fingerprint: qq
+- name: 🇺🇸 United States | 🌐 | [BL] 4
   type: vless
-  server: 5.187.7.220
+  server: grimness-backlogs.cdn-content.com
   port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
   cipher: zero
   udp: true
   tls: true
-  servername: cf-1rm.pages.dev
+  servername: grimness-backlogs.cdn-content.com
   client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: grimness-backlogs.cdn-content.com
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 13
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: safari
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: cf-1rm.pages.dev
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 31
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 32
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  skip-cert-verify: true
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 33
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 34
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: edge
+- name: 🇫🇷 France, Paris | [BL] 8
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: firefox
 - name: 🇫🇷 France, Paris | [BL] 9
   type: trojan
   server: 141.193.213.172
@@ -2953,139 +2441,85 @@ proxies:
   password: humanity
   udp: true
   sni: www.calmlunch.com
-  client-fingerprint: edge
-- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇸🇬 | [BL]
+  client-fingerprint: chrome
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 14
   type: vless
-  server: 147.139.189.225
+  server: 199.232.78.160
   port: 443
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
+  uuid: XpnTeam-31
   cipher: zero
   udp: true
   tls: true
-  servername: proxy-1cu.pages.dev
-  client-fingerprint: android
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: proxy-1cu.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 40
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 4
+  type: vless
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
+  client-fingerprint: chrome
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 4
+  type: vless
+  server: 172.96.192.167
+  port: 8443
+  uuid: 38a9c88a-14c7-49e4-841d-bdb78fbb9529
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 8-tz1FBA5y6CcLp0NogIY4-x6pxkFBZ_HWSOXEioWho
+    short-id: dc286495
+  servername: www.cloudflare.com
+  client-fingerprint: safari
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 35
   type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: edge
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 12
-  type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 13
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 8
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 18
   type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
+  server: 8.217.13.103
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 41
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🇫🇮 Finland, Helsinki | [BL] 6
+  tls: true
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 5
   type: vless
-  server: 8fc752g.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18
-    short-id: 09d0a94a1c6fc9d5
-    spider-x: /
-  servername: 8fc752g.fi3.h1clayd.click
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
   client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: f345a414c040
-- name: 🌐 Anycast-IP | 🇦🇷 🇨🇦 🇯🇵 | [BL] 2
-  type: vless
-  server: 47.91.15.80
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /play/avatar?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇪 | [BL] 2
-  type: vless
-  server: 139.64.235.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /Telegram-WangCai2🇨🇳
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 | [BL]
-  type: vless
-  server: 8.210.29.68
-  port: 443
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-  cipher: zero
-  udp: true
-  tls: true
-  servername: vp10.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vp10.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 42
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 36
   type: trojan
   server: 188.42.145.180
   port: 443
@@ -3093,53 +2527,34 @@ proxies:
   udp: true
   sni: wWw.Volumeroot.cOm.
   client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 43
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇸🇬 | [BL]
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
   type: vless
-  server: 43.103.4.68
+  server: 188.164.248.216
   port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  uuid: d342d11e-d224-4463-b982-532309285094
   cipher: zero
   udp: true
   tls: true
-  servername: edg-2oo.pages.dev
+  servername: ccc.010304.xyz
+  client-fingerprint: ios
   network: ws
   ws-opts:
-    path: /city?ed=2560fp=chrome
+    path: /
     headers:
-      Host: edg-2oo.pages.dev
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+      Host: ccc.010304.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 19
   type: vmess
-  server: 168.113.215.6
-  port: 33736
-  uuid: 1281acca-f21d-475c-bf04-eccbee7f8df2
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
-  network: ws
-  ws-opts:
-    path: /vmess-ws
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 28
-  type: vless
-  server: 188.164.248.81
-  port: 2087
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
-  cipher: zero
-  udp: true
   tls: true
-  servername: whitecreeper.pages.dev
-  client-fingerprint: chrome
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
   network: ws
   ws-opts:
-    headers:
-      Host: whitecreeper.pages.dev
+    path: /ws-vmess
 - name: 🇫🇷 France, Paris | [BL] 10
   type: trojan
   server: 141.193.213.172
@@ -3147,148 +2562,27 @@ proxies:
   password: humanity
   udp: true
   sni: www.calmlunch.com
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 29
-  type: vless
-  server: 188.164.248.48
-  port: 2083
-  uuid: a21b9103-1693-49c1-8dc9-e8e8098ee969
-  cipher: zero
-  udp: true
-  tls: true
-  servername: helloapps.cc.cd
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: helloapps.cc.cd
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 14
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
   client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 10
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 4
-  type: vless
-  server: 194.58.109.206
-  port: 8443
-  uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf3.schzyc.cc.cd
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.CMLiussss.netfp=chrome
-    headers:
-      Host: cf3.schzyc.cc.cd
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 15
-  type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL]
-  type: vless
-  server: 47.75.125.163
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /go.php/group?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 30
-  type: vless
-  server: 27.50.49.154
-  port: 2083
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  servername: proxy-34l.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-34l.pages.dev
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+- name: 🇯🇵 Japan, Osaka | [BL]
   type: vmess
-  server: de-d21e56c13c.shamanapp.online
-  port: 33744
-  uuid: b3a11068-1a7e-4643-85de-7c82cce46943
+  server: 206.190.237.167
+  port: 17577
+  uuid: 3ceb8486-fb82-462c-e989-89182fe660a5
   alterId: 0
   cipher: auto
   udp: true
-  servername: de-d21e56c13c.shamanapp.online
   network: ws
   ws-opts:
-    path: /ShamanVMESS2026
-    headers:
-      Host: de-d21e56c13c.shamanapp.online:33744
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 44
+    path: /3ceb8486
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 37
   type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 31
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
+  skip-cert-verify: true
   client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
 - name: 🇫🇷 France, Paris | [BL] 11
   type: trojan
   server: 45.80.111.7
@@ -3296,7 +2590,213 @@ proxies:
   password: humanity
   udp: true
   sni: www.calmlunch.com
+  client-fingerprint: qq
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 20
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 38
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 39
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: android
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 5
+  type: vless
+  server: 172.96.192.167
+  port: 8443
+  uuid: 38a9c88a-14c7-49e4-841d-bdb78fbb9529
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 8-tz1FBA5y6CcLp0NogIY4-x6pxkFBZ_HWSOXEioWho
+    short-id: dc286495
+  servername: www.cloudflare.com
+  client-fingerprint: android
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 40
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: ios
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 6
+  type: vless
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
   client-fingerprint: firefox
+- name: 🇺🇸 United States | 🌐 | [BL] 5
+  type: vless
+  server: grimness-backlogs.cdn-content.com
+  port: 443
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: grimness-backlogs.cdn-content.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: grimness-backlogs.cdn-content.com
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 41
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🇭🇺 Hungary, Szeged | [BL] 5
+  type: vless
+  server: hu3.aiage.work
+  port: 443
+  uuid: d0d08709-093d-45dc-ac6f-fd18890fa2c5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE
+    short-id: a09ef132e6a308ae
+  servername: hu3.aiage.work
+  client-fingerprint: edge
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 42
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 21
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 43
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: chrome
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL]
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | [BL] 12
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 44
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  type: vless
+  server: netherlands02.azotvpn.xyz
+  port: 443
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+    spider-x: /
+  servername: netherlands02.azotvpn.xyz
+  client-fingerprint: chrome
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 45
   type: trojan
   server: 8.47.69.0
@@ -3304,14 +2804,7 @@ proxies:
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-- name: 🇫🇷 France, Paris | [BL] 12
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: qq
+  client-fingerprint: chrome
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 46
   type: trojan
   server: 188.42.145.180
@@ -3319,65 +2812,7 @@ proxies:
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: safari
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 16
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 11
-  type: vless
-  server: 27.50.48.8
-  port: 443
-  uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
-  cipher: zero
-  udp: true
-  tls: true
-  servername: vless2-8vx.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vless2-8vx.pages.dev
-- name: 🌐 Anycast-IP | 🇦🇷 🇬🇧 🇵🇱 | [BL]
-  type: vless
-  server: 95.130.84.36
-  port: 8443
-  uuid: 8d42d29a-ed53-4684-a9ff-6b33826149de
-  cipher: zero
-  udp: true
-  tls: true
-  servername: aio.eth0.dpdns.org
-  network: ws
-  ws-opts:
-    path: /aioproxybot/94.23.144.99-2053
-    headers:
-      Host: aio.eth0.dpdns.org
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 12
-  type: vless
-  server: 141.193.213.10
-  port: 443
-  uuid: 977b814d-d9e0-4889-bb71-98d6bfb8f462
-  cipher: zero
-  udp: true
-  tls: true
-  servername: partner.catchplay.com.r3xxe.eu.cc
-  network: ws
-  ws-opts:
-    path: /sg-amz
-    headers:
-      Host: partner.catchplay.com.r3xxe.eu.cc
+  skip-cert-verify: true
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 47
   type: trojan
   server: 188.42.145.180
@@ -3385,288 +2820,16 @@ proxies:
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: android
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 17
-  type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 32
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇶 | [BL]
-  type: vless
-  server: 8.209.111.225
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /zh-cn/go.php/courses?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 2
-  type: vless
-  server: 47.251.95.178
-  port: 443
-  uuid: 70756c73-0000-4000-8000-650000000000
-  cipher: zero
-  udp: true
-  tls: true
-  servername: parsa-panel-u48we.wotic15356.workers.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /pulse
-    headers:
-      Host: parsa-panel-u48we.wotic15356.workers.dev
+  client-fingerprint: firefox
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 48
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: qq
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 9
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-  servername: v2raynplus--v2raynplus--v2raynplus
-- name: 🌐 Anycast-IP | 🇨🇦 🇰🇷 🇺🇸 | [BL] 3
-  type: vless
-  server: 47.88.23.100
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /blogs?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 13
-  type: vless
-  server: 188.164.248.72
-  port: 443
-  uuid: 9f534ac4-3c58-4a16-8b74-13dff09a0cf1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: d39333476.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /code/cp/classify
-    headers:
-      Host: d39333476.pages.dev
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
-  type: vless
-  server: 89.116.46.50
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    headers:
-      Host: vms.lifetime07.workers.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 49
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 50
   type: trojan
   server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇨🇦 🇨🇭 🇨🇾 🇬🇧 🇷🇺 | [BL]
-  type: vless
-  server: 139.64.235.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
   client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /Telegram-WangCai2
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 33
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 5
-  type: vless
-  server: 139.64.235.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /Telegram-WangCai2≡ƒç¿≡ƒç│
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🌐 Anycast-IP | 🇦🇷 🇮🇪 🇮🇶 🇳🇱 | [BL]
-  type: vless
-  server: 45.158.81.143
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 51
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 34
-  type: vless
-  server: 154.211.8.227
-  port: 2087
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  servername: proxy-34l.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇩🇪 🇮🇪 🇮🇶 | [BL]
-  type: vless
-  server: 47.245.135.191
-  port: 443
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  cipher: zero
-  udp: true
-  tls: true
-  servername: edg-2oo.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /discount/wiki?ed=2560
-    headers:
-      Host: edg-2oo.pages.dev
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 14
-  type: vless
-  server: 188.164.248.48
-  port: 2083
-  uuid: a21b9103-1693-49c1-8dc9-e8e8098ee969
-  cipher: zero
-  udp: true
-  tls: true
-  servername: helloapps.cc.cd
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: helloapps.cc.cd
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 15
-  type: vless
-  server: 141.193.213.30
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime23.workers.dev
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 10
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 16
-  type: vless
-  server: 188.164.248.81
-  port: 2087
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
-  cipher: zero
-  udp: true
-  tls: true
-  servername: whitecreeper.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.SG.CMLiussss.Net
-    headers:
-      Host: whitecreeper.pages.dev
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 7
   type: vmess
   server: 168.113.215.6
   port: 33736
@@ -3680,58 +2843,27 @@ proxies:
     path: /vmess-ws
     headers:
       Host: nl-2a972c8052.shamanapp.online
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 52
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: wWw.Volumeroot.cOm.
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 11
-  type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 35
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | [BL] 6
   type: vless
-  server: 188.164.248.96
+  server: 172.96.192.167
   port: 8443
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
+  uuid: 38a9c88a-14c7-49e4-841d-bdb78fbb9529
   cipher: zero
   udp: true
   tls: true
-  servername: whitecreeper.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: whitecreeper.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  reality-opts:
+    public-key: 8-tz1FBA5y6CcLp0NogIY4-x6pxkFBZ_HWSOXEioWho
+    short-id: dc286495
+  servername: www.cloudflare.com
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 49
   type: trojan
-  server: 45.131.4.38
+  server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] 6
-  type: vless
-  server: 194.58.109.206
-  port: 8443
-  uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf3.schzyc.cc.cd
   client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /proxyip=ProxyIP.CMLiussss.netfp=chrome
-    headers:
-      Host: cf3.schzyc.cc.cd
 - name: 🇫🇷 France, Paris | [BL] 13
   type: trojan
   server: 141.193.213.172
@@ -3740,193 +2872,60 @@ proxies:
   udp: true
   sni: www.calmlunch.com
   client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 36
-  type: vless
-  server: 141.193.213.30
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
-  servername: 141.193.213.30
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime23.workers.dev
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 18
-  type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: u.srilankangrill.online
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 37
-  type: vless
-  server: 103.116.7.100
-  port: 2087
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  servername: proxy-1cu.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇮🇪 🇳🇱 🇺🇸 | [BL]
-  type: vless
-  server: 103.249.132.107
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🇸🇪 Sweden, Stockholm | [BL] 5
-  type: vless
-  server: se1.h1cloud.net
-  port: 26100
-  uuid: 68c3d665-b2b5-4ffb-9f37-9f3d8c47324d
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 1uuvuG2Jl_o6yoVvOYm3hEboArh2Znu7zCy4Tqj36TI
-    short-id: 8045087bda646f1b
-    spider-x: /
-  servername: www.icloud.com
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 38
-  type: vless
-  server: 27.50.49.154
-  port: 2083
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  servername: proxy-34l.pages.dev
-  network: ws
-  ws-opts:
-    path: /?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512
-    headers:
-      Host: proxy-34l.pages.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 54
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 55
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇨🇭 🇬🇧 🇷🇺 | [BL]
-  type: vless
-  server: 89.116.46.50
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  cipher: zero
-  udp: true
-  network: ws
-  ws-opts:
-    path: /?ed
-    headers:
-      Host: vms.lifetime07.workers.dev
-- name: 🇫🇮 Finland, Helsinki | [BL] 7
-  type: vless
-  server: 263651t.fi3.h1clayd.click
-  port: 443
-  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4
-    short-id: 2892e611785bafd1
-  servername: 263651t.fi3.h1clayd.click
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇺🇸 | [BL] 3
-  type: vless
-  server: 128.203.252.97
-  port: 443
-  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
-  cipher: zero
-  udp: true
-  tls: true
-  servername: cf-1rm.pages.dev
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-1rm.pages.dev
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 17
-  type: vless
-  server: 185.193.29.123
-  port: 443
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  cipher: zero
-  udp: true
-  tls: true
-  servername: notls.lukongtou.eu.org
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /Telegram-WangCai2≡ƒç¿≡ƒç│
-    headers:
-      Host: notls.lukongtou.eu.org
-- name: 🇫🇷 France, Paris | [BL] 14
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 56
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 50
   type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 39
+  client-fingerprint: android
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 22
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qTKDR8jXE3wEFxJM.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 51
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
   type: vless
-  server: 167.68.4.131
-  port: 8443
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-32
   cipher: zero
   udp: true
   tls: true
-  client-fingerprint: safari
+  servername: ssl.fastly.com
+  client-fingerprint: edge
   network: ws
   ws-opts:
+    path: /
     headers:
-      Host: proxy-34l.pages.dev
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 40
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 52
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: edge
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
   type: vless
   server: 188.164.248.216
   port: 443
@@ -3935,13 +2934,94 @@ proxies:
   udp: true
   tls: true
   servername: ccc.010304.xyz
-  client-fingerprint: edge
+  client-fingerprint: firefox
   network: ws
   ws-opts:
-    path: /fp=chrome
+    path: /
     headers:
       Host: ccc.010304.xyz
-- name: 🇫🇷 France, Paris | [BL] 15
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 53
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: chrome
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 23
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 54
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: edge
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 15
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 6a2f8573-66dd-5f60-884c-16e02f3a5acb
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 24
+  type: vmess
+  server: 8.217.13.103
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qtkdr8jxe3wefxjm.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 55
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 2
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL] 14
   type: trojan
   server: 45.80.111.7
   port: 443
@@ -3949,7 +3029,29 @@ proxies:
   udp: true
   sni: www.calmlunch.com
   client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 57
+- name: 🇫🇷 France, Paris | [BL] 15
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 16
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 56
   type: trojan
   server: 8.47.69.0
   port: 443
@@ -3957,76 +3059,87 @@ proxies:
   udp: true
   sni: www.pleadcourt.org
   client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 58
-  type: trojan
-  server: 188.42.145.180
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.volumeroot.com
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 18
+- name: 🇺🇸 United States | 🌐 | [BL] 6
   type: vless
-  server: 89.116.46.50
-  port: 8880
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  server: grimness-backlogs.cdn-content.com
+  port: 443
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
   cipher: zero
   udp: true
-  servername: 89.116.46.50
+  tls: true
+  servername: grimness-backlogs.cdn-content.com
+  client-fingerprint: ios
   network: ws
   ws-opts:
-    path: /?ed
+    path: /ws
     headers:
-      Host: vms.lifetime07.workers.dev
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 59
+      Host: grimness-backlogs.cdn-content.com
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 57
   type: trojan
   server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 41
+  client-fingerprint: ios
+- name: 🇮🇳 India, Thane | [BL] 4
   type: vless
-  server: 27.50.48.13
+  server: 165.99.222.161
   port: 443
-  uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
+  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
-  servername: vless2-8vx.pages.dev
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vless2-8vx.pages.dev
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 19
-  type: vless
-  server: 199.181.197.99
-  port: 443
-  uuid: 70756c73-0000-4000-8000-650000000000
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    headers:
-      Host: parsa-panel-u48we.wotic15356.workers.dev
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 19
-  type: vless
-  server: 141.193.213.21
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
-  cipher: zero
-  udp: true
-  tls: true
-  servername: u.srilankangrill.online
+  reality-opts:
+    public-key: SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4
+  servername: in1.vkusnews.com
   client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 6a2f8573-66dd-5f60-884c-16e02f3a5acb
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: edge
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 58
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇰🇿 Kazakhstan, Almaty | [BL] 5
+  type: vless
+  server: 206.223.248.70
+  port: 443
+  uuid: 5c8950a3-2142-42c9-b414-fa34526ff25f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ
+    short-id: aba1b7bfa1fdbb10
+  servername: kz-2.movietop24.site
+  client-fingerprint: safari
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 59
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: ios
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 60
   type: trojan
   server: 45.131.4.38
@@ -4034,7 +3147,71 @@ proxies:
   password: humanity
   udp: true
   sni: www.pleadcourt.org
+  client-fingerprint: ios
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 7
+  type: vless
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
+  client-fingerprint: safari
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 61
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
   client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 62
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 25
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 63
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 26
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
 - name: 🇫🇷 France, Paris | [BL] 16
   type: trojan
   server: 45.80.111.7
@@ -4043,101 +3220,496 @@ proxies:
   udp: true
   sni: www.calmlunch.com
   client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 20
-  type: vless
-  server: 103.116.7.100
-  port: 2087
-  uuid: 40af9131-d540-448a-bc56-5bba147a1dc3
-  cipher: zero
-  udp: true
-  tls: true
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    headers:
-      Host: proxy-1cu.pages.dev
-- name: 🇹🇼 Taiwan, Taoyuan | [BL] 12
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 27
   type: vmess
-  server: 165.154.195.38
-  port: 35034
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
   alterId: 0
   cipher: auto
   udp: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 61
+  tls: true
+  servername: lcv8v9l7OyamxxfZ.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 64
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 65
+  type: trojan
+  server: 185.22.172.249
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: unsafe
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 17
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 28
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 29
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 30
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7OyamxxfZ.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 66
   type: trojan
   server: 188.42.145.180
   port: 443
   password: humanity
   udp: true
   sni: www.volumeroot.com
-  client-fingerprint: safari
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 20
+  client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
   type: vless
-  server: news.zoom.us
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
   cipher: zero
   udp: true
   tls: true
-  servername: u.srilankangrill.online
-  client-fingerprint: ios
+  servername: ccc.010304.xyz
+  client-fingerprint: android
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
-- name: 🇸🇬 Singapore, Singapore (Somapah) | 🌐 | [BL] 21
+      Host: ccc.010304.xyz
+- name: 🇮🇳 India, Thane | [BL] 5
   type: vless
-  server: 141.193.213.20
-  port: 8443
-  uuid: 29c3dd6b-b164-40ca-a0d5-f06aca52a8b2
+  server: 165.99.222.161
+  port: 443
+  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4
+  servername: in1.vkusnews.com
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 31
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇺🇸 United States, Los Angeles (Central-Alameda) | 🌐 | [BL] 8
+  type: vless
+  server: 174.136.204.23
+  port: 34539
+  uuid: 6877f68f-2443-445d-8c11-16c77a2699a5
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E
+    short-id: ab400d5a
+  servername: apple.com
+  client-fingerprint: android
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
   cipher: zero
   udp: true
   tls: true
-  servername: u.srilankangrill.online
+  servername: ccc.010304.xyz
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 18
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL] 17
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: edge
+- name: 🇺🇸 United States | 🌐 | [BL] 7
+  type: vless
+  server: grimness-backlogs.cdn-content.com
+  port: 443
+  uuid: 1263d819-9089-4b14-ab52-09a747817ebc
+  cipher: zero
+  udp: true
+  tls: true
+  servername: grimness-backlogs.cdn-content.com
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /ws
+    headers:
+      Host: grimness-backlogs.cdn-content.com
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 32
+  type: vmess
+  server: qtkdr8jxe3wefxjm.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qTKDR8jXE3wEFxJM.v.3dns.vip
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 19
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 33
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 34
+  type: vmess
+  server: lcv8v9l7oyamxxfz.v.3dns.vip
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 20
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-32
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 67
+  type: trojan
+  server: 185.22.172.249
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: edge
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 35
+  type: vmess
+  server: 8.217.13.103
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: qtkdr8jxe3wefxjm.v.3dns.vip
+- name: 🇮🇳 India, Thane | [BL] 6
+  type: vless
+  server: 165.99.222.161
+  port: 443
+  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4
+  servername: in1.vkusnews.com
+  client-fingerprint: android
+- name: 🇰🇿 Kazakhstan, Almaty | [BL] 6
+  type: vless
+  server: 206.223.248.70
+  port: 443
+  uuid: 5c8950a3-2142-42c9-b414-fa34526ff25f
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ
+    short-id: aba1b7bfa1fdbb10
+  servername: kz-2.movietop24.site
+  client-fingerprint: qq
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 21
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
   client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: u.srilankangrill.online
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇭🇺 Hungary, Szeged | [BL] 6
   type: vless
-  server: 194.58.109.206
-  port: 8443
-  uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b
+  server: hu3.aiage.work
+  port: 443
+  uuid: d0d08709-093d-45dc-ac6f-fd18890fa2c5
   cipher: zero
   udp: true
+  flow: xtls-rprx-vision
   tls: true
-  servername: cf3.schzyc.cc.cd
-  client-fingerprint: firefox
+  reality-opts:
+    public-key: M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE
+    short-id: a09ef132e6a308ae
+  servername: hu3.aiage.work
+  client-fingerprint: qq
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 36
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: lcv8v9l7oyamxxfz.v.3dns.vip
   network: ws
   ws-opts:
-    path: /proxyip=ProxyIP.CMLiussss.net
+    path: /ws-vmess
     headers:
-      Host: cf3.schzyc.cc.cd
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 62
+      Host: lcv8v9l7oyamxxfz.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 68
   type: trojan
-  server: 45.131.4.38
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  client-fingerprint: edge
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  type: vmess
+  server: 168.113.215.6
+  port: 33736
+  uuid: 1281acca-f21d-475c-bf04-eccbee7f8df2
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /vmess-ws
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 69
+  type: trojan
+  server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  skip-cert-verify: true
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇨🇦 🇭🇰 🇮🇪 🇰🇷 🇸🇬 | [BL]
-  type: vless
-  server: 2.56.91.45
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 70
+  type: trojan
+  server: 188.42.145.180
   port: 443
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
+  password: humanity
+  udp: true
+  sni: www.volumeroot.com
+  skip-cert-verify: true
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 22
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-31
   cipher: zero
   udp: true
   tls: true
-  servername: vp10.pages.dev
-  client-fingerprint: firefox
+  servername: ssl.fastly.com
+  client-fingerprint: android
   network: ws
   ws-opts:
-    path: /fp=chrome
+    path: /
     headers:
-      Host: vp10.pages.dev
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 37
+  type: vmess
+  server: 47.243.65.243
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: lcv8v9l7OyamxxfZ.v.3dns.vip
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 71
+  type: trojan
+  server: 188.42.145.180
+  port: 443
+  password: humanity
+  udp: true
+  sni: wWw.Volumeroot.cOm.
+  client-fingerprint: android
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 72
+  type: trojan
+  server: 185.22.172.249
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: safari
