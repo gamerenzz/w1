@@ -27,152 +27,171 @@ proxy-groups:
   - ♻️ 自动选择
   - 🎯 全球直连
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]
   - 🇫🇷 France, Paris | 🌐 | [BL]
   - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇷 France, Paris | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 3
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇹🇷 Turkey | 🌐 | [BL]
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🇷🇺 Russia, Moscow | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇫🇷 France, Paris | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇩🇪 Germany, Nuremberg | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
   - 🇫🇷 France, Paris | 🌐 | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 5
   - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
   - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 4
   - 🇫🇷 France, Paris | 🌐 | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 8
-  - 🇸🇬 Singapore | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
   - 🇫🇷 France, Paris | 🌐 | [BL] 9
-  - 🇹🇼 Taiwan, Taipei | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🇫🇷 France, Paris | [BL] 8
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 9
-  - 🇫🇷 France, Paris | 🌐 | [BL] 11
-  - 🇷🇺 Russia, Moscow | [BL] 4
-  - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇫🇷 France, Paris | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇫🇷 France, Paris | 🌐 | [BL] 12
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
-  - 🌐 Anycast-IP | 🇫🇮 | [BL]
-  - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🇫🇷 France, Paris | 🌐 | [BL] 13
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL] 2
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 12
-  - 🇫🇷 France, Paris | 🌐 | [BL] 14
-  - 🇫🇷 France, Paris | [BL] 13
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🇷🇺 Russia, Moscow | [BL] 5
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇺🇸 United States, Los Angeles | [BL] 5
+  - 🇩🇪 Germany, Nuremberg | [BL] 3
   - 🇫🇮 Finland, Helsinki | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 22
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇫🇷 France, Paris | 🌐 | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 4
   - 🇫🇮 Finland, Helsinki | [BL] 9
-  - 🇸🇬 Singapore | 🌐 | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 14
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 25
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 15
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - 🇫🇮 Finland, Helsinki | [BL] 10
-  - 🇫🇷 France, Paris | 🌐 | [BL] 16
-  - 🇫🇷 France, Paris | 🌐 | [BL] 17
-  - 🇫🇷 France, Paris | 🌐 | [BL] 18
-  - 🇸🇬 Singapore | 🌐 | [BL] 4
-  - 🇫🇷 France, Paris | 🌐 | [BL] 19
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
+  - 🇺🇸 United States, Los Angeles | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇷 France, Paris | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  - 🇸🇬 Singapore | 🌐 | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
   - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  - 🇸🇬 Singapore | 🌐 | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 18
-  - 🇸🇪 Sweden, Stockholm | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇭🇰 Hong Kong, Central | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 21
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🇩🇪 Germany, Nuremberg | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 10
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇹🇷 Turkey | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇫🇷 France, Paris | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇫🇷 France, Paris | [BL] 9
+  - 🇹🇷 Turkey | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles | [BL] 7
   - 🇫🇮 Finland, Helsinki | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 11
+  - 🇹🇷 Turkey | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇮 Finland, Helsinki | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 13
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 12
+  - 🇺🇸 United States, Los Angeles | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL] 9
   - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇫🇷 France, Paris | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 14
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇺🇸 United States, Los Angeles | [BL] 10
+  - 🇫🇷 France, Paris | [BL] 11
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 23
+  - 🇹🇷 Turkey | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 6
+  - 🇺🇸 United States, Los Angeles | [BL] 11
+  - 🇺🇸 United States, Los Angeles | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🇫🇷 France, Paris | 🌐 | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 25
+  - 🇩🇪 Germany, Nuremberg | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
+  - 🇫🇷 France, Paris | 🌐 | [BL] 26
+  - 🇫🇷 France, Paris | 🌐 | [BL] 27
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
 - name: 🤖 人工智能
   type: select
   proxies:
@@ -180,456 +199,513 @@ proxy-groups:
   - ♻️ 自动选择
   - 🎯 全球直连
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]
   - 🇫🇷 France, Paris | 🌐 | [BL]
   - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇷 France, Paris | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 3
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇹🇷 Turkey | 🌐 | [BL]
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🇷🇺 Russia, Moscow | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇫🇷 France, Paris | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇩🇪 Germany, Nuremberg | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
   - 🇫🇷 France, Paris | 🌐 | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 5
   - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
   - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 4
   - 🇫🇷 France, Paris | 🌐 | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 8
-  - 🇸🇬 Singapore | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
   - 🇫🇷 France, Paris | 🌐 | [BL] 9
-  - 🇹🇼 Taiwan, Taipei | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🇫🇷 France, Paris | [BL] 8
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 9
-  - 🇫🇷 France, Paris | 🌐 | [BL] 11
-  - 🇷🇺 Russia, Moscow | [BL] 4
-  - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇫🇷 France, Paris | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇫🇷 France, Paris | 🌐 | [BL] 12
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
-  - 🌐 Anycast-IP | 🇫🇮 | [BL]
-  - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🇫🇷 France, Paris | 🌐 | [BL] 13
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL] 2
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 12
-  - 🇫🇷 France, Paris | 🌐 | [BL] 14
-  - 🇫🇷 France, Paris | [BL] 13
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🇷🇺 Russia, Moscow | [BL] 5
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇺🇸 United States, Los Angeles | [BL] 5
+  - 🇩🇪 Germany, Nuremberg | [BL] 3
   - 🇫🇮 Finland, Helsinki | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 22
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇫🇷 France, Paris | 🌐 | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 4
   - 🇫🇮 Finland, Helsinki | [BL] 9
-  - 🇸🇬 Singapore | 🌐 | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 14
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 25
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 15
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - 🇫🇮 Finland, Helsinki | [BL] 10
-  - 🇫🇷 France, Paris | 🌐 | [BL] 16
-  - 🇫🇷 France, Paris | 🌐 | [BL] 17
-  - 🇫🇷 France, Paris | 🌐 | [BL] 18
-  - 🇸🇬 Singapore | 🌐 | [BL] 4
-  - 🇫🇷 France, Paris | 🌐 | [BL] 19
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
+  - 🇺🇸 United States, Los Angeles | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇷 France, Paris | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  - 🇸🇬 Singapore | 🌐 | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
   - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  - 🇸🇬 Singapore | 🌐 | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 18
-  - 🇸🇪 Sweden, Stockholm | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇭🇰 Hong Kong, Central | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 21
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🇩🇪 Germany, Nuremberg | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 10
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇹🇷 Turkey | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇫🇷 France, Paris | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇫🇷 France, Paris | [BL] 9
+  - 🇹🇷 Turkey | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles | [BL] 7
   - 🇫🇮 Finland, Helsinki | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 11
+  - 🇹🇷 Turkey | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇮 Finland, Helsinki | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 13
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 12
+  - 🇺🇸 United States, Los Angeles | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL] 9
   - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇫🇷 France, Paris | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 14
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇺🇸 United States, Los Angeles | [BL] 10
+  - 🇫🇷 France, Paris | [BL] 11
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 23
+  - 🇹🇷 Turkey | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 6
+  - 🇺🇸 United States, Los Angeles | [BL] 11
+  - 🇺🇸 United States, Los Angeles | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🇫🇷 France, Paris | 🌐 | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 25
+  - 🇩🇪 Germany, Nuremberg | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
+  - 🇫🇷 France, Paris | 🌐 | [BL] 26
+  - 🇫🇷 France, Paris | 🌐 | [BL] 27
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
 - name: 🍎 苹果服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]
   - 🇫🇷 France, Paris | 🌐 | [BL]
   - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇷 France, Paris | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 3
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇹🇷 Turkey | 🌐 | [BL]
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🇷🇺 Russia, Moscow | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇫🇷 France, Paris | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇩🇪 Germany, Nuremberg | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
   - 🇫🇷 France, Paris | 🌐 | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 5
   - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
   - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 4
   - 🇫🇷 France, Paris | 🌐 | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 8
-  - 🇸🇬 Singapore | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
   - 🇫🇷 France, Paris | 🌐 | [BL] 9
-  - 🇹🇼 Taiwan, Taipei | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🇫🇷 France, Paris | [BL] 8
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 9
-  - 🇫🇷 France, Paris | 🌐 | [BL] 11
-  - 🇷🇺 Russia, Moscow | [BL] 4
-  - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇫🇷 France, Paris | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇫🇷 France, Paris | 🌐 | [BL] 12
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
-  - 🌐 Anycast-IP | 🇫🇮 | [BL]
-  - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🇫🇷 France, Paris | 🌐 | [BL] 13
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL] 2
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 12
-  - 🇫🇷 France, Paris | 🌐 | [BL] 14
-  - 🇫🇷 France, Paris | [BL] 13
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🇷🇺 Russia, Moscow | [BL] 5
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇺🇸 United States, Los Angeles | [BL] 5
+  - 🇩🇪 Germany, Nuremberg | [BL] 3
   - 🇫🇮 Finland, Helsinki | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 22
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇫🇷 France, Paris | 🌐 | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 4
   - 🇫🇮 Finland, Helsinki | [BL] 9
-  - 🇸🇬 Singapore | 🌐 | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 14
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 25
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 15
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - 🇫🇮 Finland, Helsinki | [BL] 10
-  - 🇫🇷 France, Paris | 🌐 | [BL] 16
-  - 🇫🇷 France, Paris | 🌐 | [BL] 17
-  - 🇫🇷 France, Paris | 🌐 | [BL] 18
-  - 🇸🇬 Singapore | 🌐 | [BL] 4
-  - 🇫🇷 France, Paris | 🌐 | [BL] 19
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
+  - 🇺🇸 United States, Los Angeles | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇷 France, Paris | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  - 🇸🇬 Singapore | 🌐 | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
   - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  - 🇸🇬 Singapore | 🌐 | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 18
-  - 🇸🇪 Sweden, Stockholm | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇭🇰 Hong Kong, Central | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 21
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🇩🇪 Germany, Nuremberg | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 10
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇹🇷 Turkey | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇫🇷 France, Paris | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇫🇷 France, Paris | [BL] 9
+  - 🇹🇷 Turkey | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles | [BL] 7
   - 🇫🇮 Finland, Helsinki | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 11
+  - 🇹🇷 Turkey | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇮 Finland, Helsinki | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 13
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 12
+  - 🇺🇸 United States, Los Angeles | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL] 9
   - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇫🇷 France, Paris | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 14
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇺🇸 United States, Los Angeles | [BL] 10
+  - 🇫🇷 France, Paris | [BL] 11
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 23
+  - 🇹🇷 Turkey | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 6
+  - 🇺🇸 United States, Los Angeles | [BL] 11
+  - 🇺🇸 United States, Los Angeles | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🇫🇷 France, Paris | 🌐 | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 25
+  - 🇩🇪 Germany, Nuremberg | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
+  - 🇫🇷 France, Paris | 🌐 | [BL] 26
+  - 🇫🇷 France, Paris | 🌐 | [BL] 27
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
 - name: 🪟 微软服务
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]
   - 🇫🇷 France, Paris | 🌐 | [BL]
   - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇷 France, Paris | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 3
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇹🇷 Turkey | 🌐 | [BL]
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🇷🇺 Russia, Moscow | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇫🇷 France, Paris | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇩🇪 Germany, Nuremberg | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
   - 🇫🇷 France, Paris | 🌐 | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 5
   - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
   - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 4
   - 🇫🇷 France, Paris | 🌐 | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 8
-  - 🇸🇬 Singapore | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
   - 🇫🇷 France, Paris | 🌐 | [BL] 9
-  - 🇹🇼 Taiwan, Taipei | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🇫🇷 France, Paris | [BL] 8
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 9
-  - 🇫🇷 France, Paris | 🌐 | [BL] 11
-  - 🇷🇺 Russia, Moscow | [BL] 4
-  - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇫🇷 France, Paris | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇫🇷 France, Paris | 🌐 | [BL] 12
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
-  - 🌐 Anycast-IP | 🇫🇮 | [BL]
-  - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🇫🇷 France, Paris | 🌐 | [BL] 13
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL] 2
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 12
-  - 🇫🇷 France, Paris | 🌐 | [BL] 14
-  - 🇫🇷 France, Paris | [BL] 13
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🇷🇺 Russia, Moscow | [BL] 5
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇺🇸 United States, Los Angeles | [BL] 5
+  - 🇩🇪 Germany, Nuremberg | [BL] 3
   - 🇫🇮 Finland, Helsinki | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 22
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇫🇷 France, Paris | 🌐 | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 4
   - 🇫🇮 Finland, Helsinki | [BL] 9
-  - 🇸🇬 Singapore | 🌐 | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 14
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 25
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 15
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - 🇫🇮 Finland, Helsinki | [BL] 10
-  - 🇫🇷 France, Paris | 🌐 | [BL] 16
-  - 🇫🇷 France, Paris | 🌐 | [BL] 17
-  - 🇫🇷 France, Paris | 🌐 | [BL] 18
-  - 🇸🇬 Singapore | 🌐 | [BL] 4
-  - 🇫🇷 France, Paris | 🌐 | [BL] 19
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
+  - 🇺🇸 United States, Los Angeles | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇷 France, Paris | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  - 🇸🇬 Singapore | 🌐 | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
   - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  - 🇸🇬 Singapore | 🌐 | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 18
-  - 🇸🇪 Sweden, Stockholm | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇭🇰 Hong Kong, Central | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 21
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🇩🇪 Germany, Nuremberg | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 10
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇹🇷 Turkey | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇫🇷 France, Paris | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇫🇷 France, Paris | [BL] 9
+  - 🇹🇷 Turkey | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles | [BL] 7
   - 🇫🇮 Finland, Helsinki | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 11
+  - 🇹🇷 Turkey | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇮 Finland, Helsinki | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 13
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 12
+  - 🇺🇸 United States, Los Angeles | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL] 9
   - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇫🇷 France, Paris | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 14
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇺🇸 United States, Los Angeles | [BL] 10
+  - 🇫🇷 France, Paris | [BL] 11
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 23
+  - 🇹🇷 Turkey | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 6
+  - 🇺🇸 United States, Los Angeles | [BL] 11
+  - 🇺🇸 United States, Los Angeles | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🇫🇷 France, Paris | 🌐 | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 25
+  - 🇩🇪 Germany, Nuremberg | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
+  - 🇫🇷 France, Paris | 🌐 | [BL] 26
+  - 🇫🇷 France, Paris | 🌐 | [BL] 27
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -637,152 +713,171 @@ proxy-groups:
   tolerance: 50
   proxies:
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]
   - 🇫🇷 France, Paris | 🌐 | [BL]
   - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL]
-  - 🇫🇷 France, Paris | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL]
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
-  - 🇳🇱 The Netherlands, Amsterdam | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 3
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 3
-  - 🇫🇮 Finland, Helsinki | [BL] 3
-  - 🇫🇷 France, Paris | [BL]
-  - 🇸🇪 Sweden, Stockholm | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  - 🇷🇺 Russia, Moscow | [BL]
-  - 🇫🇮 Finland, Helsinki | [BL] 4
-  - 🇫🇮 Finland, Helsinki | [BL] 5
-  - 🇷🇺 Russia, Moscow | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  - 🇹🇷 Turkey | 🌐 | [BL]
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
-  - 🇷🇺 Russia, Moscow | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL]
+  - 🇭🇰 Hong Kong, Hong Kong | [BL]
+  - 🇺🇸 United States, Los Angeles | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL]
+  - 🇰🇷 South Korea, Yongsan-dong | [BL]
+  - 🇫🇷 France, Paris | 🌐 | [BL] 2
+  - 🇳🇱 The Netherlands, Amsterdam | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL]
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 2
+  - 🇫🇷 France, Paris | [BL]
+  - 🇫🇷 France, Paris | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 3
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   - 🇫🇷 France, Paris | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  - 🇩🇪 Germany, Nuremberg | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  - 🌐 Anycast-IP | 🇫🇷 | [BL]
+  - 🇫🇮 Finland, Helsinki | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 4
+  - 🇩🇪 Germany, Nuremberg | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 3
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 2
   - 🇫🇷 France, Paris | 🌐 | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 6
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 5
   - 🇫🇷 France, Paris | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 2
+  - 🇫🇷 France, Paris | [BL] 4
+  - 🇫🇷 France, Paris | [BL] 5
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 3
   - 🇫🇷 France, Paris | 🌐 | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 2
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  - 🇫🇷 France, Paris | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
+  - 🇫🇮 Finland, Helsinki | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 7
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇺🇸 United States, Los Angeles | [BL] 4
   - 🇫🇷 France, Paris | 🌐 | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 8
-  - 🇸🇬 Singapore | 🌐 | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  - 🇫🇷 France, Paris | [BL] 7
-  - 🇸🇪 Sweden, Stockholm | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
   - 🇫🇷 France, Paris | 🌐 | [BL] 9
-  - 🇹🇼 Taiwan, Taipei | [BL]
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  - 🇫🇷 France, Paris | [BL] 8
-  - 🇸🇪 Sweden, Stockholm | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 10
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  - 🇫🇷 France, Paris | [BL] 9
-  - 🇫🇷 France, Paris | 🌐 | [BL] 11
-  - 🇷🇺 Russia, Moscow | [BL] 4
-  - 🇭🇰 Hong Kong, Central | [BL]
-  - 🇫🇷 France, Paris | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  - 🇫🇮 Finland, Helsinki | [BL] 6
-  - 🇫🇷 France, Paris | 🌐 | [BL] 12
-  - 🇸🇪 Sweden, Stockholm | [BL] 4
-  - 🌐 Anycast-IP | 🇫🇮 | [BL]
-  - 🇫🇷 France, Paris | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  - 🇫🇷 France, Paris | 🌐 | [BL] 13
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
-  - 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL] 2
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
-  - 🇫🇷 France, Paris | [BL] 12
-  - 🇫🇷 France, Paris | 🌐 | [BL] 14
-  - 🇫🇷 France, Paris | [BL] 13
-  - 🇸🇪 Sweden, Stockholm | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
-  - 🇫🇮 Finland, Helsinki | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  - 🇯🇵 Japan, Shibuya City | [BL]
-  - 🇷🇺 Russia, Moscow | [BL] 5
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  - 🇺🇸 United States, Los Angeles | [BL] 5
+  - 🇩🇪 Germany, Nuremberg | [BL] 3
   - 🇫🇮 Finland, Helsinki | [BL] 8
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 22
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  - 🇫🇷 France, Paris | 🌐 | [BL] 15
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 4
   - 🇫🇮 Finland, Helsinki | [BL] 9
-  - 🇸🇬 Singapore | 🌐 | [BL] 3
-  - 🇫🇷 France, Paris | [BL] 14
-  - 🇯🇵 Japan, Shibuya City | [BL] 2
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 25
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 5
-  - 🇫🇷 France, Paris | [BL] 15
-  - 🇫🇷 France, Paris | [BL] 16
-  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 6
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 26
-  - 🇫🇮 Finland, Helsinki | [BL] 10
-  - 🇫🇷 France, Paris | 🌐 | [BL] 16
-  - 🇫🇷 France, Paris | 🌐 | [BL] 17
-  - 🇫🇷 France, Paris | 🌐 | [BL] 18
-  - 🇸🇬 Singapore | 🌐 | [BL] 4
-  - 🇫🇷 France, Paris | 🌐 | [BL] 19
-  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇫🇷 France, Paris | 🌐 | [BL] 10
+  - 🇺🇸 United States, Los Angeles | [BL] 6
+  - 🇹🇷 Turkey | 🌐 | [BL] 3
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 4
   - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  - 🇫🇷 France, Paris | [BL] 17
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
-  - 🇸🇬 Singapore | 🌐 | [BL] 5
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  - 🇸🇬 Singapore | 🌐 | [BL] 6
-  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 7
   - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  - 🇸🇬 Singapore | 🌐 | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 18
-  - 🇸🇪 Sweden, Stockholm | [BL] 6
-  - 🇸🇪 Sweden, Stockholm | [BL] 7
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 32
-  - 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  - 🇭🇰 Hong Kong, Central | [BL] 2
-  - 🇫🇷 France, Paris | 🌐 | [BL] 21
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  - 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 7
-  - 🇫🇷 France, Paris | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  - 🇩🇪 Germany, Nuremberg | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 11
+  - 🇫🇷 France, Paris | [BL] 7
+  - 🇫🇷 France, Paris | 🌐 | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 10
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  - 🇹🇷 Turkey | 🌐 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  - 🇫🇷 France, Paris | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 4
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 5
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 9
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 10
+  - 🇫🇷 France, Paris | 🌐 | [BL] 13
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
+  - 🇫🇷 France, Paris | [BL] 9
+  - 🇹🇷 Turkey | 🌐 | [BL] 5
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  - 🇫🇷 France, Paris | 🌐 | [BL] 14
+  - 🇺🇸 United States, Los Angeles | [BL] 7
   - 🇫🇮 Finland, Helsinki | [BL] 11
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  - 🇳🇱 The Netherlands, Haarlem | [BL] 36
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  - 🇫🇷 France, Paris | 🌐 | [BL] 15
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 11
+  - 🇹🇷 Turkey | 🌐 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 16
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 10
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 17
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  - 🇫🇷 France, Paris | 🌐 | [BL] 18
+  - 🇫🇮 Finland, Helsinki | [BL] 12
+  - 🇫🇮 Finland, Helsinki | [BL] 13
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 12
+  - 🇺🇸 United States, Los Angeles | [BL] 8
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 12
+  - 🇫🇷 France, Paris | 🌐 | [BL] 19
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  - 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  - 🇸🇬 Singapore, Singapore | [BL]
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  - 🇫🇷 France, Paris | 🌐 | [BL] 20
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  - 🇫🇷 France, Paris | 🌐 | [BL] 21
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  - 🇺🇸 United States, Los Angeles | [BL] 9
   - 🇫🇷 France, Paris | 🌐 | [BL] 22
+  - 🇫🇷 France, Paris | [BL] 10
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
+  - 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
+  - 🇫🇮 Finland, Helsinki | [BL] 14
+  - 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  - 🇺🇸 United States, Los Angeles | [BL] 10
+  - 🇫🇷 France, Paris | [BL] 11
+  - .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  - 🇳🇱 The Netherlands, Amsterdam | [BL] 13
+  - 🇩🇪 Germany, Frankfurt am Main | [BL] 7
   - 🇫🇷 France, Paris | 🌐 | [BL] 23
+  - 🇹🇷 Turkey | 🌐 | [BL] 7
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  - 🌐 Anycast-IP | 🇫🇷 | [BL] 6
+  - 🇺🇸 United States, Los Angeles | [BL] 11
+  - 🇺🇸 United States, Los Angeles | [BL] 12
+  - 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  - 🇫🇷 France, Paris | 🌐 | [BL] 24
+  - 🇩🇪 Germany, Nuremberg | [BL] 6
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 3
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
+  - 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 4
+  - 🇫🇷 France, Paris | 🌐 | [BL] 25
+  - 🇩🇪 Germany, Nuremberg | [BL] 7
+  - 🇫🇷 France, Paris | [BL] 12
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 19
+  - 🇫🇷 France, Paris | 🌐 | [BL] 26
+  - 🇫🇷 France, Paris | 🌐 | [BL] 27
+  - 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
+  - 🇳🇱 The Netherlands, Haarlem | [BL] 20
 - name: 🎯 全球直连
   type: select
   proxies:
@@ -841,32 +936,17 @@ rules:
 proxies:
 - name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL]
   type: trojan
-  server: de-bots4.h1cloud.net
-  port: 25267
-  password: happybirthdaydaniel
+  server: 8.47.69.0
+  port: 443
+  password: humanity
   udp: true
-  sni: t.me/FuckTheWall
-  skip-cert-verify: true
-  client-fingerprint: firefox
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]
-  type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: edge
+  sni: www.pleadcourt.org
+  client-fingerprint: ios
 - name: 🇫🇷 France, Paris | 🌐 | [BL]
   type: vless
-  server: 140.248.186.45
+  server: 199.232.78.170
   port: 443
-  uuid: XpnTeam-36
+  uuid: XpnTeam-39
   cipher: zero
   udp: true
   tls: true
@@ -886,27 +966,83 @@ proxies:
   udp: true
   tls: true
   servername: ccc.010304.xyz
-  client-fingerprint: ios
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ccc.010304.xyz
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 2
+- name: 🇹🇷 Turkey | 🌐 | [BL]
   type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
   cipher: zero
   udp: true
   tls: true
-  servername: ssl.fastly.com
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
   client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: chrome
+- name: 🇺🇸 United States, Los Angeles | [BL]
+  type: trojan
+  server: su106.izzzzzi.com
+  port: 20008
+  password: 4fd2b10b6a754019
+  udp: true
+  client-fingerprint: firefox
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+  type: vmess
+  server: 20.235.220.189
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
   network: ws
   ws-opts:
-    path: /
+    path: /ws-vmess
     headers:
-      Host: Appxdn.global.ssl.fastly.net
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+- name: 🇺🇸 United States, Los Angeles | [BL] 2
+  type: trojan
+  server: ui108.pacemakere.com
+  port: 20008
+  password: 6ab93ec68bd94b76
+  udp: true
+  client-fingerprint: chrome
 - name: 🇳🇱 The Netherlands, Haarlem | [BL]
   type: trojan
   server: 45.131.4.38
@@ -914,34 +1050,94 @@ proxies:
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: ios
+  client-fingerprint: safari
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL]
+  type: vless
+  server: nl-central.v8x2b.lol
+  port: 443
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
+  client-fingerprint: safari
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL]
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: chrome
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 2
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
+  type: vless
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
 - name: 🇫🇮 Finland, Helsinki | [BL]
   type: vless
-  server: 3f8efdt.fi1.h1clayd.click
+  server: 36a466g.fi1.h1clayd.click
   port: 443
   uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
   cipher: zero
   udp: true
   tls: true
   reality-opts:
-    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
-    short-id: 023a1e6ffc32be10
-  servername: 3f8efdt.fi1.h1clayd.click
-  client-fingerprint: android
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 2
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: qq
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
   type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
-  reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: firefox
+  servername: accounts.fastly.com
+  client-fingerprint: android
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
 - name: 🇳🇱 The Netherlands, Haarlem | [BL] 2
   type: trojan
   server: 8.47.69.0
@@ -949,32 +1145,106 @@ proxies:
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL]
+  client-fingerprint: chrome
+- name: 🇫🇷 France, Paris | [BL]
   type: trojan
-  server: de-bots4.h1cloud.net
-  port: 25267
-  password: happybirthdaydaniel
+  server: 141.193.213.172
+  port: 443
+  password: humanity
   udp: true
-  sni: t.me/FuckTheWall
-  skip-cert-verify: true
+  sni: www.calmlunch.com
   client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 3
+- name: 🇫🇷 France, Paris | [BL] 2
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: firefox
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 3
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
   type: trojan
   server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: unsafe
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  client-fingerprint: safari
+- name: 🇫🇷 France, Paris | [BL] 3
   type: trojan
-  server: 8.47.69.0
+  server: 141.193.213.172
   port: 443
   password: humanity
   udp: true
-  sni: www.pleadcourt.org
+  sni: www.calmlunch.com
   client-fingerprint: qq
+- name: 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL]
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  type: vmess
+  server: 183.109.131.75
+  port: 20086
+  uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 2
+  type: vless
+  server: nl-central.v8x2b.lol
+  port: 443
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Nuremberg | [BL]
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
+  cipher: zero
+  udp: true
+  tls: true
+  servername: default.ssl.fastly.net
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
 - name: 🇫🇮 Finland, Helsinki | [BL] 2
   type: vless
   server: 3f8efdt.fi1.h1clayd.click
@@ -987,12 +1257,20 @@ proxies:
     public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
     short-id: 023a1e6ffc32be10
   servername: 3f8efdt.fi1.h1clayd.click
-  client-fingerprint: chrome
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 3
-  type: vless
-  server: 140.248.186.45
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 3
+  type: trojan
+  server: 8.47.69.0
   port: 443
-  uuid: XpnTeam-36
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: safari
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL]
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
   cipher: zero
   udp: true
   tls: true
@@ -1003,21 +1281,110 @@ proxies:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 3
+- name: 🇫🇮 Finland, Helsinki | [BL] 3
   type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
+  server: 36a466g.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: safari
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🇫🇮 Finland, Helsinki | [BL] 4
+  type: vless
+  server: 36a466g.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: firefox
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🇩🇪 Germany, Nuremberg | [BL] 2
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
+  cipher: zero
+  udp: true
+  tls: true
+  servername: default.ssl.fastly.net
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
+- name: 🇺🇸 United States, Los Angeles | [BL] 3
+  type: trojan
+  server: su106.izzzzzi.com
+  port: 20008
+  password: 4fd2b10b6a754019
+  udp: true
+  client-fingerprint: android
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 2
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
   cipher: zero
   udp: true
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-- name: 🇫🇮 Finland, Helsinki | [BL] 3
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: android
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 4
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 3
+  type: trojan
+  server: de-bots4.h1cloud.net
+  port: 25267
+  password: happybirthdaydaniel
+  udp: true
+  sni: t.me/FuckTheWall
+  skip-cert-verify: true
+  client-fingerprint: ios
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 3
+  type: vless
+  server: nl-central.v8x2b.lol
+  port: 443
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
+  client-fingerprint: ios
+- name: 🇫🇮 Finland, Helsinki | [BL] 5
   type: vless
   server: 3f8efdt.fi1.h1clayd.click
   port: 443
@@ -1029,154 +1396,22 @@ proxies:
     public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
     short-id: 023a1e6ffc32be10
   servername: 3f8efdt.fi1.h1clayd.click
-  client-fingerprint: edge
-- name: 🇫🇷 France, Paris | [BL]
+  client-fingerprint: android
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 5
   type: vless
-  server: 140.248.186.45
+  server: 199.232.78.160
   port: 443
-  uuid: XpnTeam-38
+  uuid: XpnTeam-39
   cipher: zero
   udp: true
   tls: true
   servername: ssl.fastly.com
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇸🇪 Sweden, Stockholm | [BL]
-  type: vless
-  server: jeod.figmafound.org
-  port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
   client-fingerprint: firefox
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 5
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 6
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: safari
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 4
-  type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: ios
-- name: 🇫🇷 France, Paris | [BL] 2
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: safari
   network: ws
   ws-opts:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 7
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: unsafe
-- name: 🇷🇺 Russia, Moscow | [BL]
-  type: vless
-  server: 168.113.171.57
-  port: 443
-  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU
-  servername: moscow.eosapp.net
-  client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | [BL] 4
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  cipher: zero
-  udp: true
-  tls: true
-  servername: fi1.merky.one
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /mky-ws-4f19c8a7
-    headers:
-      Host: fi1.merky.one
-- name: 🇫🇮 Finland, Helsinki | [BL] 5
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  cipher: zero
-  udp: true
-  tls: true
-  servername: fi1.merky.one
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /mky-ws-4f19c8a7
-    headers:
-      Host: fi1.merky.one
-- name: 🇷🇺 Russia, Moscow | [BL] 2
-  type: vless
-  server: 168.113.171.57
-  port: 443
-  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU
-  servername: moscow.eosapp.net
-  client-fingerprint: edge
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 2
-  type: trojan
-  server: de-bots4.h1cloud.net
-  port: 25267
-  password: happybirthdaydaniel
-  udp: true
-  sni: t.me/FuckTheWall
-  skip-cert-verify: true
-  client-fingerprint: android
 - name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 2
   type: vless
   server: 188.164.248.216
@@ -1186,35 +1421,49 @@ proxies:
   udp: true
   tls: true
   servername: ccc.010304.xyz
-  client-fingerprint: qq
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: edge
   network: ws
   ws-opts:
     path: /fp=chrome
     headers:
       Host: ccc.010304.xyz
-- name: 🇷🇺 Russia, Moscow | [BL] 3
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 4
   type: vless
-  server: 168.113.171.57
+  server: nl-central.v8x2b.lol
   port: 443
-  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
   cipher: zero
   udp: true
-  flow: xtls-rprx-vision
   tls: true
   reality-opts:
-    public-key: Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU
-  servername: moscow.eosapp.net
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
   client-fingerprint: android
-- name: 🇫🇷 France, Paris | [BL] 3
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 2
   type: vless
-  server: 140.248.186.45
+  server: 199.232.78.160
   port: 443
-  uuid: XpnTeam-38
+  uuid: XpnTeam-39
   cipher: zero
   udp: true
   tls: true
   servername: ssl.fastly.com
-  client-fingerprint: edge
+  client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
@@ -1227,12 +1476,68 @@ proxies:
   password: humanity
   udp: true
   sni: www.calmlunch.com
-  client-fingerprint: edge
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 4
-  type: vless
-  server: 140.248.186.45
+  client-fingerprint: ios
+- name: 🇫🇷 France, Paris | [BL] 5
+  type: trojan
+  server: 45.80.111.7
   port: 443
-  uuid: XpnTeam-38
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: qq
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 3
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: edge
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 6
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇹🇷 Turkey | 🌐 | [BL] 2
+  type: vless
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
+  client-fingerprint: edge
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 3
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
   cipher: zero
   udp: true
   tls: true
@@ -1243,119 +1548,14 @@ proxies:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 8
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: chrome
-- name: 🇫🇷 France, Paris | [BL] 5
+- name: 🇫🇷 France, Paris | [BL] 6
   type: trojan
   server: 141.193.213.172
   port: 443
   password: humanity
   udp: true
   sni: www.calmlunch.com
-  client-fingerprint: android
-- name: 🇫🇷 France, Paris | [BL] 6
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 5
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 6
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 7
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 8
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇸🇬 Singapore | 🌐 | [BL]
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
-  client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 9
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
+  client-fingerprint: edge
 - name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 3
   type: vless
   server: 188.164.248.216
@@ -1365,259 +1565,12 @@ proxies:
   udp: true
   tls: true
   servername: ccc.010304.xyz
-  client-fingerprint: chrome
+  client-fingerprint: firefox
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ccc.010304.xyz
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇫🇷 France, Paris | [BL] 7
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: chrome
-- name: 🇸🇪 Sweden, Stockholm | [BL] 2
-  type: vless
-  server: jeod.figmafound.org
-  port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 10
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 11
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 9
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇹🇼 Taiwan, Taipei | [BL]
-  type: hysteria2
-  server: tw40.344211.cc
-  port: 8080
-  password: 2cc3c129-34b6-4af7-ba33-7b8fca4363ea
-  udp: true
-  sni: localhost
-  skip-cert-verify: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 12
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: qq
-- name: 🇫🇷 France, Paris | [BL] 8
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: ios
-- name: 🇸🇪 Sweden, Stockholm | [BL] 3
-  type: vless
-  server: jeod.figmafound.org
-  port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
-  client-fingerprint: edge
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 10
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL]
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  cipher: zero
-  udp: true
-  tls: true
-  servername: fi1.merky.one
-  client-fingerprint: qq
-  network: ws
-  ws-opts:
-    path: /mky-ws-4f19c8a7
-    headers:
-      Host: fi1.merky.one
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇫🇷 France, Paris | [BL] 9
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: firefox
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 11
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇷🇺 Russia, Moscow | [BL] 4
-  type: vless
-  server: 168.113.171.57
-  port: 443
-  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU
-  servername: moscow.eosapp.net
-  client-fingerprint: firefox
-- name: 🇭🇰 Hong Kong, Central | [BL]
-  type: hysteria2
-  server: 29e1f1ee-tmm5c0-tncdxq-m0b9.hk3.hyhuawei.com
-  port: 443
-  password: bb85e074-b0c2-11ea-ad28-f23c913c8d2b
-  udp: true
-  sni: 29e1f1ee-tmm5c0-tncdxq-m0b9.hk3.hyhuawei.com
-  skip-cert-verify: true
-- name: 🇫🇷 France, Paris | [BL] 10
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇸🇬 Singapore | 🌐 | [BL] 2
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 13
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: safari
 - name: 🇫🇮 Finland, Helsinki | [BL] 6
   type: vless
   server: 3f8efdt.fi1.h1clayd.click
@@ -1630,12 +1583,545 @@ proxies:
     public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
     short-id: 023a1e6ffc32be10
   servername: 3f8efdt.fi1.h1clayd.click
+  client-fingerprint: ios
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 4
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇮 Finland, Helsinki | [BL] 7
+  type: vless
+  server: 36a466g.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: ios
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 2
+  type: vmess
+  server: 20.235.220.189
+  port: 443
+  uuid: f23bb427c1f94373876c2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 5
+  type: vless
+  server: nl-central.v8x2b.lol
+  port: 443
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
+  client-fingerprint: qq
+- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
+  type: vmess
+  server: 183.109.131.75
+  port: 20086
+  uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN
+- name: 🇺🇸 United States, Los Angeles | [BL] 4
+  type: trojan
+  server: ui108.pacemakere.com
+  port: 20008
+  password: 6ab93ec68bd94b76
+  udp: true
   client-fingerprint: safari
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 12
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 7
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 8
   type: vless
   server: 199.232.78.160
   port: 443
-  uuid: XpnTeam-38
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 9
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 4
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: ios
+- name: 🇺🇸 United States, Los Angeles | [BL] 5
+  type: trojan
+  server: ui108.pacemakere.com
+  port: 20008
+  password: 6ab93ec68bd94b76
+  udp: true
+  client-fingerprint: qq
+- name: 🇩🇪 Germany, Nuremberg | [BL] 3
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
+  cipher: zero
+  udp: true
+  tls: true
+  servername: default.ssl.fastly.net
+  client-fingerprint: random
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
+- name: 🇫🇮 Finland, Helsinki | [BL] 8
+  type: vless
+  server: 3f8efdt.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
+    short-id: 023a1e6ffc32be10
+  servername: 3f8efdt.fi1.h1clayd.click
+  client-fingerprint: edge
+- name: 🇩🇪 Germany, Nuremberg | [BL] 4
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
+  cipher: zero
+  udp: true
+  tls: true
+  servername: default.ssl.fastly.net
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
+- name: 🇫🇮 Finland, Helsinki | [BL] 9
+  type: vless
+  server: 3f8efdt.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
+    short-id: 023a1e6ffc32be10
+  servername: 3f8efdt.fi1.h1clayd.click
+  client-fingerprint: chrome
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 10
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇺🇸 United States, Los Angeles | [BL] 6
+  type: trojan
+  server: su106.izzzzzi.com
+  port: 20008
+  password: 4fd2b10b6a754019
+  udp: true
+  client-fingerprint: chrome
+- name: 🇹🇷 Turkey | 🌐 | [BL] 3
+  type: vless
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 4
+  type: vless
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 5
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 5
+  type: trojan
+  server: de-bots4.h1cloud.net
+  port: 25267
+  password: happybirthdaydaniel
+  udp: true
+  sni: t.me/FuckTheWall
+  skip-cert-verify: true
+  client-fingerprint: android
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 6
+  type: vless
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 4
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: safari
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: android
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 7
+  type: vless
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
+- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
+  type: vmess
+  server: 183.109.131.75
+  port: 20086
+  uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 6
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇩🇪 Germany, Nuremberg | [BL] 5
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
+  cipher: zero
+  udp: true
+  tls: true
+  servername: default.ssl.fastly.net
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 11
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL] 7
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: safari
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 12
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇮 Finland, Helsinki | [BL] 10
+  type: vless
+  server: 3f8efdt.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
+    short-id: 023a1e6ffc32be10
+  servername: 3f8efdt.fi1.h1clayd.click
+  client-fingerprint: safari
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 5
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: firefox
+- name: 🇹🇷 Turkey | 🌐 | [BL] 4
+  type: vless
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
+  client-fingerprint: android
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 7
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 8
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 9
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: android
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 8
+  type: vless
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: edge
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
+- name: 🇫🇷 France, Paris | [BL] 8
+  type: trojan
+  server: 45.80.111.7
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: firefox
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 4
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 5
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 9
+  type: trojan
+  server: de-bots4.h1cloud.net
+  port: 25267
+  password: happybirthdaydaniel
+  udp: true
+  sni: t.me/FuckTheWall
+  skip-cert-verify: true
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 10
+  type: vless
+  server: 146.75.35.19
+  port: 443
+  uuid: ea729993-45e7-4aa3-b430-0058ecd5c0d1
+  cipher: zero
+  udp: true
+  tls: true
+  servername: accounts.fastly.com
+  client-fingerprint: safari
+  network: xhttp
+  xhttp-opts:
+    path: /
+    headers:
+      Host: dayka-unkepravber.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 13
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-39
   cipher: zero
   udp: true
   tls: true
@@ -1646,56 +2132,68 @@ proxies:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇸🇪 Sweden, Stockholm | [BL] 4
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 5
   type: vless
-  server: jeod.figmafound.org
+  server: 188.164.248.216
   port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
-  client-fingerprint: android
-- name: 🌐 Anycast-IP | 🇫🇮 | [BL]
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
+  uuid: d342d11e-d224-4463-b982-532309285094
   cipher: zero
   udp: true
   tls: true
-  servername: fi1.merky.one
-  client-fingerprint: safari
+  servername: ccc.010304.xyz
+  client-fingerprint: chrome
   network: ws
   ws-opts:
-    path: /mky-ws-4f19c8a7
+    path: /
     headers:
-      Host: fi1.merky.one
-- name: 🇫🇷 France, Paris | [BL] 11
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | [BL] 9
   type: trojan
   server: 45.80.111.7
   port: 443
   password: humanity
   udp: true
   sni: www.calmlunch.com
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 14
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
   client-fingerprint: android
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 13
+- name: 🇹🇷 Turkey | 🌐 | [BL] 5
   type: vless
-  server: 140.248.186.45
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 2
+  type: vless
+  server: 199.232.78.160
   port: 443
-  uuid: XpnTeam-36
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 14
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
   cipher: zero
   udp: true
   tls: true
@@ -1706,7 +2204,99 @@ proxies:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 15
+- name: 🇺🇸 United States, Los Angeles | [BL] 7
+  type: trojan
+  server: ui108.pacemakere.com
+  port: 20008
+  password: 6ab93ec68bd94b76
+  udp: true
+  client-fingerprint: android
+- name: 🇫🇮 Finland, Helsinki | [BL] 11
+  type: vless
+  server: 3f8efdt.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
+    short-id: 023a1e6ffc32be10
+  servername: 3f8efdt.fi1.h1clayd.click
+  client-fingerprint: qq
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 3
+  type: vmess
+  server: 20.235.220.189
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+    headers:
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 15
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 11
+  type: trojan
+  server: de-bots4.h1cloud.net
+  port: 25267
+  password: happybirthdaydaniel
+  udp: true
+  sni: t.me/FuckTheWall
+  skip-cert-verify: true
+  client-fingerprint: edge
+- name: 🇹🇷 Turkey | 🌐 | [BL] 6
+  type: vless
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
+  client-fingerprint: qq
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 16
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 10
   type: trojan
   server: 8.47.69.0
   port: 443
@@ -1714,7 +2304,130 @@ proxies:
   udp: true
   sni: www.pleadcourt.org
   client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 16
+- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 6
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: ios
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 17
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 6
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: ios
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 5
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: edge
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 18
+  type: vless
+  server: 140.248.186.45
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: safari
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇮 Finland, Helsinki | [BL] 12
+  type: vless
+  server: 36a466g.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: android
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🇫🇮 Finland, Helsinki | [BL] 13
+  type: vless
+  server: 36a466g.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: edge
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 12
+  type: trojan
+  server: de-bots4.h1cloud.net
+  port: 25267
+  password: happybirthdaydaniel
+  udp: true
+  sni: t.me/FuckTheWall
+  skip-cert-verify: true
+  client-fingerprint: qq
+- name: 🇺🇸 United States, Los Angeles | [BL] 8
+  type: trojan
+  server: su106.izzzzzi.com
+  port: 20008
+  password: 4fd2b10b6a754019
+  udp: true
+  client-fingerprint: qq
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 11
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: ios
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 12
   type: trojan
   server: 8.47.69.0
   port: 443
@@ -1722,6 +2435,109 @@ proxies:
   udp: true
   sni: www.pleadcourt.org
   client-fingerprint: safari
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 19
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 13
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: chrome
+- name: 🇰🇷 South Korea, Yongsan-dong | [BL] 7
+  type: vless
+  server: 47.80.19.173
+  port: 2053
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+  cipher: zero
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  servername: gateway.icloud.com
+  client-fingerprint: qq
+- name: 🇸🇬 Singapore, Singapore | [BL]
+  type: hysteria2
+  server: 43.156.36.253
+  port: 8443
+  password: WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0
+  udp: true
+  sni: tx-hy2
+  skip-cert-verify: true
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 14
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: qq
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 20
+  type: vless
+  server: 199.232.78.170
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 6
+  type: vless
+  server: nl-central.v8x2b.lol
+  port: 443
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
+  client-fingerprint: edge
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 21
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: android
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 15
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: unsafe
 - name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 7
   type: vless
   server: 188.164.248.216
@@ -1734,42 +2550,63 @@ proxies:
   client-fingerprint: edge
   network: ws
   ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 3
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
     path: /fp=chrome
     headers:
       Host: ccc.010304.xyz
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 2
+- name: 🇺🇸 United States, Los Angeles | [BL] 9
   type: trojan
-  server: de-bots4.h1cloud.net
-  port: 25267
-  password: happybirthdaydaniel
+  server: ui108.pacemakere.com
+  port: 20008
+  password: 6ab93ec68bd94b76
   udp: true
-  sni: t.me/FuckTheWall
-  skip-cert-verify: true
+  client-fingerprint: firefox
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 22
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
   client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL] 10
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: chrome
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 6
   type: trojan
   server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇫🇮 🇬🇧 | [BL] 2
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  cipher: zero
-  udp: true
-  tls: true
-  servername: fi1.merky.one
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /mky-ws-4f19c8a7
-    headers:
-      Host: fi1.merky.one
-- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL]
+  client-fingerprint: qq
+- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
   type: vmess
   server: 183.109.131.75
   port: 20086
@@ -1778,8 +2615,211 @@ proxies:
   cipher: auto
   udp: true
   network: ws
+  ws-opts: {}
+- name: 🇫🇮 Finland, Helsinki | [BL] 14
+  type: vless
+  server: 36a466g.fi1.h1clayd.click
+  port: 443
+  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg
+    short-id: b3c9d0c6bdd114a6
+  servername: 36a466g.fi1.h1clayd.click
+  client-fingerprint: chrome
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 0adb9638509b
+- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 4
+  type: vless
+  server: 188.164.248.216
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  client-fingerprint: android
+  network: ws
   ws-opts:
-    path: /?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN
+    path: /fp=chrome
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 16
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: android
+- name: 🇺🇸 United States, Los Angeles | [BL] 10
+  type: trojan
+  server: su106.izzzzzi.com
+  port: 20008
+  password: 4fd2b10b6a754019
+  udp: true
+  client-fingerprint: safari
+- name: 🇫🇷 France, Paris | [BL] 11
+  type: trojan
+  server: 141.193.213.172
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.calmlunch.com
+  client-fingerprint: safari
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 7
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: firefox
+- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 13
+  type: trojan
+  server: de-bots4.h1cloud.net
+  port: 25267
+  password: happybirthdaydaniel
+  udp: true
+  sni: t.me/FuckTheWall
+  skip-cert-verify: true
+  client-fingerprint: chrome
+- name: 🇩🇪 Germany, Frankfurt am Main | [BL] 7
+  type: vless
+  server: nl-central.v8x2b.lol
+  port: 443
+  uuid: 846cedee-2a52-0002-a0b9-11850ead6a8b
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE
+  servername: nl-central.v8x2b.lol
+  client-fingerprint: firefox
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 23
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇹🇷 Turkey | 🌐 | [BL] 7
+  type: vless
+  server: tr2-tun.dnetopps.ir
+  port: 10060
+  uuid: 03a3d946-4738-968a-5ce9-e4f470980d47
+  cipher: zero
+  udp: true
+  tls: true
+  reality-opts:
+    public-key: uMOGVm4rvS4MgK7iefgPUJVQBgXFm0aEIQr6vGi_AX0
+    short-id: '13'
+    spider-x: /
+  servername: reality2.dnetopps.ir
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /Path
+    headers:
+      Host: HostName
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 17
+  type: trojan
+  server: 8.47.69.0
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: unsafe
+- name: 🌐 Anycast-IP | 🇫🇷 | [BL] 6
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-40
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: qq
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇺🇸 United States, Los Angeles | [BL] 11
+  type: trojan
+  server: su106.izzzzzi.com
+  port: 20008
+  password: 4fd2b10b6a754019
+  udp: true
+  client-fingerprint: ios
+- name: 🇺🇸 United States, Los Angeles | [BL] 12
+  type: trojan
+  server: ui108.pacemakere.com
+  port: 20008
+  password: 6ab93ec68bd94b76
+  udp: true
+  client-fingerprint: ios
+- name: 🇭🇰 Hong Kong, Hong Kong | [BL] 4
+  type: vmess
+  server: 20.235.220.189
+  port: 443
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  network: ws
+  ws-opts:
+    path: /ws-vmess
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 18
+  type: trojan
+  server: 45.131.4.38
+  port: 443
+  password: humanity
+  udp: true
+  sni: www.pleadcourt.org
+  client-fingerprint: android
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 24
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: XpnTeam-39
+  cipher: zero
+  udp: true
+  tls: true
+  servername: ssl.fastly.com
+  client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇩🇪 Germany, Nuremberg | [BL] 6
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
+  cipher: zero
+  udp: true
+  tls: true
+  servername: default.ssl.fastly.net
+  client-fingerprint: ios
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
 - name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 8
   type: vless
   server: 188.164.248.216
@@ -1795,134 +2835,21 @@ proxies:
     path: /fp=chrome
     headers:
       Host: ccc.010304.xyz
-- name: 🇫🇷 France, Paris | [BL] 12
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: ios
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 14
+- name: 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 3
   type: vless
-  server: 140.248.186.45
+  server: 199.232.78.160
   port: 443
-  uuid: XpnTeam-36
+  uuid: 32203a18-d3ce-5fac-a9e6-39d79159c553
   cipher: zero
   udp: true
   tls: true
   servername: ssl.fastly.com
-  client-fingerprint: firefox
+  client-fingerprint: edge
   network: ws
   ws-opts:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | [BL] 13
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: firefox
-- name: 🇸🇪 Sweden, Stockholm | [BL] 5
-  type: vless
-  server: jeod.figmafound.org
-  port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
-  client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 18
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
-- name: 🇫🇮 Finland, Helsinki | [BL] 7
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  cipher: zero
-  udp: true
-  tls: true
-  servername: fi1.merky.one
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /mky-ws-4f19c8a7
-    headers:
-      Host: fi1.merky.one
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 19
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: chrome
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 20
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 21
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🇯🇵 Japan, Shibuya City | [BL]
-  type: hysteria2
-  server: 8.209.247.109
-  port: 443
-  password: usqmqUKJFIlCmvkCNSY64L3k
-  udp: true
-  sni: bing.com
-  skip-cert-verify: true
-- name: 🇷🇺 Russia, Moscow | [BL] 5
-  type: vless
-  server: 168.113.171.57
-  port: 443
-  uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU
-  servername: moscow.eosapp.net
-  client-fingerprint: chrome
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL]
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
 - name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 9
   type: vless
   server: 188.164.248.216
@@ -1932,328 +2859,102 @@ proxies:
   udp: true
   tls: true
   servername: ccc.010304.xyz
-  client-fingerprint: android
+  client-fingerprint: firefox
   network: ws
   ws-opts:
     path: /fp=chrome
     headers:
       Host: ccc.010304.xyz
-- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 2
-  type: vmess
-  server: 183.109.131.75
-  port: 20086
-  uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN
-- name: 🇫🇮 Finland, Helsinki | [BL] 8
+- name: 🌐 Anycast-IP | 🇫🇷 🇺🇸 | [BL] 4
   type: vless
-  server: 3f8efdt.fi1.h1clayd.click
+  server: 140.248.186.45
   port: 443
-  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
-    short-id: 023a1e6ffc32be10
-  servername: 3f8efdt.fi1.h1clayd.click
-  client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 22
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: edge
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 23
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: qq
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 15
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: XpnTeam-38
+  uuid: XpnTeam-40
   cipher: zero
   udp: true
   tls: true
   servername: ssl.fastly.com
-  client-fingerprint: android
+  client-fingerprint: edge
   network: ws
   ws-opts:
     path: /
     headers:
       Host: Appxdn.global.ssl.fastly.net
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 24
-  type: trojan
-  server: 8.47.69.0
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 25
+  type: vless
+  server: 199.232.78.160
   port: 443
-  password: humanity
+  uuid: XpnTeam-40
+  cipher: zero
   udp: true
-  sni: www.pleadcourt.org
+  tls: true
+  servername: ssl.fastly.com
   client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | [BL] 9
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇩🇪 Germany, Nuremberg | [BL] 7
   type: vless
-  server: 3f8efdt.fi1.h1clayd.click
+  server: f1.greewebservices.ir
   port: 443
-  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
+  uuid: 2582857a-632b-4c4e-9b67-96213cbaf58c
   cipher: zero
   udp: true
   tls: true
-  reality-opts:
-    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
-    short-id: 023a1e6ffc32be10
-  servername: 3f8efdt.fi1.h1clayd.click
-  client-fingerprint: firefox
-- name: 🇸🇬 Singapore | 🌐 | [BL] 3
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
+  servername: default.ssl.fastly.net
   client-fingerprint: edge
-- name: 🇫🇷 France, Paris | [BL] 14
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: qq
-- name: 🇯🇵 Japan, Shibuya City | [BL] 2
-  type: hysteria2
-  server: 8.209.247.109
-  port: 443
-  password: usqmqUKJFIlCmvkCNSY64L3k
-  udp: true
-  sni: 8.209.247.109
-  skip-cert-verify: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 25
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 5
-  type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: safari
-- name: 🇫🇷 France, Paris | [BL] 15
-  type: trojan
-  server: 141.193.213.172
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: safari
-- name: 🇫🇷 France, Paris | [BL] 16
+  network: xhttp
+  xhttp-opts:
+    headers:
+      Host: Daringly-luminous-ibex-citrine.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | [BL] 12
   type: trojan
   server: 45.80.111.7
   port: 443
   password: humanity
   udp: true
   sni: www.calmlunch.com
-  client-fingerprint: safari
-- name: 🌐 Anycast-IP | 🇬🇧 🇷🇺 | [BL] 2
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /fp=chrome
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 6
-  type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: android
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 26
+  client-fingerprint: chrome
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 19
   type: trojan
-  server: 45.131.4.38
+  server: 8.47.69.0
   port: 443
   password: humanity
   udp: true
   sni: www.pleadcourt.org
-  client-fingerprint: safari
-- name: 🇫🇮 Finland, Helsinki | [BL] 10
-  type: vless
-  server: 3f8efdt.fi1.h1clayd.click
-  port: 443
-  uuid: 9a0e84f8-4b58-477f-99da-5fac5a2e58e8
-  cipher: zero
-  udp: true
-  tls: true
-  reality-opts:
-    public-key: 1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY
-    short-id: 023a1e6ffc32be10
-  servername: 3f8efdt.fi1.h1clayd.click
-  client-fingerprint: qq
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 16
+  client-fingerprint: edge
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 26
   type: vless
   server: 140.248.186.45
   port: 443
-  uuid: XpnTeam-36
+  uuid: XpnTeam-40
   cipher: zero
   udp: true
   tls: true
   servername: ssl.fastly.com
-  client-fingerprint: safari
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 17
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 18
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: ios
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇸🇬 Singapore | 🌐 | [BL] 4
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
-  client-fingerprint: ios
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 19
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 3
-  type: trojan
-  server: de-bots4.h1cloud.net
-  port: 25267
-  password: happybirthdaydaniel
-  udp: true
-  sni: t.me/FuckTheWall
-  skip-cert-verify: true
-  client-fingerprint: edge
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 20
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [BL] 4
-  type: vmess
-  server: free.ertebatgoostar.ir
-  port: 443
-  uuid: c9eab439-53bf-46e4-ba58-fc368ae1ee8c
-  alterId: 0
-  cipher: auto
-  udp: true
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 27
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
   client-fingerprint: qq
-- name: 🇫🇷 France, Paris | [BL] 17
-  type: trojan
-  server: 141.193.213.172
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
+- name: 🇫🇷 France, Paris | 🌐 | [BL] 27
+  type: vless
+  server: 199.232.78.170
   port: 443
-  password: humanity
+  uuid: XpnTeam-39
+  cipher: zero
   udp: true
-  sni: www.calmlunch.com
+  tls: true
+  servername: ssl.fastly.com
   client-fingerprint: edge
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: Appxdn.global.ssl.fastly.net
 - name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 10
   type: vless
   server: 188.164.248.216
@@ -2263,148 +2964,13 @@ proxies:
   udp: true
   tls: true
   servername: ccc.010304.xyz
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇸🇬 Singapore | 🌐 | [BL] 5
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
-  client-fingerprint: firefox
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 28
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: android
-- name: 🇸🇬 Singapore | 🌐 | [BL] 6
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
-  client-fingerprint: qq
-- name: 🌐 Anycast-IP | 🇨🇦 🇬🇧 🇷🇺 | [BL] 11
-  type: vless
-  server: 188.164.248.216
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 3
-  type: vmess
-  server: 183.109.131.75
-  port: 20086
-  uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts: {}
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 29
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: edge
-- name: 🇸🇬 Singapore | 🌐 | [BL] 7
-  type: vless
-  server: 43.156.89.197
-  port: 61000
-  uuid: f5b93de5-b756-4f87-bb1c-7e5b622688fa
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: FivAz9qw86uYacvLo5qIMnw9gQ9uKT9KIdGzhxROTSE
-    short-id: 63dac514fdfdd11c
-  servername: www.amd.com
-  client-fingerprint: android
-- name: 🇫🇷 France, Paris | [BL] 18
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: android
-- name: 🇸🇪 Sweden, Stockholm | [BL] 6
-  type: vless
-  server: jeod.figmafound.org
-  port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
-  client-fingerprint: qq
-- name: 🇸🇪 Sweden, Stockholm | [BL] 7
-  type: vless
-  server: jeod.figmafound.org
-  port: 443
-  uuid: eca11a38-47f7-4207-ac62-2f0cef3de679
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24
-    short-id: 711ad7f475c35e5e
-  servername: jeod.figmafound.org
   client-fingerprint: safari
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 30
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 31
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: ios
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 32
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ccc.010304.xyz
+- name: 🇳🇱 The Netherlands, Haarlem | [BL] 20
   type: trojan
   server: 8.47.69.0
   port: 443
@@ -2412,143 +2978,3 @@ proxies:
   udp: true
   sni: www.pleadcourt.org
   client-fingerprint: qq
-- name: 🇳🇱 The Netherlands, Amsterdam | [BL] 3
-  type: trojan
-  server: de-bots4.h1cloud.net
-  port: 25267
-  password: happybirthdaydaniel
-  udp: true
-  sni: t.me/FuckTheWall
-  skip-cert-verify: true
-  client-fingerprint: android
-- name: 🇭🇰 Hong Kong, Central | [BL] 2
-  type: hysteria2
-  server: 525b1a38-tly2o0-tn5bnx-19xg1.nw4.hyhuawei.com
-  port: 443
-  password: e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9
-  udp: true
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 21
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: edge
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 33
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: android
-- name: 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] 7
-  type: vless
-  server: tuic.moxin1245.win
-  port: 8443
-  uuid: ab5fac73-e8c3-44e3-8596-0fdab35477d1
-  cipher: zero
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  reality-opts:
-    public-key: yyp3p-OdwN1MUuviO3r1tBNMYY4giulLMDOeNLNfyhI
-    short-id: 4522e8266a24d531
-  servername: www.cloudflare.com
-  client-fingerprint: qq
-- name: 🇫🇷 France, Paris | [BL] 19
-  type: trojan
-  server: 45.80.111.7
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.calmlunch.com
-  client-fingerprint: qq
-- name: 🇫🇮 Finland, Helsinki | [BL] 11
-  type: vless
-  server: 8.6.112.0
-  port: 443
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  cipher: zero
-  udp: true
-  tls: true
-  servername: fi1.merky.one
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /mky-ws-4f19c8a7
-    headers:
-      Host: fi1.merky.one
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 34
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: android
-- name: 🇰🇷 South Korea, Seongnam-si (Buljeong-ro) | [BL] 4
-  type: vmess
-  server: 183.109.131.75
-  port: 20086
-  uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec
-  alterId: 0
-  cipher: auto
-  udp: true
-  network: ws
-  ws-opts:
-    path: /
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 35
-  type: trojan
-  server: 45.131.4.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: unsafe
-- name: 🇳🇱 The Netherlands, Haarlem | [BL] 36
-  type: trojan
-  server: 8.47.69.0
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  client-fingerprint: firefox
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 22
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-36
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: android
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
-- name: 🇫🇷 France, Paris | 🌐 | [BL] 23
-  type: vless
-  server: 140.248.186.45
-  port: 443
-  uuid: XpnTeam-38
-  cipher: zero
-  udp: true
-  tls: true
-  servername: ssl.fastly.com
-  client-fingerprint: firefox
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: Appxdn.global.ssl.fastly.net
